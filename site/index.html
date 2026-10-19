@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Station Access Guide</title>
+  <meta name="description" content="Search an Indian railway station and see its lifts, ramps, wheelchairs, battery cars and accessible toilets, from official Indian Railways data.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top">
+    <a class="brand" href="#/" aria-label="Station Access Guide, home">
+      <span class="brand-mark" aria-hidden="true">♿</span>
+      <span>Station Access Guide</span>
+    </a>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <!-- Home / search -->
+    <section id="view-search" class="view">
+      <h1 class="hero">Will this station work for you?</h1>
+      <p class="lede">Lifts, ramps, wheelchairs, battery cars and accessible toilets at Indian railway stations, from official Indian Railways data.</p>
+
+      <div class="search" role="search">
+        <label for="q" class="visually-hidden">Station name or code</label>
+        <input id="q" type="search" autocomplete="off" spellcheck="false"
+               placeholder="Station name or code, e.g. Howrah or HWH"
+               role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
+        <ul id="results" role="listbox" aria-label="Matching stations"></ul>
+      </div>
+      <p id="status" class="hint" aria-live="polite"></p>
+
+      <div class="legend" aria-label="What the marks mean">
+        <span class="pill yes"><b aria-hidden="true">✓</b> Available</span>
+        <span class="pill not_listed"><b aria-hidden="true">–</b> Not in official list</span>
+        <span class="pill unknown"><b aria-hidden="true">?</b> No data yet</span>
+      </div>
+    </section>
+
+    <!-- Station detail -->
+    <section id="view-station" class="view" hidden>
+      <a class="back" href="#/">← Search another station</a>
+      <div id="station"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>Built from accessibility PDFs published by Indian Railways. Not an official Indian Railways service, so check at the station before you rely on a facility.</p>
+    <p id="sources"></p>
+    <p><a href="https://github.com/Rr1901/station-access-guide">Source code &amp; data on GitHub</a></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

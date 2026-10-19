@@ -1,0 +1,67 @@
+{
+  "division": "Howrah",
+  "zone": "Eastern Railway",
+  "source_title": "Accessibility data – Howrah division (Eastern Railway)",
+  "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748610497959-Accessibility%20data%20HWH%20division.pdf",
+  "retrieved": "2026-10-19",
+  "method": "manual-partial",
+  "method_note": "Entered by hand from the official PDF. Lists marked complete=true were checked in full; the others contain only some of the stations the PDF names and will be replaced when the PDF is parsed.",
+  "features": {
+    "wheelchair": {
+      "complete": true,
+      "all_stations": true,
+      "note": "Kept at the help booth, enquiry booth or station manager's office."
+    },
+    "wheelchair_booking": {
+      "complete": true,
+      "stations": ["Howrah"],
+      "note": "Book by phone: 9147071681"
+    },
+    "battery_car": {
+      "complete": true,
+      "stations": ["Howrah"],
+      "note": "Old complex: 8981848695 / 8981817163 · New complex: 9007321084 / 9007321047"
+    },
+    "human_assistance": {
+      "complete": true,
+      "stations": ["Howrah"],
+      "note": "Divyangjan Sahayak / booking: 9147909366"
+    },
+    "lift": {
+      "complete": true,
+      "stations": ["Howrah", "Liluah", "Uttarpara", "Sheoraphuli", "Barddhaman", "Nabadwip Dham", "Rampurhat", "Pakur"]
+    },
+    "help_booth": {
+      "complete": true,
+      "stations": ["Howrah", "Bandel", "Barddhaman", "Rampurhat", "Pakur", "Nabadwip Dham"]
+    },
+    "ramp_fob": {
+      "complete": true,
+      "stations": ["Karnasubarna", "Lalbagh Court Road", "Bazarsau", "Miangram", "Malihati Talibpur Road", "Nabagram Kankurhati", "Tenya", "Shiblun", "Sainthia", "Bolpur"]
+    },
+    "braille_signage": {
+      "complete": true,
+      "stations": ["Howrah"]
+    },
+    "boarding_ramp": {
+      "complete": true,
+      "stations": ["Howrah"]
+    },
+    "ramp_entry": {
+      "complete": false,
+      "stations": ["Howrah", "Bally", "Bolpur", "Katwa", "Uttarpara"]
+    },
+    "accessible_toilet": {
+      "complete": false,
+      "stations": ["Howrah", "Bolpur", "Katwa", "Memari", "Rampurhat"]
+    },
+    "water_booth": {
+      "complete": false,
+      "stations": ["Howrah", "Bandel", "Barddhaman", "Katwa", "Rampurhat"]
+    },
+    "parking": {
+      "complete": false,
+      "stations": ["Howrah", "Barddhaman", "Bandel", "Rishra", "Uttarpara"]
+    }
+  }
+}
