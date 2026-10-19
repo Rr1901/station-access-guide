@@ -50,7 +50,11 @@ def build_division(div: dict, lookup: dict) -> dict[str, dict]:
         key: {canonical(s, lookup) for s in entry.get("stations", [])}
         for key, entry in feats.items()
     }
-    all_names = set().union(*listed.values()) if listed else set()
+    per_station = {
+        key: {canonical(s, lookup): v for s, v in entry.get("per_station", {}).items()}
+        for key, entry in feats.items()
+    }
+    all_names = set().union(*listed.values(), *(set(p) for p in per_station.values())) if feats else set()
 
     stations = {}
     for name in sorted(all_names):
@@ -60,14 +64,18 @@ def build_division(div: dict, lookup: dict) -> dict[str, dict]:
             if entry is None:
                 record[key] = {"status": UNKNOWN}
                 continue
-            if entry.get("all_stations") or name in listed[key]:
+            if name in per_station[key]:  # station-layout PDFs: explicit YES / NO
+                item = dict(per_station[key][name])
+            elif entry.get("all_stations") or name in listed[key]:
                 item = {"status": YES}
                 if entry.get("note"):
                     item["note"] = entry["note"]
-            elif entry.get("complete"):
+            elif entry.get("complete") and "per_station" not in entry:
                 item = {"status": NOT_LISTED}
             else:
                 item = {"status": UNKNOWN}
+                if entry.get("count_note"):
+                    item["note"] = entry["count_note"]
             record[key] = item
         stations[name] = record
     return stations

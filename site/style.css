@@ -10,6 +10,8 @@
   --yes-bg: #e3f2e7;
   --no: #6b5a2e;
   --no-bg: #f4eedc;
+  --x: #9b2c2c;
+  --x-bg: #fbe6e4;
   --unk: #55595f;
   --unk-bg: #ececec;
   --focus: #e8a317;
@@ -29,6 +31,8 @@
     --yes-bg: #1c3324;
     --no: #e1cd94;
     --no-bg: #3a331f;
+    --x: #f2a7a0;
+    --x-bg: #3d2120;
     --unk: #c1c4c9;
     --unk-bg: #2c2e32;
     color-scheme: dark;
@@ -94,6 +98,7 @@ a { color: var(--accent); }
 .pill b { font-size: 1rem; }
 .yes { background: var(--yes-bg); color: var(--yes); }
 .not_listed { background: var(--no-bg); color: var(--no); }
+.no { background: var(--x-bg); color: var(--x); }
 .unknown { background: var(--unk-bg); color: var(--unk); }
 
 .back { display: inline-block; margin: 18px 0 6px; padding: 8px 0; font-weight: 700; text-decoration: none; }

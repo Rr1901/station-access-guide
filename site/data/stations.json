@@ -26,6 +26,10 @@
    "label": "Ramp at main entry"
   },
   {
+   "key": "ramp_second",
+   "label": "Ramp at second entry"
+  },
+  {
    "key": "ramp_fob",
    "label": "Ramp at foot over bridge"
   },
@@ -46,6 +50,10 @@
    "label": "Help / enquiry booth"
   },
   {
+   "key": "braille_map",
+   "label": "Audio / Braille map"
+  },
+  {
    "key": "braille_signage",
    "label": "Braille signage"
   },
@@ -56,27 +64,45 @@
  ],
  "divisions": [
   {
+   "division": "Asansol",
+   "zone": "Eastern Railway",
+   "source_title": "Accessibility data – Asansol division (Eastern Railway)",
+   "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748659731723-ASNDivyang.pdf",
+   "retrieved": "2026-10-19",
+   "method": "parsed-station",
+   "method_note": null
+  },
+  {
    "division": "Howrah",
    "zone": "Eastern Railway",
    "source_title": "Accessibility data – Howrah division (Eastern Railway)",
    "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748610497959-Accessibility%20data%20HWH%20division.pdf",
    "retrieved": "2026-10-19",
-   "method": "manual-partial",
-   "method_note": "Entered by hand from the official PDF. Lists marked complete=true were checked in full; the others contain only some of the stations the PDF names and will be replaced when the PDF is parsed."
+   "method": "parsed-list",
+   "method_note": null
+  },
+  {
+   "division": "Sealdah",
+   "zone": "Eastern Railway",
+   "source_title": "Accessibility data – Sealdah division (Eastern Railway)",
+   "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748659654741-sdahdivyang.pdf",
+   "retrieved": "2026-10-19",
+   "method": "parsed-list",
+   "method_note": null
   }
  ],
  "stations": [
   {
-   "id": "bally",
-   "name": "Bally",
-   "code": "BLY",
+   "id": "adalpahari",
+   "name": "Adalpahari",
+   "code": "",
    "aliases": [],
    "division": "Howrah",
    "zone": "Eastern Railway",
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -93,19 +119,25 @@
     "ramp_entry": {
      "status": "yes"
     },
+    "ramp_second": {
+     "status": "unknown"
+    },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -113,6 +145,913 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "adisaptagram",
+   "name": "Adisaptagram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "agradwip",
+   "name": "Agradwip",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "ahmedpur",
+   "name": "Ahmedpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "ambalgram",
+   "name": "Ambalgram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "ambika-kalna",
+   "name": "Ambika Kalna",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "asansol",
+   "name": "Asansol",
+   "code": "ASN",
+   "aliases": [
+    "Asansol Jn"
+   ],
+   "division": "Asansol",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "At Enquiry office"
+    },
+    "wheelchair_booking": {
+     "status": "no"
+    },
+    "battery_car": {
+     "status": "no"
+    },
+    "human_assistance": {
+     "status": "no"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "At PF no. 5/6 & 7"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "yes",
+     "note": "Second side entry available"
+    },
+    "ramp_fob": {
+     "status": "yes",
+     "note": "At PF no. 1/2, 2/3 , 5/6 & 7"
+    },
+    "accessible_toilet": {
+     "status": "yes",
+     "note": "At PF NO. 1/2, 2/3 & 5/6"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes",
+     "note": "At entry to Heritage station building"
+    },
+    "help_booth": {
+     "status": "no"
+    },
+    "braille_map": {
+     "status": "no"
+    },
+    "braille_signage": {
+     "status": "no"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "azimganj-city",
+   "name": "Azimganj City",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "azimganj-jn",
+   "name": "Azimganj Jn",
+   "code": "",
+   "aliases": [
+    "Azimganj Junction"
+   ],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "baghnapara",
+   "name": "Baghnapara",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bagila",
+   "name": "Bagila",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "baidyabati",
+   "name": "Baidyabati",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "balagarh",
+   "name": "Balagarh",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "balarambati",
+   "name": "Balarambati",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "balgona",
+   "name": "Balgona",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bally",
+   "name": "Bally",
+   "code": "BLY",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "ballyghat",
+   "name": "Ballyghat",
+   "code": "",
+   "aliases": [],
+   "division": "Sealdah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown",
+     "note": "Official data says 148 stations in this division have this, but doesn't name them"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes"
+    },
+    "ramp_entry": {
+     "status": "unknown",
+     "note": "Official data says 154 stations in this division have this, but doesn't name them"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "unknown",
+     "note": "Official data says 150 stations in this division have this, but doesn't name them"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
@@ -128,7 +1067,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -143,13 +1082,16 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
      "status": "yes"
@@ -159,6 +1101,177 @@
     },
     "help_booth": {
      "status": "yes"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bansberia",
+   "name": "Bansberia",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bansloi-bridge",
+   "name": "Bansloi Bridge",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "barala",
+   "name": "Barala",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
     },
     "braille_signage": {
      "status": "not_listed"
@@ -183,7 +1296,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -198,13 +1311,16 @@
      "status": "yes"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
      "status": "yes"
@@ -214,6 +1330,177 @@
     },
     "help_booth": {
      "status": "yes"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "barmasia",
+   "name": "Barmasia",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "baruipara",
+   "name": "Baruipara",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bataspur",
+   "name": "Bataspur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
     },
     "braille_signage": {
      "status": "not_listed"
@@ -233,7 +1520,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -248,21 +1535,587 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "begampur",
+   "name": "Begampur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "behula",
+   "name": "Behula",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "belanagar",
+   "name": "Belanagar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "belerhat",
+   "name": "Belerhat",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "belmuri",
+   "name": "Belmuri",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bhandartikuri",
+   "name": "Bhandartikuri",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bhedia",
+   "name": "Bhedia",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bishnupriya",
+   "name": "Bishnupriya",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "boinchi",
+   "name": "Boinchi",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "boinchigram",
+   "name": "Boinchigram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -287,7 +2140,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -304,6 +2157,9 @@
     "ramp_entry": {
      "status": "yes"
     },
+    "ramp_second": {
+     "status": "unknown"
+    },
     "ramp_fob": {
      "status": "yes"
     },
@@ -311,12 +2167,1763 @@
      "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "bonkapasi",
+   "name": "Bonkapasi",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "chandannagar",
+   "name": "Chandannagar",
+   "code": "CGR",
+   "aliases": [
+    "Chandernagore"
+   ],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "chandanpur",
+   "name": "Chandanpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "chatra",
+   "name": "Chatra",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "chowhatta",
+   "name": "Chowhatta",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "chowrigacha",
+   "name": "Chowrigacha",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "chuchura",
+   "name": "Chuchura",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "cossimbazar",
+   "name": "Cossimbazar",
+   "code": "",
+   "aliases": [
+    "Kasimbazar"
+   ],
+   "division": "Sealdah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown",
+     "note": "Official data says 148 stations in this division have this, but doesn't name them"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes"
+    },
+    "ramp_entry": {
+     "status": "unknown",
+     "note": "Official data says 154 stations in this division have this, but doesn't name them"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "unknown",
+     "note": "Official data says 150 stations in this division have this, but doesn't name them"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "dainhat",
+   "name": "Dainhat",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "daskalgram",
+   "name": "Daskalgram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "debipur",
+   "name": "Debipur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "dhaniyakhali",
+   "name": "Dhaniyakhali",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "dhatrigram",
+   "name": "Dhatrigram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "diara",
+   "name": "Diara",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "dumurdaha",
+   "name": "Dumurdaha",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "durgapur",
+   "name": "Durgapur",
+   "code": "DGR",
+   "aliases": [],
+   "division": "Asansol",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "At Enquiry office"
+    },
+    "wheelchair_booking": {
+     "status": "no"
+    },
+    "battery_car": {
+     "status": "no"
+    },
+    "human_assistance": {
+     "status": "no"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "At PF no. 2/3 & 4/5"
+    },
+    "ramp_entry": {
+     "status": "yes",
+     "note": "At South side near entry"
+    },
+    "ramp_second": {
+     "status": "no"
+    },
+    "ramp_fob": {
+     "status": "no"
+    },
+    "accessible_toilet": {
+     "status": "no"
+    },
+    "water_booth": {
+     "status": "yes",
+     "note": "At PF no. 1, 2/3 & 4/5"
+    },
+    "parking": {
+     "status": "yes",
+     "note": "At south side"
+    },
+    "help_booth": {
+     "status": "no"
+    },
+    "braille_map": {
+     "status": "no"
+    },
+    "braille_signage": {
+     "status": "no"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "gadadharpur",
+   "name": "Gadadharpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "gangatikuri",
+   "name": "Gangatikuri",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "gangpur",
+   "name": "Gangpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "garifa",
+   "name": "Garifa",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "gobra",
+   "name": "Gobra",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "gopalpurgram",
+   "name": "Gopalpurgram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "gossaingram",
+   "name": "Gossaingram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "gumani",
+   "name": "Gumani",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "guptipara",
+   "name": "Guptipara",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "gurap",
+   "name": "Gurap",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "guskara",
+   "name": "Guskara",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "harinsingh",
+   "name": "Harinsingh",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "hazigarh",
+   "name": "Hazigarh",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "hooghly",
+   "name": "Hooghly",
+   "code": "HGY",
+   "aliases": [
+    "Hugli"
+   ],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "hooghly-ghat",
+   "name": "Hooghly Ghat",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -340,25 +3947,28 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "yes",
-     "note": "Book by phone: 9147071681"
+     "note": "Call 9147071681"
     },
     "battery_car": {
      "status": "yes",
-     "note": "Old complex: 8981848695 / 8981817163 · New complex: 9007321084 / 9007321047"
+     "note": "Call 8981848695 / 8981817163 / 9007321084 / 9007321047"
     },
     "human_assistance": {
      "status": "yes",
-     "note": "Divyangjan Sahayak / booking: 9147909366"
+     "note": "Call 9147909366"
     },
     "lift": {
      "status": "yes"
     },
     "ramp_entry": {
      "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
@@ -375,11 +3985,866 @@
     "help_booth": {
      "status": "yes"
     },
+    "braille_map": {
+     "status": "not_listed"
+    },
     "braille_signage": {
      "status": "yes"
     },
     "boarding_ramp": {
      "status": "yes"
+    }
+   }
+  },
+  {
+   "id": "islampara",
+   "name": "Islampara",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "janai-road",
+   "name": "Janai Road",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "jasidih",
+   "name": "Jasidih",
+   "code": "JSME",
+   "aliases": [
+    "Jasidih Jn"
+   ],
+   "division": "Asansol",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "At Enquiry office"
+    },
+    "wheelchair_booking": {
+     "status": "no"
+    },
+    "battery_car": {
+     "status": "no"
+    },
+    "human_assistance": {
+     "status": "no"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "At PF no. 2/3"
+    },
+    "ramp_entry": {
+     "status": "yes",
+     "note": "At north side near ATM"
+    },
+    "ramp_second": {
+     "status": "no"
+    },
+    "ramp_fob": {
+     "status": "yes",
+     "note": "At circulating area"
+    },
+    "accessible_toilet": {
+     "status": "no"
+    },
+    "water_booth": {
+     "status": "no"
+    },
+    "parking": {
+     "status": "yes",
+     "note": "At old circulating area near MFC building"
+    },
+    "help_booth": {
+     "status": "no"
+    },
+    "braille_map": {
+     "status": "no"
+    },
+    "braille_signage": {
+     "status": "no"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "jaugram",
+   "name": "Jaugram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "jhamatpur-baharan",
+   "name": "Jhamatpur Baharan",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "jhapandanga",
+   "name": "Jhapandanga",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "jhapterdhal",
+   "name": "Jhapterdhal",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "jibanti",
+   "name": "Jibanti",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "jirat",
+   "name": "Jirat",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "jnandas-kendra",
+   "name": "Jnandas Kendra",
+   "code": "",
+   "aliases": [
+    "Gnandas Kendra"
+   ],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kaichar",
+   "name": "Kaichar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kalinagar",
+   "name": "Kalinagar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kalyani-ghoshpara",
+   "name": "Kalyani Ghoshpara",
+   "code": "",
+   "aliases": [
+    "Kalyani Ghosh Para"
+   ],
+   "division": "Sealdah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown",
+     "note": "Official data says 148 stations in this division have this, but doesn't name them"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "unknown",
+     "note": "Official data says 154 stations in this division have this, but doesn't name them"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "unknown",
+     "note": "Official data says 150 stations in this division have this, but doesn't name them"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "kamarkundu",
+   "name": "Kamarkundu",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "karjana",
+   "name": "Karjana",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
     }
    }
   },
@@ -395,7 +4860,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -410,21 +4875,27 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -447,7 +4918,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -464,6 +4935,9 @@
     "ramp_entry": {
      "status": "yes"
     },
+    "ramp_second": {
+     "status": "unknown"
+    },
     "ramp_fob": {
      "status": "not_listed"
     },
@@ -474,9 +4948,857 @@
      "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "khagraghat-road",
+   "name": "Khagraghat Road",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "khamargachi",
+   "name": "Khamargachi",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "khana",
+   "name": "Khana",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "khanyan",
+   "name": "Khanyan",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kirnahar",
+   "name": "Kirnahar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kolkata",
+   "name": "Kolkata",
+   "code": "KOAA",
+   "aliases": [
+    "Kolkata Terminal",
+    "Chitpur"
+   ],
+   "division": "Sealdah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown",
+     "note": "Official data says 148 stations in this division have this, but doesn't name them"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes"
+    },
+    "ramp_entry": {
+     "status": "unknown",
+     "note": "Official data says 154 stations in this division have this, but doesn't name them"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "yes"
+    },
+    "accessible_toilet": {
+     "status": "unknown",
+     "note": "Official data says 150 stations in this division have this, but doesn't name them"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "yes"
+    },
+    "braille_map": {
+     "status": "yes"
+    },
+    "braille_signage": {
+     "status": "yes"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "komarpur",
+   "name": "Komarpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "konnagar",
+   "name": "Konnagar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kopai",
+   "name": "Kopai",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kotalpukur",
+   "name": "Kotalpukur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kuntighat",
+   "name": "Kuntighat",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kurmadanga",
+   "name": "Kurmadanga",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "kurva",
+   "name": "Kurva",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "labpur",
+   "name": "Labpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "lakshmipur",
+   "name": "Lakshmipur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -497,7 +5819,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -512,21 +5834,27 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -549,7 +5877,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -564,21 +5892,259 @@
      "status": "yes"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "lohapur",
+   "name": "Lohapur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "madhupur",
+   "name": "Madhupur",
+   "code": "MDP",
+   "aliases": [
+    "Madhupur Jn"
+   ],
+   "division": "Asansol",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "At Enquiry office"
+    },
+    "wheelchair_booking": {
+     "status": "no"
+    },
+    "battery_car": {
+     "status": "no"
+    },
+    "human_assistance": {
+     "status": "no"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "At PF no. 2/3 & 4/5"
+    },
+    "ramp_entry": {
+     "status": "yes",
+     "note": "At South side near entry"
+    },
+    "ramp_second": {
+     "status": "yes",
+     "note": "At north side circulating area"
+    },
+    "ramp_fob": {
+     "status": "yes",
+     "note": "At circulating area, at PF- 1/2 &3/4"
+    },
+    "accessible_toilet": {
+     "status": "yes",
+     "note": "Near North side ticket counter and at PF-3/4"
+    },
+    "water_booth": {
+     "status": "no"
+    },
+    "parking": {
+     "status": "yes",
+     "note": "At south side circulating area"
+    },
+    "help_booth": {
+     "status": "no"
+    },
+    "braille_map": {
+     "status": "no"
+    },
+    "braille_signage": {
+     "status": "no"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "madhusudanpur",
+   "name": "Madhusudanpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "magra",
+   "name": "Magra",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -594,14 +6160,15 @@
    "name": "Malihati Talibpur Road",
    "code": "",
    "aliases": [
-    "Malihati Talibpur"
+    "Malihati Talibpur",
+    "Malihati Tailbpur Road"
    ],
    "division": "Howrah",
    "zone": "Eastern Railway",
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -616,21 +6183,83 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "yes"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "masagram",
+   "name": "Masagram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -651,7 +6280,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -666,6 +6295,9 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
@@ -675,12 +6307,73 @@
      "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "mertala-phaleya",
+   "name": "Mertala Phaleya",
+   "code": "",
+   "aliases": [
+    "Mertalaphaleya"
+   ],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -701,7 +6394,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -716,21 +6409,251 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "mirzapur-bankipur",
+   "name": "Mirzapur-Bankipur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "mollarpur",
+   "name": "Mollarpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "moregram",
+   "name": "Moregram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "murarai",
+   "name": "Murarai",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -754,7 +6677,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -769,22 +6692,84 @@
      "status": "yes"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
      "status": "yes"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "nabagram",
+   "name": "Nabagram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "not_listed"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
     },
     "braille_signage": {
      "status": "not_listed"
@@ -804,7 +6789,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -819,21 +6804,475 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "nagarnabi",
+   "name": "Nagarnabi",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "nalhati",
+   "name": "Nalhati",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "nandaigram",
+   "name": "Nandaigram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "negun",
+   "name": "Negun",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "nimo",
+   "name": "Nimo",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "nirol",
+   "name": "Nirol",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "noadar-dhal",
+   "name": "Noadar Dhal",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "pachandi",
+   "name": "Pachandi",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -854,7 +7293,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -869,22 +7308,588 @@
      "status": "yes"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "yes"
     },
     "help_booth": {
      "status": "yes"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "palla-road",
+   "name": "Palla Road",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "palsit",
+   "name": "Palsit",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "pandua",
+   "name": "Pandua",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "patuli",
+   "name": "Patuli",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "pichkurir-dhal",
+   "name": "Pichkurir Dhal",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "pinargoria",
+   "name": "Pinargoria",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "porabazar",
+   "name": "Porabazar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "prantik",
+   "name": "Prantik",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "purbasthali",
+   "name": "Purbasthali",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "rajgram",
+   "name": "Rajgram",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
     },
     "braille_signage": {
      "status": "not_listed"
@@ -906,7 +7911,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -921,6 +7926,9 @@
      "status": "yes"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
@@ -933,10 +7941,131 @@
      "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
      "status": "yes"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "raniganj",
+   "name": "Raniganj",
+   "code": "RNG",
+   "aliases": [],
+   "division": "Asansol",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "At Station manager’s office"
+    },
+    "wheelchair_booking": {
+     "status": "no"
+    },
+    "battery_car": {
+     "status": "no"
+    },
+    "human_assistance": {
+     "status": "no"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "At PF no. 4 & 2"
+    },
+    "ramp_entry": {
+     "status": "yes",
+     "note": "At North side entry"
+    },
+    "ramp_second": {
+     "status": "yes",
+     "note": "At south side station building"
+    },
+    "ramp_fob": {
+     "status": "yes",
+     "note": "At South side circulating area,"
+    },
+    "accessible_toilet": {
+     "status": "yes",
+     "note": "at PF-4"
+    },
+    "water_booth": {
+     "status": "no"
+    },
+    "parking": {
+     "status": "yes",
+     "note": "At north side circulating area"
+    },
+    "help_booth": {
+     "status": "no"
+    },
+    "braille_map": {
+     "status": "no"
+    },
+    "braille_signage": {
+     "status": "no"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "rasulpur",
+   "name": "Rasulpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
     },
     "braille_signage": {
      "status": "not_listed"
@@ -956,7 +8085,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -971,21 +8100,139 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
      "status": "yes"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "sagardighi",
+   "name": "Sagardighi",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "sahebtala",
+   "name": "Sahebtala",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -1008,7 +8255,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -1023,21 +8270,27 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -1045,6 +8298,290 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "saktigarh",
+   "name": "Saktigarh",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "salar",
+   "name": "Salar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "samudragarh",
+   "name": "Samudragarh",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "saota",
+   "name": "Saota",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "sealdah",
+   "name": "Sealdah",
+   "code": "SDAH",
+   "aliases": [],
+   "division": "Sealdah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown",
+     "note": "Official data says 148 stations in this division have this, but doesn't name them"
+    },
+    "wheelchair_booking": {
+     "status": "yes",
+     "note": "Call 9147071681"
+    },
+    "battery_car": {
+     "status": "yes",
+     "note": "Call 9432744063"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes"
+    },
+    "ramp_entry": {
+     "status": "unknown",
+     "note": "Official data says 154 stations in this division have this, but doesn't name them"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "unknown",
+     "note": "Official data says 150 stations in this division have this, but doesn't name them"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "yes"
+    },
+    "braille_map": {
+     "status": "yes"
+    },
+    "braille_signage": {
+     "status": "yes"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
@@ -1061,7 +8598,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -1076,21 +8613,83 @@
      "status": "yes"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "shibaichandi",
+   "name": "Shibaichandi",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -1111,7 +8710,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -1126,21 +8725,705 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "shyamnagar",
+   "name": "Shyamnagar",
+   "code": "",
+   "aliases": [],
+   "division": "Sealdah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown",
+     "note": "Official data says 148 stations in this division have this, but doesn't name them"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes"
+    },
+    "ramp_entry": {
+     "status": "unknown",
+     "note": "Official data says 154 stations in this division have this, but doesn't name them"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "unknown",
+     "note": "Official data says 150 stations in this division have this, but doesn't name them"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "sikaripara",
+   "name": "Sikaripara",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "simlagarh",
+   "name": "Simlagarh",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "somrabazar",
+   "name": "Somrabazar",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "srikhanda",
+   "name": "Srikhanda",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "sripat-srikhanda",
+   "name": "Sripat Srikhanda",
+   "code": "",
+   "aliases": [
+    "Sripat Shrikhanda"
+   ],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "yes"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "srirampur",
+   "name": "Srirampur",
+   "code": "SRP",
+   "aliases": [
+    "Serampore"
+   ],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "swadhinpur",
+   "name": "Swadhinpur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "takipur",
+   "name": "Takipur",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "talandu",
+   "name": "Talandu",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "talit",
+   "name": "Talit",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "tarapith-road",
+   "name": "Tarapith Road",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -1161,7 +9444,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -1176,21 +9459,139 @@
      "status": "not_listed"
     },
     "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
      "status": "unknown"
     },
     "ramp_fob": {
      "status": "yes"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "yes"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "yes"
     },
     "parking": {
-     "status": "unknown"
+     "status": "yes"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "tilbhita",
+   "name": "Tilbhita",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "yes"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "not_listed"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
+     "status": "not_listed"
+    },
+    "braille_signage": {
+     "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "tribeni",
+   "name": "Tribeni",
+   "code": "",
+   "aliases": [],
+   "division": "Howrah",
+   "zone": "Eastern Railway",
+   "features": {
+    "wheelchair": {
+     "status": "yes",
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
+    },
+    "wheelchair_booking": {
+     "status": "not_listed"
+    },
+    "battery_car": {
+     "status": "not_listed"
+    },
+    "human_assistance": {
+     "status": "not_listed"
+    },
+    "lift": {
+     "status": "not_listed"
+    },
+    "ramp_entry": {
+     "status": "not_listed"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "not_listed"
+    },
+    "accessible_toilet": {
+     "status": "yes"
+    },
+    "water_booth": {
+     "status": "yes"
+    },
+    "parking": {
+     "status": "not_listed"
+    },
+    "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {
@@ -1211,7 +9612,7 @@
    "features": {
     "wheelchair": {
      "status": "yes",
-     "note": "Kept at the help booth, enquiry booth or station manager's office."
+     "note": "Kept at the help booth/enquiry booth/ station manager's office"
     },
     "wheelchair_booking": {
      "status": "not_listed"
@@ -1228,19 +9629,25 @@
     "ramp_entry": {
      "status": "yes"
     },
+    "ramp_second": {
+     "status": "unknown"
+    },
     "ramp_fob": {
      "status": "not_listed"
     },
     "accessible_toilet": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "water_booth": {
-     "status": "unknown"
+     "status": "not_listed"
     },
     "parking": {
      "status": "yes"
     },
     "help_booth": {
+     "status": "not_listed"
+    },
+    "braille_map": {
      "status": "not_listed"
     },
     "braille_signage": {

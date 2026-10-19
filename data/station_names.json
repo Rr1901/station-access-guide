@@ -1,26 +1,227 @@
 {
   "_comment": "Canonical name -> station code and alternate spellings. Codes are filled in only where known; an empty code means it still needs to be added. Alternate spellings let the parser and search match the way different PDFs and users write a name.",
-  "Howrah": {"code": "HWH", "aliases": ["Howrah Jn", "Haora"]},
-  "Liluah": {"code": "LLH", "aliases": ["Lilua"]},
-  "Bally": {"code": "BLY", "aliases": []},
-  "Uttarpara": {"code": "UPA", "aliases": []},
-  "Rishra": {"code": "RIS", "aliases": []},
-  "Sheoraphuli": {"code": "SHE", "aliases": ["Sheoraphuli Jn", "Seoraphuli"]},
-  "Bandel": {"code": "BDC", "aliases": ["Bandel Jn"]},
-  "Memari": {"code": "MYM", "aliases": []},
-  "Barddhaman": {"code": "BWN", "aliases": ["Bardhaman", "Burdwan", "Barddhaman Jn", "Bardhaman Jn"]},
-  "Katwa": {"code": "KWAE", "aliases": ["Katwa Jn"]},
-  "Nabadwip Dham": {"code": "NDAE", "aliases": ["Nabadwipdham", "Nabadwip"]},
-  "Bolpur": {"code": "BHP", "aliases": ["Bolpur Shantiniketan", "Bolpur S Niketan", "Shantiniketan"]},
-  "Sainthia": {"code": "SNT", "aliases": ["Sainthia Jn"]},
-  "Rampurhat": {"code": "RPH", "aliases": ["Rampurhat Jn"]},
-  "Pakur": {"code": "PKR", "aliases": []},
-  "Karnasubarna": {"code": "", "aliases": ["Karnasubarna"]},
-  "Lalbagh Court Road": {"code": "", "aliases": []},
-  "Bazarsau": {"code": "", "aliases": []},
-  "Miangram": {"code": "", "aliases": []},
-  "Malihati Talibpur Road": {"code": "", "aliases": ["Malihati Talibpur"]},
-  "Nabagram Kankurhati": {"code": "", "aliases": []},
-  "Tenya": {"code": "", "aliases": []},
-  "Shiblun": {"code": "", "aliases": []}
+  "Howrah": {
+    "code": "HWH",
+    "aliases": [
+      "Howrah Jn",
+      "Haora"
+    ]
+  },
+  "Liluah": {
+    "code": "LLH",
+    "aliases": [
+      "Lilua"
+    ]
+  },
+  "Bally": {
+    "code": "BLY",
+    "aliases": []
+  },
+  "Uttarpara": {
+    "code": "UPA",
+    "aliases": []
+  },
+  "Rishra": {
+    "code": "RIS",
+    "aliases": []
+  },
+  "Sheoraphuli": {
+    "code": "SHE",
+    "aliases": [
+      "Sheoraphuli Jn",
+      "Seoraphuli"
+    ]
+  },
+  "Bandel": {
+    "code": "BDC",
+    "aliases": [
+      "Bandel Jn"
+    ]
+  },
+  "Memari": {
+    "code": "MYM",
+    "aliases": []
+  },
+  "Barddhaman": {
+    "code": "BWN",
+    "aliases": [
+      "Bardhaman",
+      "Burdwan",
+      "Barddhaman Jn",
+      "Bardhaman Jn"
+    ]
+  },
+  "Katwa": {
+    "code": "KWAE",
+    "aliases": [
+      "Katwa Jn"
+    ]
+  },
+  "Nabadwip Dham": {
+    "code": "NDAE",
+    "aliases": [
+      "Nabadwipdham",
+      "Nabadwip"
+    ]
+  },
+  "Bolpur": {
+    "code": "BHP",
+    "aliases": [
+      "Bolpur Shantiniketan",
+      "Bolpur S Niketan",
+      "Shantiniketan"
+    ]
+  },
+  "Sainthia": {
+    "code": "SNT",
+    "aliases": [
+      "Sainthia Jn"
+    ]
+  },
+  "Rampurhat": {
+    "code": "RPH",
+    "aliases": [
+      "Rampurhat Jn"
+    ]
+  },
+  "Pakur": {
+    "code": "PKR",
+    "aliases": []
+  },
+  "Karnasubarna": {
+    "code": "",
+    "aliases": [
+      "Karnasubarna"
+    ]
+  },
+  "Lalbagh Court Road": {
+    "code": "",
+    "aliases": []
+  },
+  "Bazarsau": {
+    "code": "",
+    "aliases": []
+  },
+  "Miangram": {
+    "code": "",
+    "aliases": []
+  },
+  "Malihati Talibpur Road": {
+    "code": "",
+    "aliases": [
+      "Malihati Talibpur",
+      "Malihati Tailbpur Road"
+    ]
+  },
+  "Nabagram Kankurhati": {
+    "code": "",
+    "aliases": []
+  },
+  "Tenya": {
+    "code": "",
+    "aliases": []
+  },
+  "Shiblun": {
+    "code": "",
+    "aliases": []
+  },
+  "Jnandas Kendra": {
+    "code": "",
+    "aliases": [
+      "Gnandas Kendra"
+    ]
+  },
+  "Mertala Phaleya": {
+    "code": "",
+    "aliases": [
+      "Mertalaphaleya"
+    ]
+  },
+  "Sripat Srikhanda": {
+    "code": "",
+    "aliases": [
+      "Sripat Shrikhanda"
+    ]
+  },
+  "Azimganj Jn": {
+    "code": "",
+    "aliases": [
+      "Azimganj Junction"
+    ]
+  },
+  "Kalyani Ghoshpara": {
+    "code": "",
+    "aliases": [
+      "Kalyani Ghosh Para"
+    ]
+  },
+  "Chandannagar": {
+    "code": "CGR",
+    "aliases": [
+      "Chandernagore"
+    ]
+  },
+  "Srirampur": {
+    "code": "SRP",
+    "aliases": [
+      "Serampore"
+    ]
+  },
+  "Hooghly": {
+    "code": "HGY",
+    "aliases": [
+      "Hugli"
+    ]
+  },
+  "Sealdah": {
+    "code": "SDAH",
+    "aliases": []
+  },
+  "Kolkata": {
+    "code": "KOAA",
+    "aliases": [
+      "Kolkata Terminal",
+      "Chitpur"
+    ]
+  },
+  "Ballyghat": {
+    "code": "",
+    "aliases": []
+  },
+  "Shyamnagar": {
+    "code": "",
+    "aliases": []
+  },
+  "Cossimbazar": {
+    "code": "",
+    "aliases": [
+      "Kasimbazar"
+    ]
+  },
+  "Asansol": {
+    "code": "ASN",
+    "aliases": [
+      "Asansol Jn"
+    ]
+  },
+  "Jasidih": {
+    "code": "JSME",
+    "aliases": [
+      "Jasidih Jn"
+    ]
+  },
+  "Durgapur": {
+    "code": "DGR",
+    "aliases": []
+  },
+  "Madhupur": {
+    "code": "MDP",
+    "aliases": [
+      "Madhupur Jn"
+    ]
+  },
+  "Raniganj": {
+    "code": "RNG",
+    "aliases": []
+  }
 }

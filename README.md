@@ -20,23 +20,30 @@ data/station_names.json (codes, spellings) ─────┤
                                    site/data/stations.json ──► static site (GitHub Pages)
 ```
 
-Every feature at every station gets one of three states:
+Every feature at every station gets one of four states:
 
 | State | Meaning |
 |---|---|
-| ✓ Available | The station is named in the official list for that feature |
+| ✓ Available | The official data says the station has it (with platform/location where given) |
+| ✕ Not available | The official data explicitly says it doesn't |
 | – Not listed | We have the **complete** official list and the station isn't in it |
-| ? No data yet | We only have part of the list, so we can't say |
+| ? No data yet | The division hasn't published this detail by station |
 
-"Not listed" and "No data yet" are deliberately kept apart: a missing station in a partial list must never be shown as "no lift".
+"Not listed" and "No data yet" are deliberately kept apart: a station missing from an incomplete list must never be shown as "no lift".
 
 ## Data coverage
 
-| Division | Zone | Stations | Status |
-|---|---|---|---|
-| Howrah | Eastern Railway | 23 | Lifts, help booths, FOB ramps, battery car, wheelchair booking and Braille signage complete; toilets, water booths, entry ramps and parking partial (entered by hand) |
+169 stations from three Eastern Railway divisions, all parsed from the official PDFs:
 
-Next: parse the full Howrah PDF (about 190 stations), then Sealdah and Asansol, then the zone-wise lists published by the Railway Board.
+| Division | Stations | What the PDF gives |
+|---|---|---|
+| Howrah | 158 | Full station lists for every feature |
+| Sealdah | 6 | Names only for lifts, help booths, Braille, parking; toilets and ramps are given only as counts ("at 150 stations"), so those show as "No data yet" |
+| Asansol | 5 | Explicit YES/NO per station, with platform locations (e.g. "Lift at PF 2/3 & 4/5") |
+
+Known PDF typos (Gnandas/Jnandas Kendra, Tailbpur/Talibpur, …) are merged through aliases in `data/station_names.json`.
+
+Next: other zones' published lists (the Railway Board's Gati Shakti directorate has zone-wise files), and station codes for the smaller halts.
 
 ## Run it locally
 
@@ -55,7 +62,7 @@ python scraper/parse_pdf.py path/to/Sealdah.pdf --division Sealdah \
 python scraper/build.py
 ```
 
-Review the generated station names before committing; PDFs differ in layout. Add new codes and alternate spellings to `data/station_names.json`.
+Review the generated station names before committing. The parser detects both layouts the divisions use (feature lists and per-station blocks). Add new codes and alternate spellings to `data/station_names.json`.
 
 ## Deploying
 

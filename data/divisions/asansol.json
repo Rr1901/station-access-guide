@@ -1,0 +1,320 @@
+{
+  "division": "Asansol",
+  "zone": "Eastern Railway",
+  "source_title": "Accessibility data – Asansol division (Eastern Railway)",
+  "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748659731723-ASNDivyang.pdf",
+  "retrieved": "2026-10-19",
+  "method": "parsed-station",
+  "features": {
+    "wheelchair": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes",
+          "note": "At Enquiry office"
+        },
+        "Jasidih": {
+          "status": "yes",
+          "note": "At Enquiry office"
+        },
+        "Durgapur": {
+          "status": "yes",
+          "note": "At Enquiry office"
+        },
+        "Madhupur": {
+          "status": "yes",
+          "note": "At Enquiry office"
+        },
+        "Raniganj": {
+          "status": "yes",
+          "note": "At Station manager’s office"
+        }
+      }
+    },
+    "wheelchair_booking": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "no"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "no"
+        },
+        "Raniganj": {
+          "status": "no"
+        }
+      }
+    },
+    "battery_car": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "no"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "no"
+        },
+        "Raniganj": {
+          "status": "no"
+        }
+      }
+    },
+    "human_assistance": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "no"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "no"
+        },
+        "Raniganj": {
+          "status": "no"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes",
+          "note": "At entry to Heritage station building"
+        },
+        "Jasidih": {
+          "status": "yes",
+          "note": "At old circulating area near MFC building"
+        },
+        "Durgapur": {
+          "status": "yes",
+          "note": "At south side"
+        },
+        "Madhupur": {
+          "status": "yes",
+          "note": "At south side circulating area"
+        },
+        "Raniganj": {
+          "status": "yes",
+          "note": "At north side circulating area"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes",
+          "note": "At PF NO. 1/2, 2/3 & 5/6"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "yes",
+          "note": "Near North side ticket counter and at PF-3/4"
+        },
+        "Raniganj": {
+          "status": "yes",
+          "note": "at PF-4"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "yes",
+          "note": "At PF no. 1, 2/3 & 4/5"
+        },
+        "Madhupur": {
+          "status": "no"
+        },
+        "Raniganj": {
+          "status": "no"
+        }
+      }
+    },
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes"
+        },
+        "Jasidih": {
+          "status": "yes",
+          "note": "At north side near ATM"
+        },
+        "Durgapur": {
+          "status": "yes",
+          "note": "At South side near entry"
+        },
+        "Madhupur": {
+          "status": "yes",
+          "note": "At South side near entry"
+        },
+        "Raniganj": {
+          "status": "yes",
+          "note": "At North side entry"
+        }
+      }
+    },
+    "ramp_second": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes",
+          "note": "Second side entry available"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "yes",
+          "note": "At north side circulating area"
+        },
+        "Raniganj": {
+          "status": "yes",
+          "note": "At south side station building"
+        }
+      }
+    },
+    "ramp_fob": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes",
+          "note": "At PF no. 1/2, 2/3 , 5/6 & 7"
+        },
+        "Jasidih": {
+          "status": "yes",
+          "note": "At circulating area"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "yes",
+          "note": "At circulating area, at PF- 1/2 &3/4"
+        },
+        "Raniganj": {
+          "status": "yes",
+          "note": "At South side circulating area,"
+        }
+      }
+    },
+    "lift": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "yes",
+          "note": "At PF no. 5/6 & 7"
+        },
+        "Jasidih": {
+          "status": "yes",
+          "note": "At PF no. 2/3"
+        },
+        "Durgapur": {
+          "status": "yes",
+          "note": "At PF no. 2/3 & 4/5"
+        },
+        "Madhupur": {
+          "status": "yes",
+          "note": "At PF no. 2/3 & 4/5"
+        },
+        "Raniganj": {
+          "status": "yes",
+          "note": "At PF no. 4 & 2"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "no"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "no"
+        },
+        "Raniganj": {
+          "status": "no"
+        }
+      }
+    },
+    "braille_map": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "no"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "no"
+        },
+        "Raniganj": {
+          "status": "no"
+        }
+      }
+    },
+    "braille_signage": {
+      "complete": true,
+      "per_station": {
+        "Asansol": {
+          "status": "no"
+        },
+        "Jasidih": {
+          "status": "no"
+        },
+        "Durgapur": {
+          "status": "no"
+        },
+        "Madhupur": {
+          "status": "no"
+        },
+        "Raniganj": {
+          "status": "no"
+        }
+      }
+    }
+  }
+}

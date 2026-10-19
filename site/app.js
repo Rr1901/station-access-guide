@@ -3,12 +3,13 @@
 
   const REPO = "https://github.com/Rr1901/station-access-guide";
   const GROUPS = [
-    { title: "Getting around", keys: ["lift", "ramp_entry", "ramp_fob", "battery_car", "boarding_ramp"] },
+    { title: "Getting around", keys: ["lift", "ramp_entry", "ramp_second", "ramp_fob", "battery_car", "boarding_ramp"] },
     { title: "Help on hand", keys: ["wheelchair", "wheelchair_booking", "human_assistance", "help_booth"] },
-    { title: "Facilities", keys: ["accessible_toilet", "water_booth", "parking", "braille_signage"] },
+    { title: "Facilities", keys: ["accessible_toilet", "water_booth", "parking", "braille_signage", "braille_map"] },
   ];
   const STATUS = {
     yes: { mark: "✓", text: "Available" },
+    no: { mark: "✕", text: "Not available, according to official data" },
     not_listed: { mark: "–", text: "Not in the official list for this division" },
     unknown: { mark: "?", text: "No data yet" },
   };
@@ -38,7 +39,7 @@
       else if (nn.startsWith(nq)) best = Math.max(best, 80);
       else if (n.toLowerCase().split(/\s+/).some((w) => norm(w).startsWith(nq))) best = Math.max(best, 70);
       else if (nn.includes(nq)) best = Math.max(best, 55);
-      else if (nq.length >= 3 && subsequence(nq, nn)) best = Math.max(best, 30);
+      else if (nq.length >= 5 && subsequence(nq, nn)) best = Math.max(best, 30);
     }
     if (st.code && norm(st.code).startsWith(nq)) best = Math.max(best, 75);
     return best;
@@ -92,7 +93,7 @@
       return;
     }
     const counts = { yes: 0, not_listed: 0, unknown: 0 };
-    Object.values(st.features).forEach((f) => counts[f.status]++);
+    Object.values(st.features).forEach((f) => counts[f.status === "no" ? "not_listed" : f.status]++);
     const div = divisions[st.division] || {};
     const issue = `${REPO}/issues/new?title=${encodeURIComponent(`Correction: ${st.name}`)}&body=${encodeURIComponent(`Station: ${st.name}${st.code ? ` (${st.code})` : ""}\n\nWhat is wrong or missing?\n\n`)}`;
 
@@ -103,7 +104,7 @@
       </div>
       <div class="summary">
         <div class="yes"><strong>${counts.yes}</strong><span>available</span></div>
-        <div class="not_listed"><strong>${counts.not_listed}</strong><span>not listed</span></div>
+        <div class="not_listed"><strong>${counts.not_listed}</strong><span>not available</span></div>
         <div class="unknown"><strong>${counts.unknown}</strong><span>no data yet</span></div>
       </div>
       ${GROUPS.map((g) => `
@@ -126,7 +127,7 @@
         </section>`).join("")}
       <a class="report" href="${issue}" target="_blank" rel="noopener">Something wrong or missing? Tell us</a>
       <p class="src">Source: <a href="${esc(div.source_url || "#")}" target="_blank" rel="noopener">${esc(div.source_title || "Indian Railways")}</a>, checked ${esc(div.retrieved || "")}.
-      ${div.method === "manual-partial" ? "Some lists for this division are still partial, so “No data yet” may change." : ""}</p>`;
+      ${st.features && Object.values(st.features).some((f) => f.status === "unknown") ? "“No data yet” means this division hasn't published that detail by station." : ""}</p>`;
     document.title = `${st.name} accessibility · Station Access Guide`;
     $("st-title").focus();
   }

@@ -1,0 +1,88 @@
+{
+  "division": "Sealdah",
+  "zone": "Eastern Railway",
+  "source_title": "Accessibility data – Sealdah division (Eastern Railway)",
+  "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748659654741-sdahdivyang.pdf",
+  "retrieved": "2026-10-19",
+  "method": "parsed-list",
+  "features": {
+    "wheelchair": {
+      "complete": false,
+      "note": "Kept at the help booth/enquiry booth/station manager’s office",
+      "count_note": "Official data says 148 stations in this division have this, but doesn't name them"
+    },
+    "wheelchair_booking": {
+      "complete": true,
+      "stations": [
+        "Sealdah"
+      ],
+      "note": "Call 9147071681"
+    },
+    "battery_car": {
+      "complete": true,
+      "stations": [
+        "Sealdah"
+      ],
+      "note": "Call 9432744063"
+    },
+    "parking": {
+      "complete": true,
+      "stations": [
+        "Sealdah",
+        "Kolkata"
+      ]
+    },
+    "accessible_toilet": {
+      "complete": false,
+      "count_note": "Official data says 150 stations in this division have this, but doesn't name them"
+    },
+    "water_booth": {
+      "complete": true,
+      "stations": [
+        "Sealdah",
+        "Kalyani Ghosh Para"
+      ]
+    },
+    "ramp_entry": {
+      "complete": false,
+      "count_note": "Official data says 154 stations in this division have this, but doesn't name them"
+    },
+    "ramp_fob": {
+      "complete": true,
+      "stations": [
+        "Kolkata"
+      ]
+    },
+    "lift": {
+      "complete": true,
+      "stations": [
+        "Sealdah",
+        "Kolkata",
+        "Ballyghat",
+        "Shyamnagar",
+        "Cossimbazar"
+      ]
+    },
+    "help_booth": {
+      "complete": true,
+      "stations": [
+        "Sealdah",
+        "Kolkata"
+      ]
+    },
+    "braille_map": {
+      "complete": true,
+      "stations": [
+        "Sealdah",
+        "Kolkata"
+      ]
+    },
+    "braille_signage": {
+      "complete": true,
+      "stations": [
+        "Sealdah",
+        "Kolkata"
+      ]
+    }
+  }
+}
