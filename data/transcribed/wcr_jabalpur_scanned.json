@@ -1,0 +1,1167 @@
+{
+ "_comment": "Hand transcription of pages 9-16 of the West Central Railway PDF (WCR_Divyangjan compliance station.pdf), which are scanned images with no text layer. One block per page, cell text as printed, including the PDF's own spellings (Jabaplur, Wheetchair). Parse with scraper/parse_pdf.py like a PDF.",
+ "source_url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/GATI-SHAKTI/2025/WCR_Divyangjan%20compliance%20station.pdf",
+ "pages": "9-16",
+ "rows": [
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Kanchanpur Road (KNC)"
+  ],
+  [
+   "Category of Station",
+   "HG-3"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "NA"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "No",
+   "Halt Station"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "Yes",
+   "Available on main entrance"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second Entry Not Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "No",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Ghunwara (GNWA)"
+  ],
+  [
+   "Category of Station",
+   "HG-3"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "NA"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "No",
+   "Halt Station"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "No",
+   "Not Available"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second Entry Not Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "No",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Junheta (JHT)"
+  ],
+  [
+   "Category of Station",
+   "HG-3"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "NA"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "No",
+   "Halt Station"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "Yes",
+   "Available on main entrance"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second Entry Not Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "No",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Dangidhar (DGD)"
+  ],
+  [
+   "Category of Station",
+   "HG-3"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "NA"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "No",
+   "Halt Station"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "Yes",
+   "Available on main entrance"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second Entry Not Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "No",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Hati (HATI)"
+  ],
+  [
+   "Category of Station",
+   "HG-3"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "NA"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "No",
+   "Halt Station"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "Yes",
+   "Available on main entrance"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second Entry Not Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "No",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Sansarpur (SNRR)"
+  ],
+  [
+   "Category of Station",
+   "HG-2"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "NA"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "No",
+   "Halt Station"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "Yes",
+   "Available on main entrance"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second Entry Not Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "No",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Madhavnagar (MDRR)"
+  ],
+  [
+   "Category of Station",
+   "HG-2"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "NA"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "No",
+   "Halt Station"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "Yes",
+   "Available on main entrance"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second Entry Not Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "No",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "No",
+   "NA"
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "No",
+   "NA"
+  ],
+  [
+   "Division",
+   "Jabaplur (JBP)"
+  ],
+  [
+   "Name of Station",
+   "Kaima (KMA)"
+  ],
+  [
+   "Category of Station",
+   "NSG-6"
+  ],
+  [
+   "Sr. No.",
+   "Name of Facility",
+   "Required Category",
+   "Availability",
+   "Location (PF No. / Contact no. at station"
+  ],
+  [
+   "1",
+   "Is Wheelchair available?",
+   "NSG 1-6",
+   "Yes",
+   "Available with Station Manager office"
+  ],
+  [
+   "",
+   "Can Wheetchair be booked online",
+   "",
+   "No",
+   "Accompanaied by Porter"
+  ],
+  [
+   "2",
+   "Battery Operated Car",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "3",
+   "Human Assistance",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "Booking of Human Assistance",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "",
+   "PwD (Divyangjan) Sahayak",
+   "",
+   "NA",
+   "NA"
+  ],
+  [
+   "4",
+   "Dedicated Parking for Divyangjan",
+   "All Station",
+   "Yes",
+   "2 at Circulating Area"
+  ],
+  [
+   "5",
+   "Divyang Friendly Toilet/s",
+   "NSG 1-6",
+   "Yes",
+   "Available on PF No. 01 Beside Dy. SS Office"
+  ],
+  [
+   "6",
+   "Divyang Friendly Water Booth/s",
+   "NSG 1-4",
+   "No",
+   "NA"
+  ],
+  [
+   "7",
+   "Ramp at Main Entry",
+   "All Station",
+   "Yes",
+   "Available on PF No. 01 Main Entry"
+  ],
+  [
+   "8",
+   "Ramp at Second Entry",
+   "All Station",
+   "No",
+   "Second SideNot Available"
+  ],
+  [
+   "9",
+   "Ramp at Any other location",
+   "All Station",
+   "No",
+   "NA"
+  ],
+  [
+   "10",
+   "Ramp at Foot Over Bridges for inter platform transfer",
+   "All Station",
+   "Yes",
+   "For PF No. 1 & 2/3"
+  ],
+  [
+   "11",
+   "Available of accessible Lift/Elevator",
+   "NSG 1-3",
+   "NA",
+   "NA"
+  ],
+  [
+   "12",
+   "Available of Help Booth/Enquiry",
+   "NSG 1-6",
+   "Yes",
+   "Dy. SS (O) istructed to assist the Divyangjan Passenger as and when required."
+  ],
+  [
+   "13",
+   "Available of Audio/Visual Braille map",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "14",
+   "Available of Braille Signage",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ],
+  [
+   "15",
+   "Any other accessibility features",
+   "NSG 1-2",
+   "NA",
+   "NA"
+  ]
+ ]
+}

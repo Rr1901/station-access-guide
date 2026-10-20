@@ -8,7 +8,7 @@ sys.path.insert(0, str(ROOT / "scraper"))
 from build import build, build_division, load_names  # noqa: E402
 from parse_pdf import parse_rows, split_stations, stations_in_remark  # noqa: E402
 
-# Rows as pdfplumber's extract_tables() returns them for the two real layouts.
+# Rows as pdfplumber's extract_tables() returns them for the real layouts.
 LIST_ROWS = [
     ["Sl. No.", "Item", "Remarks"],
     ["1", "Is Wheelchair available?", "Wheel chair is available at Help Booth/Enquiry booth in all staions."],
@@ -31,6 +31,39 @@ STATION_ROWS = [
     ["3", "Human Assistance", "NO", ""],
     ["4", "Booking of human assistance", "YES", "On request"],
     ["14", "Availability of accessible Lift/Elevator", "YES", "At PF no. 2/3 & 4/5"],
+]
+
+
+# Malda: a Yes/No column, and stations named by code
+CODED_ROWS = [
+    ["1.", "Is Wheel chair available?", "Yes", "Wheel Chair available in 67 stations at Help Booth"],
+    ["5.", "Booking of human assistance?", "Yes", "With the help of licensee porters at Main stations."],
+    ["8", "Availability of accessible Lift/Elevator?", "Yes", "MLDT, BGP, JMP, JM\nQ, JMP."],
+    ["9", "Availability of Help booth/Enquiry?", "No", ""],
+    ["10", "Availability of Audio/Visual Braile map?", "Yes", "BGP"],
+]
+CODES = {"MLDT": "Malda Town", "BGP": "Bhagalpur", "JMP": "Jamalpur Jn", "JMQ": "Jamirghata"}
+
+# West Central Railway: Availability is the 5th column, after "Applicable"
+WCR_ROWS = [
+    ["Division", "", "BHOPAL", "HALT STATION"],
+    ["Name of station", "", "RAGHOGARH"],
+    ["Sr. No.", "Name of facility", "Applicability category", "Applicable", "Availability", "Location"],
+    ["1", "Is wheel chair available", "NSG 1-6", "NO", "NOT APPLICABLE", ""],
+    ["4", "Dedicated parking for Divyangjan", "All stations", "YES", "YES", "IN CIRCULATING AREA"],
+    ["8", "Ramp at Second Entry", "All stations", "YES", "YES", "NO SECOND ENTRY"],
+    ["Name of Station", "Bayana (BXN)"],
+    ["Sr. No.", "Name of Facility", "Required Category", "Availability YES/NO", "Locaton", "Remark"],
+    ["7", "Ramp at Main Entry", "All stns", "AVAILABLE", "Location (s)", "Under ABSS work"],
+    ["", "Can Wheetchair be booked online", "", "NO", "Accompanied by Porter", ""],
+]
+
+# Pune: one row per station
+GRID_ROWS = [
+    ["SN", "Station", "STN Code", "Category", "No of Wheel chairs", "Lifts", "Escalator", "Ramp in FOB/Subway"],
+    ["Norms", "", "", "", "NSG1 to NSG6", "NSG1 to NSG3", "NSG1 to NSG3", "NSG 1 to 3"],
+    ["1", "Pune", "Pune", "NSG-1", "Available", "work is under progress.", "Available", "Available"],
+    ["34", "NIRA", "NIRA", "NSG 6", "Available", "Not applicable", "Not applicable", "being provided in ABSS"],
 ]
 
 
@@ -68,6 +101,43 @@ def test_station_layout():
     assert f["human_assistance"]["per_station"]["Madhupur"]["status"] == "yes"  # any YES wins
 
 
+def test_coded_list_layout():
+    found = {}
+    layout, f = parse_rows(CODED_ROWS, CODES, found)
+    assert layout == "list"
+    assert f["lift"]["stations"] == ["Malda Town", "Bhagalpur", "Jamalpur Jn", "Jamirghata"]  # "JM\nQ" rejoined
+    assert found["Jamirghata"] == "JMQ"
+    assert f["braille_map"]["stations"] == ["Bhagalpur"]                 # single code, "Braile" typo
+    assert f["help_booth"] == {"complete": True, "stations": []}         # explicit No
+    assert "67" in f["wheelchair"]["count_note"]
+    assert f["human_assistance"]["complete"] is False                     # yes, but no station named
+    assert "Main" not in f["human_assistance"].get("stations", [])
+
+
+def test_wcr_station_layout():
+    found = {}
+    layout, f = parse_rows(WCR_ROWS, None, found)
+    assert layout == "station"
+    assert f["wheelchair"]["per_station"]["Raghogarh"]["status"] == "no"
+    assert "require" in f["wheelchair"]["per_station"]["Raghogarh"]["note"]
+    assert f["parking"]["per_station"]["Raghogarh"] == {"status": "yes", "note": "In circulating area"}
+    assert f["ramp_second"]["per_station"]["Raghogarh"]["status"] == "no"   # "YES" but no second entry
+    assert f["ramp_entry"]["per_station"]["Bayana"] == {"status": "yes", "note": "Under ABSS work"}
+    assert f["wheelchair_booking"]["per_station"]["Bayana"]["status"] == "no"
+    assert found == {"Bayana": "BXN"}
+
+
+def test_grid_layout():
+    found = {}
+    layout, f = parse_rows(GRID_ROWS, None, found)
+    assert layout == "grid"
+    assert f["lift"]["per_station"]["Pune"] == {"status": "no", "note": "Work in progress"}
+    assert f["escalator"]["per_station"]["Pune"]["status"] == "yes"
+    assert f["lift"]["per_station"]["Nira"]["status"] == "no"
+    assert "Amrit Bharat" in f["ramp_fob"]["per_station"]["Nira"]["note"]
+    assert found == {"Nira": "NIRA"}                                     # "Pune" in the code column isn't a code
+
+
 def test_statuses_and_aliases():
     _, lookup = load_names()
     div = {"features": {
@@ -84,9 +154,14 @@ def test_statuses_and_aliases():
 
 def test_real_build():
     data = build()
-    names = [s["name"] for s in data["stations"]]
-    assert len(names) == len(set(names))
-    by = {s["name"]: s for s in data["stations"]}
+    ids = [s["id"] for s in data["stations"]]
+    assert len(ids) == len(set(ids))
+    pairs = [(s["name"], s["division"]) for s in data["stations"]]
+    assert len(pairs) == len(set(pairs))
+    by = {s["name"]: s for s in data["stations"] if s["name"] != "Madhavnagar"}
+    assert {s["code"] for s in data["stations"] if s["name"] == "Madhavnagar"} == {"MDVR", "MDRR"}
+    assert by["Malda Town"]["features"]["ramp_second"]["status"] == "yes"      # "Malda." alias
+    assert by["Sainagar Shirdi"]["code"] == "SNSI"
     assert by["Howrah"]["code"] == "HWH" and by["Howrah"]["features"]["lift"]["status"] == "yes"
     assert by["Asansol"]["features"]["battery_car"]["status"] == "no"
     assert by["Sealdah"]["features"]["battery_car"]["status"] == "yes"

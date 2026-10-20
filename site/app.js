@@ -3,9 +3,9 @@
 
   const REPO = "https://github.com/Rr1901/station-access-guide";
   const GROUPS = [
-    { title: "Getting around", keys: ["lift", "ramp_entry", "ramp_second", "ramp_fob", "battery_car", "boarding_ramp"] },
+    { title: "Getting around", keys: ["lift", "escalator", "ramp_entry", "ramp_second", "ramp_fob", "battery_car", "boarding_ramp"] },
     { title: "Help on hand", keys: ["wheelchair", "wheelchair_booking", "human_assistance", "help_booth"] },
-    { title: "Facilities", keys: ["accessible_toilet", "water_booth", "parking", "braille_signage", "braille_map"] },
+    { title: "Facilities", keys: ["accessible_toilet", "water_booth", "parking", "low_counter", "tactile_path", "braille_signage", "braille_map"] },
   ];
   const STATUS = {
     yes: { mark: "✓", text: "Available" },

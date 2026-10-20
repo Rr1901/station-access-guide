@@ -1,0 +1,673 @@
+{
+  "division": "Jabalpur",
+  "zone": "West Central Railway",
+  "source_title": "Accessibility data – Jabalpur division (West Central Railway)",
+  "source_url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/GATI-SHAKTI/2025/WCR_Divyangjan%20compliance%20station.pdf",
+  "retrieved": "2026-10-20",
+  "method": "parsed-station",
+  "features": {
+    "wheelchair": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "yes",
+          "note": "Available with Station Manager office"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "yes",
+          "note": "Available with Station Manager office"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "yes",
+          "note": "Available with Station Manager office"
+        }
+      }
+    },
+    "wheelchair_booking": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "no"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "no"
+        }
+      }
+    },
+    "battery_car": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanchanpur Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghunwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Junheta": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dangidhar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hati": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sansarpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kaima": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "human_assistance": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanchanpur Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghunwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Junheta": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dangidhar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hati": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sansarpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kaima": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "yes",
+          "note": "Two Parking lots available at Circulating/Parking Area"
+        },
+        "Damoy": {
+          "status": "no"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no"
+        },
+        "Bhadanpur": {
+          "status": "no"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "yes",
+          "note": "2 at Circulating Area"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "yes",
+          "note": "Available on PF No. 01 KTE end."
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "yes",
+          "note": "Available on PF No. 01 Beside Dy. SS Office"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "yes",
+          "note": "Available on all PF's"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "no"
+        }
+      }
+    },
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "yes",
+          "note": "Available on PF No. 01 Main Entry"
+        },
+        "Damoy": {
+          "status": "yes",
+          "note": "Available on Main Entrance"
+        },
+        "Shankarpur Bhadora": {
+          "status": "yes",
+          "note": "Available on Main Entrance"
+        },
+        "Bhadanpur": {
+          "status": "yes",
+          "note": "Available on PF No. 01 Main Entry"
+        },
+        "Kanchanpur Road": {
+          "status": "yes",
+          "note": "Available on main entrance"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "yes",
+          "note": "Available on main entrance"
+        },
+        "Dangidhar": {
+          "status": "yes",
+          "note": "Available on main entrance"
+        },
+        "Hati": {
+          "status": "yes",
+          "note": "Available on main entrance"
+        },
+        "Sansarpur": {
+          "status": "yes",
+          "note": "Available on main entrance"
+        },
+        "Madhavnagar": {
+          "status": "yes",
+          "note": "Available on main entrance"
+        },
+        "Kaima": {
+          "status": "yes",
+          "note": "Available on PF No. 01 Main Entry"
+        }
+      }
+    },
+    "ramp_second": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "no"
+        },
+        "Damoy": {
+          "status": "no"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no"
+        },
+        "Bhadanpur": {
+          "status": "no"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "no"
+        }
+      }
+    },
+    "ramp_fob": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "yes",
+          "note": "For PF No. 1 & 2/3"
+        },
+        "Damoy": {
+          "status": "no"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no"
+        },
+        "Bhadanpur": {
+          "status": "yes",
+          "note": "For PF No. 1 & 2/3"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "yes",
+          "note": "For PF No. 1 & 2/3"
+        }
+      }
+    },
+    "lift": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "yes",
+          "note": "Dy. SS (O) istructed to assist the Divyangjan Passenger as and when required."
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "yes",
+          "note": "Dy. SS (O) istructed to assist the Divyangjan Passenger as and when required."
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "yes",
+          "note": "Dy. SS (O) istructed to assist the Divyangjan Passenger as and when required."
+        }
+      }
+    },
+    "braille_map": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "braille_signage": {
+      "complete": true,
+      "per_station": {
+        "Beohari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Damoy": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shankarpur Bhadora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhadanpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanchanpur Road": {
+          "status": "no"
+        },
+        "Ghunwara": {
+          "status": "no"
+        },
+        "Junheta": {
+          "status": "no"
+        },
+        "Dangidhar": {
+          "status": "no"
+        },
+        "Hati": {
+          "status": "no"
+        },
+        "Sansarpur": {
+          "status": "no"
+        },
+        "Madhavnagar": {
+          "status": "no"
+        },
+        "Kaima": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Beohari": "BEHR",
+    "Bhadanpur": "BUU",
+    "Damoy": "DMYA",
+    "Dangidhar": "DGD",
+    "Ghunwara": "GNWA",
+    "Hati": "HATI",
+    "Junheta": "JHT",
+    "Kaima": "KMA",
+    "Kanchanpur Road": "KNC",
+    "Madhavnagar": "MDRR",
+    "Sansarpur": "SNRR",
+    "Shankarpur Bhadora": "SKBR"
+  }
+}

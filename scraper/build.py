@@ -84,17 +84,23 @@ def build_division(div: dict, lookup: dict) -> dict[str, dict]:
 def build(divisions_dir: Path = DIVISIONS_DIR, names_file: Path = NAMES_FILE) -> dict:
     canon, lookup = load_names(names_file)
     out_divisions, out_stations = [], []
+    seen_ids: set[str] = set()
     for path in sorted(divisions_dir.glob("*.json")):
         div = json.loads(path.read_text(encoding="utf-8"))
         out_divisions.append({k: div.get(k) for k in
                               ("division", "zone", "source_title", "source_url",
                                "retrieved", "method", "method_note")})
+        codes = {canonical(n, lookup): c for n, c in div.get("station_codes", {}).items()}
         for name, features in build_division(div, lookup).items():
             info = canon.get(name, {})
+            code = info.get("code") or codes.get(name, "")
+            # the same name in two divisions (Madhavnagar: Pune and Jabalpur) needs two pages
+            sid = slug(name) if slug(name) not in seen_ids else slug(f"{name} {code or div['division']}")
+            seen_ids.add(sid)
             out_stations.append({
-                "id": slug(name),
+                "id": sid,
                 "name": name,
-                "code": info.get("code", ""),
+                "code": code,
                 "aliases": info.get("aliases", []),
                 "division": div["division"],
                 "zone": div["zone"],

@@ -1,0 +1,612 @@
+{
+  "division": "Bhopal",
+  "zone": "West Central Railway",
+  "source_title": "Accessibility data – Bhopal division (West Central Railway)",
+  "source_url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/GATI-SHAKTI/2025/WCR_Divyangjan%20compliance%20station.pdf",
+  "retrieved": "2026-10-20",
+  "method": "parsed-station",
+  "features": {
+    "wheelchair": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "yes",
+          "note": "Available at Help booth/Enquiry Booth"
+        },
+        "Chochora Binaganj": {
+          "status": "yes",
+          "note": "Available at Help booth/Enquiry Booth"
+        }
+      }
+    },
+    "wheelchair_booking": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "no"
+        },
+        "Chochora Binaganj": {
+          "status": "no"
+        }
+      }
+    },
+    "battery_car": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chochora Binaganj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "human_assistance": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chochora Binaganj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Lukwasa": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Udyankhedi": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Chauhani": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Tarawata": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Raiser Jagir": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Khonker": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Khajuri": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Kumbhraj": {
+          "status": "yes",
+          "note": "On main entry"
+        },
+        "Chochora Binaganj": {
+          "status": "yes",
+          "note": "On main entry"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "yes",
+          "note": "On main platform"
+        },
+        "Chochora Binaganj": {
+          "status": "yes",
+          "note": "On main platform"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chochora Binaganj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "yes"
+        },
+        "Lukwasa": {
+          "status": "yes"
+        },
+        "Udyankhedi": {
+          "status": "yes"
+        },
+        "Chauhani": {
+          "status": "yes"
+        },
+        "Tarawata": {
+          "status": "yes"
+        },
+        "Raiser Jagir": {
+          "status": "yes"
+        },
+        "Khonker": {
+          "status": "yes"
+        },
+        "Khajuri": {
+          "status": "yes"
+        },
+        "Kumbhraj": {
+          "status": "yes",
+          "note": "In main station building"
+        },
+        "Chochora Binaganj": {
+          "status": "yes",
+          "note": "In main station building"
+        }
+      }
+    },
+    "ramp_second": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no"
+        },
+        "Lukwasa": {
+          "status": "no"
+        },
+        "Udyankhedi": {
+          "status": "no"
+        },
+        "Chauhani": {
+          "status": "no"
+        },
+        "Tarawata": {
+          "status": "no"
+        },
+        "Raiser Jagir": {
+          "status": "no"
+        },
+        "Khonker": {
+          "status": "no"
+        },
+        "Khajuri": {
+          "status": "no"
+        },
+        "Kumbhraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chochora Binaganj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "ramp_fob": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no"
+        },
+        "Lukwasa": {
+          "status": "no"
+        },
+        "Udyankhedi": {
+          "status": "no"
+        },
+        "Chauhani": {
+          "status": "no"
+        },
+        "Tarawata": {
+          "status": "no"
+        },
+        "Raiser Jagir": {
+          "status": "no"
+        },
+        "Khonker": {
+          "status": "no"
+        },
+        "Khajuri": {
+          "status": "no"
+        },
+        "Kumbhraj": {
+          "status": "no"
+        },
+        "Chochora Binaganj": {
+          "status": "no"
+        }
+      }
+    },
+    "lift": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chochora Binaganj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "yes",
+          "note": "Through dy ss on duty"
+        },
+        "Chochora Binaganj": {
+          "status": "yes",
+          "note": "Through dy ss on duty"
+        }
+      }
+    },
+    "braille_map": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chochora Binaganj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "braille_signage": {
+      "complete": true,
+      "per_station": {
+        "Raghogarh": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lukwasa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Udyankhedi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chauhani": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Tarawata": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Raiser Jagir": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khonker": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khajuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kumbhraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chochora Binaganj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    }
+  }
+}

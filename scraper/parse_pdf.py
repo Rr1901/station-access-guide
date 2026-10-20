@@ -6,14 +6,28 @@ Divisions publish this data in two different table layouts, and both are handled
   lists the stations that have it -
       | 8 | Availability of accessible Lift/Elevator | Howrah, Liluah, Uttarpara ... |
 
-* station layout (e.g. Asansol): one block per station, with YES/NO and a location -
+  Some divisions (e.g. Malda) add a Yes/No column and name stations by code -
+      | 8 | Availability of accessible Lift/Elevator? | Yes | MLDT, BGP, JMP ... |
+
+* station layout (e.g. Asansol, West Central Railway): one block per station, with
+  YES/NO and a location; the Availability column is found from the header row -
       | Name of station | Asansol |
       | 14 | Availability of accessible Lift/Elevator | YES | At PF no. 5/6 & 7 |
+
+* grid layout (e.g. Pune): one row per station, one column per feature -
+      | SN | Station | STN Code | Category | No of Wheel chairs | ... | Lifts | ...
+      | 2  | Kolhapur | KOP     | NSG-3    | Available          | ... | Not applicable |
 
 Usage:
     python scraper/parse_pdf.py path/to/file.pdf --division Howrah \
         --zone "Eastern Railway" --source-url https://... \
-        --out data/divisions/howrah.json
+        --out data/divisions/howrah.json [--pages 1-8,30-31] [--codes stations.json]
+
+--pages applies to every PDF given; a .json transcription is always read whole.
+
+The input can also be a .json list of table rows, for scanned pages transcribed
+by hand (see data/transcribed/). --codes takes the datameet station list
+(https://github.com/datameet/railways, CC0) to turn station codes into names.
 """
 from __future__ import annotations
 
@@ -34,6 +48,12 @@ PHONE = re.compile(r"\b[6-9]\d{9}\b")
 # "at 150 stations", "in 148 nos of stations": a count with no names
 COUNT_ONLY = re.compile(r"\b(\d+)\s*(nos\.?\s*(of\s*)?)?stations?\b", re.I)
 ALL_STATIONS = re.compile(r"\ball\s+sta\w*ions?\b", re.I)  # also catches the typo "staions"
+CODE_LIST = re.compile(r"[A-Z]{2,5}(\s*,\s*[A-Z\s]{2,7})*[\s.]*")  # "BGP", "AKN, BDAG, JM\nQ, ..."
+NA_NOTE = "Not provided: the railways don't require this at a station of this size"
+# Unfilled template text in the location column of the West Central Railway forms
+PLACEHOLDER = re.compile(r"^(na|location\s*\(s\)|at platform no/s\W*|no\. of parking.*|location to be .*|"
+                         r"location of help booth to be indicated|specify the features.*|"
+                         r"secondary side entry available/not available|phon no\..*|not applicable)$", re.I)
 
 
 def feature_for(item: str) -> str | None:
@@ -48,15 +68,57 @@ def _cell(c) -> str:
     return re.sub(r"\s+", " ", (c or "")).strip()
 
 
-def extract_rows(pdf_path: Path) -> list[list[str]]:
+def parse_pages(spec: str | None) -> set[int] | None:
+    """"1-8,30-31" -> {1, ..., 8, 30, 31}"""
+    if not spec:
+        return None
+    pages = set()
+    for part in spec.split(","):
+        a, _, b = part.partition("-")
+        pages.update(range(int(a), int(b or a) + 1))
+    return pages
+
+
+def extract_rows(pdf_path: Path, pages: set[int] | None = None) -> list[list[str]]:
+    if pdf_path.suffix == ".json":  # hand-transcribed scanned pages
+        return [[_cell(c) for c in r] for r in json.loads(pdf_path.read_text(encoding="utf-8"))["rows"]]
+
     import pdfplumber  # imported here so tests don't need it
 
     rows = []
     with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            for table in page.extract_tables():
-                rows.extend([_cell(c) for c in r] for r in table)
+        for n, page in enumerate(pdf.pages, 1):
+            if pages and n not in pages:
+                continue
+            page_rows = [[_cell(c) for c in r] for t in page.extract_tables() for r in t]
+            if not any(r and r[0].lower().startswith("name of station") for r in page_rows):
+                # some forms print the station heading above the table, as plain text
+                for line in (page.extract_text() or "").splitlines():
+                    if m := re.match(r"\s*(Division|Name of Station)\s*:?\s*(\S.*)", line, re.I):
+                        rows.append([m.group(1), m.group(2)])
+            rows.extend(page_rows)
     return rows
+
+
+def load_codes(path: Path | None) -> dict[str, str]:
+    """datameet stations.json -> {"MLDT": "Malda Town", ...}"""
+    if not path:
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return {f["properties"]["code"]: " ".join(w.capitalize() for w in f["properties"]["name"].split())
+            for f in data["features"] if f["properties"].get("code") and f["properties"].get("name")}
+
+
+def answer(cell: str) -> str | None:
+    """YES / No / "N o" / NOT APPLICABLE / AVAILABLE -> "yes" | "no" | "na" """
+    t = re.sub(r"[\s.]+", " ", cell or "").strip().lower()
+    if t in ("yes", "available", "avl"):
+        return "yes"
+    if t in ("no", "n o", "not available"):
+        return "no"
+    if t in ("na", "n a", "not applicable", "not application"):
+        return "na"
+    return None
 
 
 # ---------- station names ----------
@@ -66,6 +128,8 @@ def clean_name(token: str) -> str | None:
     token = re.sub(r"\s+", " ", token).strip(" .-&")
     if not token or re.search(r"\d", token):
         return None
+    if token.isupper() and len(token) > 5:  # "RAGHOGARH" -> "Raghogarh"; short tokens may be codes
+        token = token.lower()
     if token.lower() in NOISE or len(token) < 3 or len(token) > 40 or len(token.split()) > 4:
         return None
     # "Mertala phaleya" -> "Mertala Phaleya", "Azimganj jn" -> "Azimganj Jn"
@@ -113,12 +177,28 @@ def _merge(features: dict, key: str, entry: dict) -> None:
         cur["all_stations"] = True
 
 
-def parse_list_rows(rows: list[list[str]]) -> dict:
+def stations_from_codes(remark: str, codes: dict, found: dict) -> list[str]:
+    out = []
+    for code in re.sub(r"\s+", "", remark).strip(".").split(","):
+        code = code.strip(".")
+        if code:
+            name = codes.get(code, code)
+            found[name] = code
+            out.append(name)
+    return list(dict.fromkeys(out))
+
+
+def parse_list_rows(rows: list[list[str]], codes: dict | None = None, found: dict | None = None) -> dict:
+    codes = codes or {}
+    found = found if found is not None else {}
     features: dict = {}
     for row in rows:
         if len(row) < 3:
             continue
         item, remark = row[1], row[2]
+        said = None
+        if len(row) > 3 and (said := answer(row[2])) or len(row) > 3 and not row[2]:
+            remark = row[3]  # | 8 | Item | Yes | MLDT, BGP ... |
         if "any other accessibility" in item.lower():
             # free text like "Howrah-Boarding Ramp"
             if re.search(r"boarding\s+ramp", remark, re.I):
@@ -128,11 +208,13 @@ def parse_list_rows(rows: list[list[str]]) -> dict:
         key = feature_for(item)
         if not key:
             continue
-        if not remark:
+        if not remark and said != "no":
             continue  # blank cell: the division gave no information
         entry: dict = {"complete": True}
-        if re.fullmatch(r"nil\.?", remark, re.I):
+        if re.fullmatch(r"nil\.?", remark, re.I) or said == "no" and not CODE_LIST.fullmatch(remark):
             entry["stations"] = []
+        elif CODE_LIST.fullmatch(remark):
+            entry["stations"] = stations_from_codes(remark, codes, found)
         elif ALL_STATIONS.search(remark):
             entry["all_stations"] = True
         elif (m := COUNT_ONLY.search(remark)) and not re.search(r"[A-Z][a-z]+,", remark):
@@ -140,6 +222,9 @@ def parse_list_rows(rows: list[list[str]]) -> dict:
             entry["count_note"] = f"Official data says {m.group(1)} stations in this division have this, but doesn't name them"
         else:
             entry["stations"] = stations_in_remark(remark)
+            if said == "yes" and not entry["stations"]:
+                # "Yes - With the help of licensee porters at Main stations": no names given
+                entry = {"complete": False, "count_note": f"Official data says yes, without naming stations: “{remark.rstrip('.')}”"}
         phones = PHONE.findall(remark)
         if phones:
             entry["note"] = "Call " + " / ".join(dict.fromkeys(phones))
@@ -151,53 +236,133 @@ def parse_list_rows(rows: list[list[str]]) -> dict:
 
 # ---------- station layout ----------
 
-def parse_station_rows(rows: list[list[str]]) -> dict:
+def station_heading(value: str, found: dict) -> str | None:
+    """"Bayana (BXN)" -> "Bayana" (recording the code); "RAGHOGARH HALT STATION" -> "Raghogarh" """
+    value = re.sub(r"^\s*:\s*", "", value)
+    code = None
+    if m := re.search(r"\(([A-Z]{2,5})\)", value):
+        code = m.group(1)
+        value = value[:m.start()]
+    value = re.sub(r"\s+halt(\s+station)?\s*$", "", value.strip(), flags=re.I)
+    name = clean_name(value)
+    if name and code:
+        found[name] = code
+    return name
+
+
+def station_item(said: str, location: str, remark: str) -> dict:
+    notes = [t for t in (location, remark) if t and not PLACEHOLDER.match(t.strip(" .")) and answer(t) is None]
+    text = " · ".join(notes)
+    # "YES" for a ramp at a second entry that doesn't exist, or an FOB at a one-platform station
+    if said == "yes" and re.search(r"no second entry|second (side ?)?entry not available|only one platform", text, re.I):
+        said = "no"
+    if said == "na":
+        return {"status": "no", "note": NA_NOTE}
+    item = {"status": said}
+    if text and said == "yes":  # a location next to a NO is a form-filling slip, not information
+        item["note"] = text[:1].upper() + text[1:].lower() if text.isupper() else text
+    return item
+
+
+def parse_station_rows(rows: list[list[str]], found: dict | None = None) -> dict:
+    found = found if found is not None else {}
     features: dict = {}
     station = None
+    col = 2  # Availability column; Asansol's forms have it third, WCR's vary
     for row in rows:
-        if len(row) < 3:
+        if len(row) < 2:
             continue
         if row[0].lower().startswith("name of station"):
-            station = clean_name(row[2] or row[1])
+            value = next((c for c in row[1:] if c), "") or row[0][len("name of station"):]
+            station = station_heading(value, found)
             continue
-        if not station:
+        hdr = [i for i, c in enumerate(row) if re.fullmatch(r"availability(\s+yes/no)?", c, re.I)]
+        if hdr:
+            col = hdr[0]
+            continue
+        if not station or len(row) <= col:
             continue
         key = feature_for(row[1])
-        answer = row[2].strip().upper() if len(row) > 2 else ""
-        if not key or answer not in ("YES", "NO"):
+        said = answer(row[col])
+        if not key or not said:
             continue
-        location = row[3] if len(row) > 3 else ""
+        item = station_item(said, *(row[col + 1:col + 3] + ["", ""])[:2])
         entry = features.setdefault(key, {"complete": True, "per_station": {}})
         prev = entry["per_station"].get(station)
-        status = "yes" if answer == "YES" else "no"
         if prev and prev["status"] == "yes":
             continue  # several rows can map to one feature; any YES wins
-        item = {"status": status}
-        if location and status == "yes":
-            item["note"] = location
         entry["per_station"][station] = item
     return features
 
 
+# ---------- grid layout ----------
+
+def grid_item(cell: str) -> dict | None:
+    t = cell.lower()
+    if re.search(r"being provided|will be provided|under progress|under construction", t):
+        return {"status": "no", "note": "Being provided under the Amrit Bharat Station Scheme"
+                if "abss" in t else "Work in progress"}
+    said = answer(cell)
+    if said == "na":
+        return {"status": "no", "note": NA_NOTE}
+    if said:
+        return {"status": said}
+    if cell.strip().isdigit():
+        return {"status": "yes" if int(cell) else "no"}
+    return None
+
+
+def parse_grid_rows(rows: list[list[str]], found: dict | None = None) -> dict:
+    found = found if found is not None else {}
+    features: dict = {}
+    columns: dict[int, str] = {}
+    for row in rows:
+        if len(row) > 3 and row[1].lower() == "station":
+            columns = {i: k for i, c in enumerate(row) if i > 3 and (k := feature_for(c))}
+            continue
+        if not columns or not row[0].isdigit():
+            continue
+        station = clean_name(row[1].title() if row[1].isupper() else row[1])  # "NIRA"
+        if not station:
+            continue
+        if re.fullmatch(r"[A-Z]{2,5}", row[2]):
+            found[station] = row[2]
+        for i, key in columns.items():
+            if i < len(row) and (item := grid_item(row[i])):
+                features.setdefault(key, {"complete": True, "per_station": {}})["per_station"][station] = item
+    return features
+
+
 def detect_layout(rows: list[list[str]]) -> str:
+    if any(len(r) > 3 and r[1].lower() == "station" and "code" in r[2].lower() for r in rows):
+        return "grid"
     return "station" if any(r and r[0].lower().startswith("name of station") for r in rows) else "list"
 
 
-def parse_rows(rows: list[list[str]]) -> tuple[str, dict]:
+def parse_rows(rows: list[list[str]], codes: dict | None = None, found: dict | None = None) -> tuple[str, dict]:
     layout = detect_layout(rows)
-    return layout, (parse_station_rows(rows) if layout == "station" else parse_list_rows(rows))
+    if layout == "grid":
+        return layout, parse_grid_rows(rows, found)
+    if layout == "station":
+        return layout, parse_station_rows(rows, found)
+    return layout, parse_list_rows(rows, codes, found)
 
 
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("pdf", type=Path)
+    ap.add_argument("pdf", type=Path, nargs="+", help="one or more PDFs / transcribed .json files")
     ap.add_argument("--division", required=True)
     ap.add_argument("--zone", required=True)
     ap.add_argument("--source-url", required=True)
     ap.add_argument("--out", type=Path, required=True)
+    ap.add_argument("--pages", help="only these pages, e.g. 1-8,30-31")
+    ap.add_argument("--codes", type=Path, help="datameet stations.json, to resolve station codes")
     args = ap.parse_args(argv)
 
-    layout, features = parse_rows(extract_rows(args.pdf))
+    found: dict = {}
+    codes = load_codes(args.codes)
+    rows = [r for path in args.pdf for r in extract_rows(path, parse_pages(args.pages))]
+    layout, features = parse_rows(rows, codes, found)
     doc = {
         "division": args.division,
         "zone": args.zone,
@@ -207,6 +372,11 @@ def main(argv=None) -> int:
         "method": f"parsed-{layout}",
         "features": features,
     }
+    if found:
+        doc["station_codes"] = dict(sorted(found.items()))
+        unresolved = sorted(c for n, c in found.items() if n == c)
+        if unresolved:
+            print(f"Codes with no name in --codes (kept as codes): {', '.join(unresolved)}")
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(doc, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     counts = {k: len(v.get("stations", v.get("per_station", []))) for k, v in features.items()}

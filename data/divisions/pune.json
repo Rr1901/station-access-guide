@@ -1,0 +1,4843 @@
+{
+  "division": "Pune",
+  "zone": "Central Railway",
+  "source_title": "Accessibility data – Pune division (Central Railway)",
+  "source_url": "https://cr.indianrailways.gov.in/cris//uploads/files/1748408015007-Station%20wise%20divyangjan%20amenities.pdf",
+  "retrieved": "2026-10-20",
+  "method": "parsed-grid",
+  "features": {
+    "wheelchair": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "yes"
+        },
+        "Karad": {
+          "status": "yes"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "yes"
+        },
+        "Jejuri": {
+          "status": "yes"
+        },
+        "Jaysingpur": {
+          "status": "yes"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "yes"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "yes"
+        },
+        "Lonand": {
+          "status": "yes"
+        },
+        "Ambale": {
+          "status": "yes"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "yes"
+        },
+        "Valivade": {
+          "status": "yes"
+        },
+        "Bhilavdi": {
+          "status": "yes"
+        },
+        "Alandi": {
+          "status": "yes"
+        },
+        "Bhavaninagar": {
+          "status": "yes"
+        },
+        "Daundaj": {
+          "status": "yes"
+        },
+        "Phursungi": {
+          "status": "yes"
+        },
+        "Jarandeswar": {
+          "status": "yes"
+        },
+        "Koregaon": {
+          "status": "yes"
+        },
+        "Loni": {
+          "status": "yes"
+        },
+        "Masur": {
+          "status": "yes"
+        },
+        "Nandre": {
+          "status": "yes"
+        },
+        "Nira": {
+          "status": "yes"
+        },
+        "Patas": {
+          "status": "yes"
+        },
+        "Palsi": {
+          "status": "yes"
+        },
+        "Rajewadi": {
+          "status": "yes"
+        },
+        "Rukadi": {
+          "status": "yes"
+        },
+        "Rahimatpur": {
+          "status": "yes"
+        },
+        "Shindavane": {
+          "status": "yes"
+        },
+        "Shirvade": {
+          "status": "yes"
+        },
+        "Salpa": {
+          "status": "yes"
+        },
+        "Shenoli": {
+          "status": "yes"
+        },
+        "Targaon": {
+          "status": "yes"
+        },
+        "Takari": {
+          "status": "yes"
+        },
+        "Valha": {
+          "status": "yes"
+        },
+        "Wathar": {
+          "status": "yes"
+        },
+        "Yevat": {
+          "status": "yes"
+        },
+        "Sasvad Road": {
+          "status": "yes"
+        },
+        "Akolner": {
+          "status": "yes"
+        },
+        "Belwandi": {
+          "status": "yes"
+        },
+        "Chitali": {
+          "status": "yes"
+        },
+        "Kanhegaon": {
+          "status": "yes"
+        },
+        "Kasthi": {
+          "status": "yes"
+        },
+        "Puntamba": {
+          "status": "yes"
+        },
+        "Padhegaon": {
+          "status": "yes"
+        },
+        "Ranjangaon Road": {
+          "status": "yes"
+        },
+        "Rahuri": {
+          "status": "yes"
+        },
+        "Srigondaroad": {
+          "status": "yes"
+        },
+        "Sarola": {
+          "status": "yes"
+        },
+        "Vambori": {
+          "status": "yes"
+        },
+        "Vilad": {
+          "status": "yes"
+        },
+        "Visapur": {
+          "status": "yes"
+        },
+        "Yeola": {
+          "status": "yes"
+        },
+        "Chinchwad": {
+          "status": "yes"
+        },
+        "Akurdi": {
+          "status": "yes"
+        },
+        "Begdewadi": {
+          "status": "yes"
+        },
+        "Dapodi": {
+          "status": "yes"
+        },
+        "Dehu Road": {
+          "status": "yes"
+        },
+        "Ghorawadi": {
+          "status": "yes"
+        },
+        "Khadki": {
+          "status": "yes"
+        },
+        "Kamshet": {
+          "status": "yes"
+        },
+        "Kasarwadi": {
+          "status": "yes"
+        },
+        "Malavli": {
+          "status": "yes"
+        },
+        "Pimpri": {
+          "status": "yes"
+        },
+        "Shivajinagar": {
+          "status": "yes"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "yes"
+        },
+        "Kanhe": {
+          "status": "yes"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "low_counter": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "no"
+        },
+        "Ahmednagar": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Daund": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Kopargaon": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Karad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jejuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jaysingpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Uruli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lonand": {
+          "status": "yes"
+        },
+        "Ambale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valivade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhilavdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Alandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhavaninagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daundaj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phursungi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jarandeswar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Koregaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Masur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nandre": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nira": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Patas": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Palsi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rajewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rukadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahimatpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shindavane": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirvade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Salpa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shenoli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Targaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Takari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valha": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wathar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yevat": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sasvad Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akolner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belwandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chitali": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasthi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Puntamba": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Padhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ranjangaon Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Srigondaroad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sarola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vambori": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vilad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Visapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yeola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chinchwad": {
+          "status": "yes"
+        },
+        "Akurdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Begdewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dapodi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dehu Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghorawadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khadki": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kamshet": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Malavli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Pimpri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shivajinagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "yes"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "yes"
+        },
+        "Karad": {
+          "status": "yes"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "yes"
+        },
+        "Jejuri": {
+          "status": "yes"
+        },
+        "Jaysingpur": {
+          "status": "yes"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "yes"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "yes"
+        },
+        "Lonand": {
+          "status": "yes"
+        },
+        "Ambale": {
+          "status": "yes"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "yes"
+        },
+        "Valivade": {
+          "status": "yes"
+        },
+        "Bhilavdi": {
+          "status": "yes"
+        },
+        "Alandi": {
+          "status": "yes"
+        },
+        "Bhavaninagar": {
+          "status": "yes"
+        },
+        "Daundaj": {
+          "status": "yes"
+        },
+        "Phursungi": {
+          "status": "yes"
+        },
+        "Jarandeswar": {
+          "status": "yes"
+        },
+        "Koregaon": {
+          "status": "yes"
+        },
+        "Loni": {
+          "status": "yes"
+        },
+        "Masur": {
+          "status": "yes"
+        },
+        "Nandre": {
+          "status": "yes"
+        },
+        "Nira": {
+          "status": "yes"
+        },
+        "Patas": {
+          "status": "yes"
+        },
+        "Palsi": {
+          "status": "yes"
+        },
+        "Rajewadi": {
+          "status": "yes"
+        },
+        "Rukadi": {
+          "status": "yes"
+        },
+        "Rahimatpur": {
+          "status": "yes"
+        },
+        "Shindavane": {
+          "status": "yes"
+        },
+        "Shirvade": {
+          "status": "yes"
+        },
+        "Salpa": {
+          "status": "yes"
+        },
+        "Shenoli": {
+          "status": "yes"
+        },
+        "Targaon": {
+          "status": "yes"
+        },
+        "Takari": {
+          "status": "yes"
+        },
+        "Valha": {
+          "status": "yes"
+        },
+        "Wathar": {
+          "status": "yes"
+        },
+        "Yevat": {
+          "status": "yes"
+        },
+        "Sasvad Road": {
+          "status": "yes"
+        },
+        "Akolner": {
+          "status": "yes"
+        },
+        "Belwandi": {
+          "status": "yes"
+        },
+        "Chitali": {
+          "status": "yes"
+        },
+        "Kanhegaon": {
+          "status": "yes"
+        },
+        "Kasthi": {
+          "status": "yes"
+        },
+        "Puntamba": {
+          "status": "yes"
+        },
+        "Padhegaon": {
+          "status": "yes"
+        },
+        "Ranjangaon Road": {
+          "status": "yes"
+        },
+        "Rahuri": {
+          "status": "yes"
+        },
+        "Srigondaroad": {
+          "status": "yes"
+        },
+        "Sarola": {
+          "status": "yes"
+        },
+        "Vambori": {
+          "status": "yes"
+        },
+        "Vilad": {
+          "status": "yes"
+        },
+        "Visapur": {
+          "status": "yes"
+        },
+        "Yeola": {
+          "status": "yes"
+        },
+        "Chinchwad": {
+          "status": "yes"
+        },
+        "Akurdi": {
+          "status": "yes"
+        },
+        "Begdewadi": {
+          "status": "yes"
+        },
+        "Dapodi": {
+          "status": "yes"
+        },
+        "Dehu Road": {
+          "status": "yes"
+        },
+        "Ghorawadi": {
+          "status": "yes"
+        },
+        "Khadki": {
+          "status": "yes"
+        },
+        "Kamshet": {
+          "status": "yes"
+        },
+        "Kasarwadi": {
+          "status": "yes"
+        },
+        "Malavli": {
+          "status": "yes"
+        },
+        "Pimpri": {
+          "status": "yes"
+        },
+        "Shivajinagar": {
+          "status": "yes"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "yes"
+        },
+        "Kanhe": {
+          "status": "yes"
+        },
+        "Manjri Budruk": {
+          "status": "yes"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "yes"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "yes"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "yes"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "yes"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "yes"
+        },
+        "Karad": {
+          "status": "yes"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "yes"
+        },
+        "Jejuri": {
+          "status": "yes"
+        },
+        "Jaysingpur": {
+          "status": "yes"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "yes"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "yes"
+        },
+        "Lonand": {
+          "status": "yes"
+        },
+        "Ambale": {
+          "status": "no"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "no"
+        },
+        "Valivade": {
+          "status": "yes"
+        },
+        "Bhilavdi": {
+          "status": "yes"
+        },
+        "Alandi": {
+          "status": "yes"
+        },
+        "Bhavaninagar": {
+          "status": "yes"
+        },
+        "Daundaj": {
+          "status": "yes"
+        },
+        "Phursungi": {
+          "status": "yes"
+        },
+        "Jarandeswar": {
+          "status": "no"
+        },
+        "Koregaon": {
+          "status": "yes"
+        },
+        "Loni": {
+          "status": "yes"
+        },
+        "Masur": {
+          "status": "yes"
+        },
+        "Nandre": {
+          "status": "yes"
+        },
+        "Nira": {
+          "status": "yes"
+        },
+        "Patas": {
+          "status": "yes"
+        },
+        "Palsi": {
+          "status": "yes"
+        },
+        "Rajewadi": {
+          "status": "yes"
+        },
+        "Rukadi": {
+          "status": "yes"
+        },
+        "Rahimatpur": {
+          "status": "yes"
+        },
+        "Shindavane": {
+          "status": "yes"
+        },
+        "Shirvade": {
+          "status": "yes"
+        },
+        "Salpa": {
+          "status": "yes"
+        },
+        "Shenoli": {
+          "status": "yes"
+        },
+        "Targaon": {
+          "status": "yes"
+        },
+        "Takari": {
+          "status": "yes"
+        },
+        "Valha": {
+          "status": "yes"
+        },
+        "Wathar": {
+          "status": "yes"
+        },
+        "Yevat": {
+          "status": "yes"
+        },
+        "Sasvad Road": {
+          "status": "yes"
+        },
+        "Akolner": {
+          "status": "yes"
+        },
+        "Belwandi": {
+          "status": "yes"
+        },
+        "Chitali": {
+          "status": "yes"
+        },
+        "Kanhegaon": {
+          "status": "yes"
+        },
+        "Kasthi": {
+          "status": "yes"
+        },
+        "Puntamba": {
+          "status": "yes"
+        },
+        "Padhegaon": {
+          "status": "yes"
+        },
+        "Ranjangaon Road": {
+          "status": "no"
+        },
+        "Rahuri": {
+          "status": "yes"
+        },
+        "Srigondaroad": {
+          "status": "yes"
+        },
+        "Sarola": {
+          "status": "yes"
+        },
+        "Vambori": {
+          "status": "no"
+        },
+        "Vilad": {
+          "status": "yes"
+        },
+        "Visapur": {
+          "status": "yes"
+        },
+        "Yeola": {
+          "status": "yes"
+        },
+        "Chinchwad": {
+          "status": "yes"
+        },
+        "Akurdi": {
+          "status": "no"
+        },
+        "Begdewadi": {
+          "status": "yes"
+        },
+        "Dapodi": {
+          "status": "yes"
+        },
+        "Dehu Road": {
+          "status": "yes"
+        },
+        "Ghorawadi": {
+          "status": "yes"
+        },
+        "Khadki": {
+          "status": "yes"
+        },
+        "Kamshet": {
+          "status": "yes"
+        },
+        "Kasarwadi": {
+          "status": "yes"
+        },
+        "Malavli": {
+          "status": "no"
+        },
+        "Pimpri": {
+          "status": "yes"
+        },
+        "Shivajinagar": {
+          "status": "yes"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "yes"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "yes"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "yes"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "yes"
+        },
+        "Karad": {
+          "status": "yes"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "yes"
+        },
+        "Jejuri": {
+          "status": "yes"
+        },
+        "Jaysingpur": {
+          "status": "yes"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "yes"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "yes"
+        },
+        "Lonand": {
+          "status": "yes"
+        },
+        "Ambale": {
+          "status": "yes"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "yes"
+        },
+        "Valivade": {
+          "status": "yes"
+        },
+        "Bhilavdi": {
+          "status": "yes"
+        },
+        "Alandi": {
+          "status": "yes"
+        },
+        "Bhavaninagar": {
+          "status": "yes"
+        },
+        "Daundaj": {
+          "status": "yes"
+        },
+        "Phursungi": {
+          "status": "yes"
+        },
+        "Jarandeswar": {
+          "status": "yes"
+        },
+        "Koregaon": {
+          "status": "yes"
+        },
+        "Loni": {
+          "status": "yes"
+        },
+        "Masur": {
+          "status": "yes"
+        },
+        "Nandre": {
+          "status": "yes"
+        },
+        "Nira": {
+          "status": "yes"
+        },
+        "Patas": {
+          "status": "yes"
+        },
+        "Palsi": {
+          "status": "yes"
+        },
+        "Rajewadi": {
+          "status": "yes"
+        },
+        "Rukadi": {
+          "status": "yes"
+        },
+        "Rahimatpur": {
+          "status": "yes"
+        },
+        "Shindavane": {
+          "status": "yes"
+        },
+        "Shirvade": {
+          "status": "yes"
+        },
+        "Salpa": {
+          "status": "yes"
+        },
+        "Shenoli": {
+          "status": "yes"
+        },
+        "Targaon": {
+          "status": "yes"
+        },
+        "Takari": {
+          "status": "yes"
+        },
+        "Valha": {
+          "status": "yes"
+        },
+        "Wathar": {
+          "status": "yes"
+        },
+        "Yevat": {
+          "status": "yes"
+        },
+        "Sasvad Road": {
+          "status": "yes"
+        },
+        "Akolner": {
+          "status": "yes"
+        },
+        "Belwandi": {
+          "status": "yes"
+        },
+        "Chitali": {
+          "status": "yes"
+        },
+        "Kanhegaon": {
+          "status": "yes"
+        },
+        "Kasthi": {
+          "status": "yes"
+        },
+        "Puntamba": {
+          "status": "yes"
+        },
+        "Padhegaon": {
+          "status": "yes"
+        },
+        "Ranjangaon Road": {
+          "status": "yes"
+        },
+        "Rahuri": {
+          "status": "yes"
+        },
+        "Srigondaroad": {
+          "status": "yes"
+        },
+        "Sarola": {
+          "status": "yes"
+        },
+        "Vambori": {
+          "status": "yes"
+        },
+        "Vilad": {
+          "status": "yes"
+        },
+        "Visapur": {
+          "status": "yes"
+        },
+        "Yeola": {
+          "status": "yes"
+        },
+        "Chinchwad": {
+          "status": "yes"
+        },
+        "Akurdi": {
+          "status": "yes"
+        },
+        "Begdewadi": {
+          "status": "yes"
+        },
+        "Dapodi": {
+          "status": "yes"
+        },
+        "Dehu Road": {
+          "status": "yes"
+        },
+        "Ghorawadi": {
+          "status": "yes"
+        },
+        "Khadki": {
+          "status": "yes"
+        },
+        "Kamshet": {
+          "status": "yes"
+        },
+        "Kasarwadi": {
+          "status": "yes"
+        },
+        "Malavli": {
+          "status": "yes"
+        },
+        "Pimpri": {
+          "status": "yes"
+        },
+        "Shivajinagar": {
+          "status": "yes"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "yes"
+        },
+        "Kanhe": {
+          "status": "yes"
+        },
+        "Manjri Budruk": {
+          "status": "yes"
+        },
+        "Vishrambaug": {
+          "status": "yes"
+        },
+        "Shirsai": {
+          "status": "yes"
+        },
+        "Khutbav": {
+          "status": "yes"
+        },
+        "Katphal": {
+          "status": "yes"
+        },
+        "Kadethan": {
+          "status": "yes"
+        },
+        "Maladgaon": {
+          "status": "yes"
+        },
+        "Amnapur": {
+          "status": "yes"
+        },
+        "Madhavnagar": {
+          "status": "yes"
+        },
+        "Nimshirgaon": {
+          "status": "yes"
+        },
+        "Surwadi": {
+          "status": "yes"
+        },
+        "Taradgaon": {
+          "status": "yes"
+        },
+        "Phaltan": {
+          "status": "yes"
+        },
+        "Amalner": {
+          "status": "yes"
+        },
+        "Hatola": {
+          "status": "yes"
+        },
+        "Kada": {
+          "status": "yes"
+        },
+        "New Ashti": {
+          "status": "yes"
+        },
+        "New Dhanora": {
+          "status": "yes"
+        },
+        "New Loni": {
+          "status": "yes"
+        },
+        "Narayandoho": {
+          "status": "yes"
+        },
+        "Solapurwadi": {
+          "status": "yes"
+        },
+        "Wetalwadi": {
+          "status": "yes"
+        }
+      }
+    },
+    "lift": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "no",
+          "note": "Work in progress"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Satara": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Karad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Baramati": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatkanangale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jejuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jaysingpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kedgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kirloskarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Uruli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lonand": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ambale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hadapsar": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Daund Chord Line": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valivade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhilavdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Alandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhavaninagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daundaj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phursungi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jarandeswar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Koregaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Masur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nandre": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nira": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Patas": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Palsi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rajewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rukadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahimatpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shindavane": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirvade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Salpa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shenoli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Targaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Takari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valha": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wathar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yevat": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sasvad Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akolner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belwandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chitali": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasthi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Puntamba": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Padhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ranjangaon Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Srigondaroad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sarola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vambori": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vilad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Visapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yeola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chinchwad": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Akurdi": {
+          "status": "yes"
+        },
+        "Begdewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dapodi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dehu Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghorawadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khadki": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kamshet": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Malavli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Pimpri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shivajinagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Talegaon": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Vadgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "escalator": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "no"
+        },
+        "Ahmednagar": {
+          "status": "no"
+        },
+        "Daund": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Kopargaon": {
+          "status": "no"
+        },
+        "Sainagar Shirdih": {
+          "status": "no"
+        },
+        "Sangli": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Satara": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Karad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Baramati": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatkanangale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jejuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jaysingpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kedgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kirloskarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Uruli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lonand": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ambale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hadapsar": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Daund Chord Line": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valivade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhilavdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Alandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhavaninagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daundaj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phursungi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jarandeswar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Koregaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Masur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nandre": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nira": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Patas": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Palsi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rajewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rukadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahimatpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shindavane": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirvade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Salpa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shenoli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Targaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Takari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valha": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wathar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yevat": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sasvad Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akolner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belwandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chitali": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasthi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Puntamba": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Padhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ranjangaon Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Srigondaroad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sarola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vambori": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vilad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Visapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yeola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chinchwad": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Akurdi": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Begdewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dapodi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dehu Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghorawadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khadki": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kamshet": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Malavli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Pimpri": {
+          "status": "yes"
+        },
+        "Shivajinagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Talegaon": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Vadgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "yes"
+        },
+        "Karad": {
+          "status": "yes"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "yes"
+        },
+        "Jejuri": {
+          "status": "yes"
+        },
+        "Jaysingpur": {
+          "status": "yes"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "yes"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "yes"
+        },
+        "Lonand": {
+          "status": "yes"
+        },
+        "Ambale": {
+          "status": "yes"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "yes"
+        },
+        "Valivade": {
+          "status": "yes"
+        },
+        "Bhilavdi": {
+          "status": "yes"
+        },
+        "Alandi": {
+          "status": "yes"
+        },
+        "Bhavaninagar": {
+          "status": "yes"
+        },
+        "Daundaj": {
+          "status": "yes"
+        },
+        "Phursungi": {
+          "status": "yes"
+        },
+        "Jarandeswar": {
+          "status": "yes"
+        },
+        "Koregaon": {
+          "status": "yes"
+        },
+        "Loni": {
+          "status": "yes"
+        },
+        "Masur": {
+          "status": "yes"
+        },
+        "Nandre": {
+          "status": "yes"
+        },
+        "Nira": {
+          "status": "yes"
+        },
+        "Patas": {
+          "status": "yes"
+        },
+        "Palsi": {
+          "status": "yes"
+        },
+        "Rajewadi": {
+          "status": "yes"
+        },
+        "Rukadi": {
+          "status": "yes"
+        },
+        "Rahimatpur": {
+          "status": "yes"
+        },
+        "Shindavane": {
+          "status": "yes"
+        },
+        "Shirvade": {
+          "status": "yes"
+        },
+        "Salpa": {
+          "status": "yes"
+        },
+        "Shenoli": {
+          "status": "yes"
+        },
+        "Targaon": {
+          "status": "yes"
+        },
+        "Takari": {
+          "status": "yes"
+        },
+        "Valha": {
+          "status": "yes"
+        },
+        "Wathar": {
+          "status": "yes"
+        },
+        "Yevat": {
+          "status": "yes"
+        },
+        "Sasvad Road": {
+          "status": "yes"
+        },
+        "Akolner": {
+          "status": "yes"
+        },
+        "Belwandi": {
+          "status": "yes"
+        },
+        "Chitali": {
+          "status": "yes"
+        },
+        "Kanhegaon": {
+          "status": "yes"
+        },
+        "Kasthi": {
+          "status": "yes"
+        },
+        "Puntamba": {
+          "status": "yes"
+        },
+        "Padhegaon": {
+          "status": "yes"
+        },
+        "Ranjangaon Road": {
+          "status": "yes"
+        },
+        "Rahuri": {
+          "status": "yes"
+        },
+        "Srigondaroad": {
+          "status": "yes"
+        },
+        "Sarola": {
+          "status": "yes"
+        },
+        "Vambori": {
+          "status": "yes"
+        },
+        "Vilad": {
+          "status": "yes"
+        },
+        "Visapur": {
+          "status": "yes"
+        },
+        "Yeola": {
+          "status": "yes"
+        },
+        "Chinchwad": {
+          "status": "yes"
+        },
+        "Akurdi": {
+          "status": "yes"
+        },
+        "Begdewadi": {
+          "status": "yes"
+        },
+        "Dapodi": {
+          "status": "yes"
+        },
+        "Dehu Road": {
+          "status": "yes"
+        },
+        "Ghorawadi": {
+          "status": "yes"
+        },
+        "Khadki": {
+          "status": "yes"
+        },
+        "Kamshet": {
+          "status": "yes"
+        },
+        "Kasarwadi": {
+          "status": "yes"
+        },
+        "Malavli": {
+          "status": "yes"
+        },
+        "Pimpri": {
+          "status": "yes"
+        },
+        "Shivajinagar": {
+          "status": "yes"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "yes"
+        },
+        "Kanhe": {
+          "status": "yes"
+        },
+        "Manjri Budruk": {
+          "status": "yes"
+        },
+        "Vishrambaug": {
+          "status": "yes"
+        },
+        "Shirsai": {
+          "status": "yes"
+        },
+        "Khutbav": {
+          "status": "yes"
+        },
+        "Katphal": {
+          "status": "yes"
+        },
+        "Kadethan": {
+          "status": "yes"
+        },
+        "Maladgaon": {
+          "status": "yes"
+        },
+        "Amnapur": {
+          "status": "yes"
+        },
+        "Madhavnagar": {
+          "status": "yes"
+        },
+        "Nimshirgaon": {
+          "status": "yes"
+        },
+        "Surwadi": {
+          "status": "yes"
+        },
+        "Taradgaon": {
+          "status": "yes"
+        },
+        "Phaltan": {
+          "status": "yes"
+        },
+        "Amalner": {
+          "status": "yes"
+        },
+        "Hatola": {
+          "status": "yes"
+        },
+        "Kada": {
+          "status": "yes"
+        },
+        "New Ashti": {
+          "status": "yes"
+        },
+        "New Dhanora": {
+          "status": "yes"
+        },
+        "New Loni": {
+          "status": "yes"
+        },
+        "Narayandoho": {
+          "status": "yes"
+        },
+        "Solapurwadi": {
+          "status": "yes"
+        },
+        "Wetalwadi": {
+          "status": "yes"
+        }
+      }
+    },
+    "ramp_fob": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "no"
+        },
+        "Ahmednagar": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Daund": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Kopargaon": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Satara": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Karad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Baramati": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatkanangale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jejuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jaysingpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kedgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kirloskarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "yes"
+        },
+        "Lonand": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ambale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hadapsar": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Daund Chord Line": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valivade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhilavdi": {
+          "status": "no",
+          "note": "Work in progress"
+        },
+        "Alandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhavaninagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daundaj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phursungi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jarandeswar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Koregaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Masur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nandre": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nira": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Patas": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Palsi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rajewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rukadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahimatpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shindavane": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirvade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Salpa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shenoli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Targaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Takari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valha": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wathar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yevat": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sasvad Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akolner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belwandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chitali": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasthi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Puntamba": {
+          "status": "yes"
+        },
+        "Padhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ranjangaon Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Srigondaroad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sarola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vambori": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vilad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Visapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yeola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chinchwad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akurdi": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Begdewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dapodi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dehu Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghorawadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khadki": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kamshet": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Malavli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Pimpri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shivajinagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Talegaon": {
+          "status": "no",
+          "note": "Being provided under the Amrit Bharat Station Scheme"
+        },
+        "Vadgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "battery_car": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "no"
+        },
+        "Miraj": {
+          "status": "no"
+        },
+        "Ahmednagar": {
+          "status": "no"
+        },
+        "Daund": {
+          "status": "no"
+        },
+        "Kopargaon": {
+          "status": "no"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Satara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Karad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Baramati": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatkanangale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jejuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jaysingpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kedgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kirloskarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Uruli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lonand": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ambale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hadapsar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daund Chord Line": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valivade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhilavdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Alandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhavaninagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daundaj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phursungi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jarandeswar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Koregaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Masur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nandre": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nira": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Patas": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Palsi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rajewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rukadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahimatpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shindavane": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirvade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Salpa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shenoli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Targaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Takari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valha": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wathar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yevat": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sasvad Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akolner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belwandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chitali": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasthi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Puntamba": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Padhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ranjangaon Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Srigondaroad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sarola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vambori": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vilad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Visapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yeola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chinchwad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akurdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Begdewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dapodi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dehu Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghorawadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khadki": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kamshet": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Malavli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Pimpri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shivajinagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Talegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vadgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "tactile_path": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "yes"
+        },
+        "Karad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jejuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jaysingpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lonand": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ambale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valivade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhilavdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Alandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhavaninagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daundaj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phursungi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jarandeswar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Koregaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Loni": {
+          "status": "yes"
+        },
+        "Masur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nandre": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nira": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Patas": {
+          "status": "yes"
+        },
+        "Palsi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rajewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rukadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahimatpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shindavane": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirvade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Salpa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shenoli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Targaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Takari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valha": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wathar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yevat": {
+          "status": "yes"
+        },
+        "Sasvad Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akolner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belwandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chitali": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasthi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Puntamba": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Padhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ranjangaon Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Srigondaroad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sarola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vambori": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vilad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Visapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yeola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chinchwad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akurdi": {
+          "status": "yes"
+        },
+        "Begdewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dapodi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dehu Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghorawadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khadki": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kamshet": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Malavli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Pimpri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shivajinagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "yes"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "yes"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "yes"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "braille_signage": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Miraj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ahmednagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daund": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kopargaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sainagar Shirdih": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sangli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Satara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Karad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Baramati": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatkanangale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jejuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jaysingpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kedgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kirloskarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Uruli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Lonand": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ambale": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hadapsar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daund Chord Line": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valivade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhilavdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Alandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Bhavaninagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Daundaj": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phursungi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Jarandeswar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Koregaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Masur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nandre": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nira": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Patas": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Palsi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rajewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rukadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahimatpur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shindavane": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirvade": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Salpa": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shenoli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Targaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Takari": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Valha": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wathar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yevat": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sasvad Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akolner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Belwandi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chitali": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasthi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Puntamba": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Padhegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ranjangaon Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Rahuri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Srigondaroad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sarola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vambori": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vilad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Visapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Yeola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Chinchwad": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Akurdi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Begdewadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dapodi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dehu Road": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Ghorawadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khadki": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kamshet": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kasarwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Malavli": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Pimpri": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shivajinagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Talegaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vadgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Pune": {
+          "status": "yes"
+        },
+        "Kolhapur": {
+          "status": "yes"
+        },
+        "Miraj": {
+          "status": "yes"
+        },
+        "Ahmednagar": {
+          "status": "yes"
+        },
+        "Daund": {
+          "status": "yes"
+        },
+        "Kopargaon": {
+          "status": "yes"
+        },
+        "Sainagar Shirdih": {
+          "status": "yes"
+        },
+        "Sangli": {
+          "status": "yes"
+        },
+        "Satara": {
+          "status": "yes"
+        },
+        "Karad": {
+          "status": "yes"
+        },
+        "Baramati": {
+          "status": "yes"
+        },
+        "Hatkanangale": {
+          "status": "yes"
+        },
+        "Jejuri": {
+          "status": "yes"
+        },
+        "Jaysingpur": {
+          "status": "yes"
+        },
+        "Kedgaon": {
+          "status": "yes"
+        },
+        "Kirloskarwadi": {
+          "status": "yes"
+        },
+        "Uruli": {
+          "status": "yes"
+        },
+        "Belapur": {
+          "status": "yes"
+        },
+        "Lonand": {
+          "status": "yes"
+        },
+        "Ambale": {
+          "status": "yes"
+        },
+        "Hadapsar": {
+          "status": "yes"
+        },
+        "Daund Chord Line": {
+          "status": "yes"
+        },
+        "Valivade": {
+          "status": "yes"
+        },
+        "Bhilavdi": {
+          "status": "yes"
+        },
+        "Alandi": {
+          "status": "yes"
+        },
+        "Bhavaninagar": {
+          "status": "yes"
+        },
+        "Daundaj": {
+          "status": "yes"
+        },
+        "Phursungi": {
+          "status": "yes"
+        },
+        "Jarandeswar": {
+          "status": "yes"
+        },
+        "Koregaon": {
+          "status": "yes"
+        },
+        "Loni": {
+          "status": "yes"
+        },
+        "Masur": {
+          "status": "yes"
+        },
+        "Nandre": {
+          "status": "yes"
+        },
+        "Nira": {
+          "status": "yes"
+        },
+        "Patas": {
+          "status": "yes"
+        },
+        "Palsi": {
+          "status": "yes"
+        },
+        "Rajewadi": {
+          "status": "yes"
+        },
+        "Rukadi": {
+          "status": "yes"
+        },
+        "Rahimatpur": {
+          "status": "yes"
+        },
+        "Shindavane": {
+          "status": "yes"
+        },
+        "Shirvade": {
+          "status": "yes"
+        },
+        "Salpa": {
+          "status": "yes"
+        },
+        "Shenoli": {
+          "status": "yes"
+        },
+        "Targaon": {
+          "status": "yes"
+        },
+        "Takari": {
+          "status": "yes"
+        },
+        "Valha": {
+          "status": "yes"
+        },
+        "Wathar": {
+          "status": "yes"
+        },
+        "Yevat": {
+          "status": "yes"
+        },
+        "Sasvad Road": {
+          "status": "yes"
+        },
+        "Akolner": {
+          "status": "yes"
+        },
+        "Belwandi": {
+          "status": "yes"
+        },
+        "Chitali": {
+          "status": "yes"
+        },
+        "Kanhegaon": {
+          "status": "yes"
+        },
+        "Kasthi": {
+          "status": "yes"
+        },
+        "Puntamba": {
+          "status": "yes"
+        },
+        "Padhegaon": {
+          "status": "yes"
+        },
+        "Ranjangaon Road": {
+          "status": "yes"
+        },
+        "Rahuri": {
+          "status": "yes"
+        },
+        "Srigondaroad": {
+          "status": "yes"
+        },
+        "Sarola": {
+          "status": "yes"
+        },
+        "Vambori": {
+          "status": "yes"
+        },
+        "Vilad": {
+          "status": "yes"
+        },
+        "Visapur": {
+          "status": "yes"
+        },
+        "Yeola": {
+          "status": "yes"
+        },
+        "Chinchwad": {
+          "status": "yes"
+        },
+        "Akurdi": {
+          "status": "yes"
+        },
+        "Begdewadi": {
+          "status": "yes"
+        },
+        "Dapodi": {
+          "status": "yes"
+        },
+        "Dehu Road": {
+          "status": "yes"
+        },
+        "Ghorawadi": {
+          "status": "yes"
+        },
+        "Khadki": {
+          "status": "yes"
+        },
+        "Kamshet": {
+          "status": "yes"
+        },
+        "Kasarwadi": {
+          "status": "yes"
+        },
+        "Malavli": {
+          "status": "yes"
+        },
+        "Pimpri": {
+          "status": "yes"
+        },
+        "Shivajinagar": {
+          "status": "yes"
+        },
+        "Talegaon": {
+          "status": "yes"
+        },
+        "Vadgaon": {
+          "status": "yes"
+        },
+        "Kanhe": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Manjri Budruk": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Vishrambaug": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Shirsai": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Khutbav": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Katphal": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kadethan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Maladgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amnapur": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Madhavnagar": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Nimshirgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Surwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Taradgaon": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Phaltan": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Amalner": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Hatola": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Kada": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Ashti": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Dhanora": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "New Loni": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayandoho": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Solapurwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Wetalwadi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Ahmednagar": "ANG",
+    "Akolner": "AKR",
+    "Akurdi": "AKRD",
+    "Alandi": "ALN",
+    "Amalner": "AMNE",
+    "Ambale": "ABLE",
+    "Amnapur": "ANQ",
+    "Baramati": "BRMT",
+    "Begdewadi": "BGWI",
+    "Belapur": "BAP",
+    "Belwandi": "BWD",
+    "Bhavaninagar": "BVNR",
+    "Bhilavdi": "BVQ",
+    "Chinchwad": "CCH",
+    "Chitali": "CIT",
+    "Dapodi": "DAPD",
+    "Daund": "DD",
+    "Daund Chord Line": "DDCC",
+    "Daundaj": "DNJ",
+    "Dehu Road": "DEHR",
+    "Ghorawadi": "GRWD",
+    "Hadapsar": "HDP",
+    "Hatkanangale": "HTK",
+    "Hatola": "HTLA",
+    "Jarandeswar": "JSV",
+    "Jaysingpur": "JSP",
+    "Jejuri": "JJR",
+    "Kada": "KDAA",
+    "Kadethan": "KDTN",
+    "Kamshet": "KMST",
+    "Kanhe": "KNHE",
+    "Kanhegaon": "KNGN",
+    "Karad": "KRD",
+    "Kasarwadi": "KSWD",
+    "Kasthi": "KSTH",
+    "Katphal": "KFH",
+    "Kedgaon": "KDG",
+    "Khadki": "KK",
+    "Khutbav": "KTT",
+    "Kirloskarwadi": "KOV",
+    "Kolhapur": "KOP",
+    "Kopargaon": "KPG",
+    "Koregaon": "KRG",
+    "Lonand": "LNN",
+    "Loni": "LONI",
+    "Madhavnagar": "MDVR",
+    "Maladgaon": "MDDG",
+    "Malavli": "MVL",
+    "Manjri Budruk": "MJBK",
+    "Masur": "MSR",
+    "Miraj": "MRJ",
+    "Nandre": "NDE",
+    "Narayandoho": "NYDO",
+    "New Ashti": "NAHT",
+    "New Dhanora": "NDNR",
+    "New Loni": "NLNI",
+    "Nimshirgaon": "NMGT",
+    "Nira": "NIRA",
+    "Padhegaon": "PDGN",
+    "Palsi": "PLV",
+    "Patas": "PAA",
+    "Phaltan": "PLLD",
+    "Phursungi": "FSG",
+    "Pimpri": "PMP",
+    "Puntamba": "PB",
+    "Rahimatpur": "RMP",
+    "Rahuri": "RRI",
+    "Rajewadi": "RJW",
+    "Ranjangaon Road": "RNJD",
+    "Rukadi": "RKD",
+    "Sainagar Shirdih": "SNSI",
+    "Salpa": "SLP",
+    "Sangli": "SLI",
+    "Sarola": "SRL",
+    "Sasvad Road": "SSV",
+    "Satara": "STR",
+    "Shenoli": "SNE",
+    "Shindavane": "SHIV",
+    "Shirsai": "SSI",
+    "Shirvade": "SIW",
+    "Shivajinagar": "SVJR",
+    "Solapurwadi": "SPWI",
+    "Surwadi": "SWLN",
+    "Takari": "TKR",
+    "Talegaon": "TGN",
+    "Taradgaon": "TGLN",
+    "Targaon": "TAZ",
+    "Uruli": "URI",
+    "Vadgaon": "VDN",
+    "Valha": "WLH",
+    "Valivade": "VV",
+    "Vambori": "VBR",
+    "Vilad": "VL",
+    "Visapur": "VPR",
+    "Vishrambaug": "VRB",
+    "Wathar": "WTR",
+    "Wetalwadi": "WTWI",
+    "Yeola": "YL",
+    "Yevat": "YT"
+  }
+}

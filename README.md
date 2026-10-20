@@ -33,17 +33,24 @@ Every feature at every station gets one of four states:
 
 ## Data coverage
 
-169 stations from three Eastern Railway divisions, all parsed from the official PDFs:
+370 stations from eight divisions in three zones, all parsed from official PDFs:
 
-| Division | Stations | What the PDF gives |
-|---|---|---|
-| Howrah | 158 | Full station lists for every feature |
-| Sealdah | 6 | Names only for lifts, help booths, Braille, parking; toilets and ramps are given only as counts ("at 150 stations"), so those show as "No data yet" |
-| Asansol | 5 | Explicit YES/NO per station, with platform locations (e.g. "Lift at PF 2/3 & 4/5") |
+| Division | Zone | Stations | What the PDF gives |
+|---|---|---|---|
+| Howrah | Eastern | 158 | Full station lists for every feature |
+| Pune | Central | 101 | Every station in a grid, including lifts, escalators, low counters, tactile paths; "Not applicable" (not required at that station size) and "being provided under ABSS" are kept as notes |
+| Malda | Eastern | 69 | Full lists, but by station code; codes are turned into names with the CC0 [datameet station list](https://github.com/datameet/railways). Wheelchairs are given only as "67 stations", so they show as "No data yet" |
+| Jabalpur | West Central | 12 | YES/NO per station with locations. 8 of these pages are scans; they are hand-transcribed in `data/transcribed/` |
+| Bhopal | West Central | 10 | YES/NO per station (mostly halts) |
+| Kota | West Central | 9 | YES/NO per station |
+| Sealdah | Eastern | 6 | Names only for lifts, help booths, Braille, parking; toilets and ramps are given only as counts |
+| Asansol | Eastern | 5 | Explicit YES/NO per station, with platform locations |
 
-Known PDF typos (Gnandas/Jnandas Kendra, Tailbpur/Talibpur, …) are merged through aliases in `data/station_names.json`.
+The West Central Railway file covers only a sample of each division's stations, not the whole division.
 
-Next: other zones' published lists (the Railway Board's Gati Shakti directorate has zone-wise files), and station codes for the smaller halts.
+Known gaps: three Malda codes (BPBS, NALE, UXN) aren't in the open station list, so those stations show by code until someone adds their names to `data/station_names.json`. Six Bhopal halts have no code yet. PDF typos (Gnandas/Jnandas Kendra, Sainagar Shirdih, …) are merged through aliases.
+
+Next: other zones' station-wise PDFs (Northern, Western, Southern, South Central, …), which aren't indexed by search engines; they need to be found on each zone's website.
 
 ## Run it locally
 
@@ -62,7 +69,15 @@ python scraper/parse_pdf.py path/to/Sealdah.pdf --division Sealdah \
 python scraper/build.py
 ```
 
-Review the generated station names before committing. The parser detects both layouts the divisions use (feature lists and per-station blocks). Add new codes and alternate spellings to `data/station_names.json`.
+Review the generated station names before committing. The parser detects the three layouts divisions use (feature lists, per-station blocks, and one-row-per-station grids). Useful options:
+
+```bash
+--pages 17-25                 # one division out of a multi-division PDF
+--codes stations.json         # datameet station list, for PDFs that name stations by code
+data/transcribed/x.json       # hand-transcribed rows for scanned pages, given like a PDF
+```
+
+Add new codes and alternate spellings to `data/station_names.json`.
 
 ## Deploying
 

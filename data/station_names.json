@@ -1,5 +1,5 @@
 {
-  "_comment": "Canonical name -> station code and alternate spellings. Codes are filled in only where known; an empty code means it still needs to be added. Alternate spellings let the parser and search match the way different PDFs and users write a name.",
+  "_comment": "Canonical name -> station code and alternate spellings. Codes are filled in only where known; an empty code means it still needs to be added. Alternate spellings let the parser and search match the way different PDFs and users write a name. Divisions whose PDFs give station codes also carry a station_codes map in their own file; codes for code-only PDFs (Malda) are resolved with the CC0 datameet station list (github.com/datameet/railways).",
   "Howrah": {
     "code": "HWH",
     "aliases": [
@@ -222,6 +222,60 @@
   },
   "Raniganj": {
     "code": "RNG",
+    "aliases": []
+  },
+  "Pune": {
+    "code": "PUNE",
+    "aliases": [
+      "Pune Jn"
+    ]
+  },
+  "Sainagar Shirdi": {
+    "code": "SNSI",
+    "aliases": [
+      "Sainagar Shirdih",
+      "Shirdi"
+    ]
+  },
+  "Shrigonda Road": {
+    "code": "SGND",
+    "aliases": [
+      "Srigondaroad",
+      "Srigonda Road"
+    ]
+  },
+  "Malda Town": {
+    "code": "MLDT",
+    "aliases": [
+      "Malda"
+    ]
+  },
+  "Bindubasini Halt": {
+    "code": "BDBS",
+    "aliases": [
+      "Bindubasini Hal"
+    ]
+  },
+  "Godda": {
+    "code": "GODA",
+    "aliases": [
+      "GODA"
+    ]
+  },
+  "Chauhani": {
+    "code": "CAZ",
+    "aliases": []
+  },
+  "Khonker": {
+    "code": "KCR",
+    "aliases": []
+  },
+  "Kumbhraj": {
+    "code": "KHRJ",
+    "aliases": []
+  },
+  "Lukwasa": {
+    "code": "LWS",
     "aliases": []
   }
 }

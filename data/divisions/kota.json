@@ -1,0 +1,534 @@
+{
+  "division": "Kota",
+  "zone": "West Central Railway",
+  "source_title": "Accessibility data – Kota division (West Central Railway)",
+  "source_url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/GATI-SHAKTI/2025/WCR_Divyangjan%20compliance%20station.pdf",
+  "retrieved": "2026-10-20",
+  "method": "parsed-station",
+  "features": {
+    "wheelchair": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "yes",
+          "note": "Available at Help Booths/Enquiry booth · On duty SM"
+        },
+        "Dharnaoda": {
+          "status": "yes",
+          "note": "Available at Help Booths/Enquiry booth · On duty SM"
+        },
+        "Makholi": {
+          "status": "yes",
+          "note": "Available at Help Booths/Enquiry booth · On duty SM"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "yes",
+          "note": "Available at Help Booths/Enquiry booth · on duty SM"
+        },
+        "Piloda": {
+          "status": "yes",
+          "note": "Available at Help Booths/Enquiry booth · on duty SM"
+        },
+        "Narayanpur Tatwara": {
+          "status": "yes",
+          "note": "Available at Help Booths/Enquiry booth · on duty SM"
+        },
+        "Suwasra": {
+          "status": "yes",
+          "note": "Available at Help Booths/Enquiry booth · on duty SM"
+        }
+      }
+    },
+    "wheelchair_booking": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no"
+        },
+        "Dharnaoda": {
+          "status": "no"
+        },
+        "Makholi": {
+          "status": "no"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "no"
+        },
+        "Piloda": {
+          "status": "no"
+        },
+        "Narayanpur Tatwara": {
+          "status": "no"
+        },
+        "Suwasra": {
+          "status": "no"
+        }
+      }
+    },
+    "battery_car": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dharnaoda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Makholi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Piloda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayanpur Tatwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Suwasra": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "human_assistance": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dharnaoda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Makholi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Piloda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayanpur Tatwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Suwasra": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "yes",
+          "note": "In circulating area near station entrance"
+        },
+        "Dharnaoda": {
+          "status": "yes",
+          "note": "in circulating area"
+        },
+        "Makholi": {
+          "status": "yes"
+        },
+        "Dindora Hkmikheda": {
+          "status": "yes",
+          "note": "in circulating area"
+        },
+        "Sikroda Mina": {
+          "status": "yes",
+          "note": "in circulating area"
+        },
+        "Fatehsinghpura": {
+          "status": "yes",
+          "note": "in circulating area"
+        },
+        "Piloda": {
+          "status": "yes",
+          "note": "in circulating area"
+        },
+        "Narayanpur Tatwara": {
+          "status": "yes",
+          "note": "in circulating area"
+        },
+        "Suwasra": {
+          "status": "yes",
+          "note": "in circulating area"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "yes",
+          "note": "Platform no. 1"
+        },
+        "Dharnaoda": {
+          "status": "yes"
+        },
+        "Makholi": {
+          "status": "yes"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "yes",
+          "note": "Pf-1"
+        },
+        "Piloda": {
+          "status": "yes",
+          "note": "Pf-1"
+        },
+        "Narayanpur Tatwara": {
+          "status": "yes",
+          "note": "Pf-1"
+        },
+        "Suwasra": {
+          "status": "yes",
+          "note": "Pf-1"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dharnaoda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Makholi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Piloda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayanpur Tatwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Suwasra": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "yes",
+          "note": "Under ABSS work"
+        },
+        "Dharnaoda": {
+          "status": "yes"
+        },
+        "Makholi": {
+          "status": "yes",
+          "note": "circulating area"
+        },
+        "Dindora Hkmikheda": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Sikroda Mina": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Fatehsinghpura": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Piloda": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Narayanpur Tatwara": {
+          "status": "yes",
+          "note": "In circulating area"
+        },
+        "Suwasra": {
+          "status": "yes",
+          "note": "In circulating area"
+        }
+      }
+    },
+    "ramp_second": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no"
+        },
+        "Dharnaoda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Makholi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Piloda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayanpur Tatwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Suwasra": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "ramp_fob": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no"
+        },
+        "Dharnaoda": {
+          "status": "no"
+        },
+        "Makholi": {
+          "status": "yes"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "yes"
+        },
+        "Piloda": {
+          "status": "no"
+        },
+        "Narayanpur Tatwara": {
+          "status": "yes"
+        },
+        "Suwasra": {
+          "status": "no"
+        }
+      }
+    },
+    "lift": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no"
+        },
+        "Dharnaoda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Makholi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Piloda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayanpur Tatwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Suwasra": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "yes",
+          "note": "Enquiry/ Booking counter/ On duty SM"
+        },
+        "Dharnaoda": {
+          "status": "yes",
+          "note": "Booking counter/On duty SM"
+        },
+        "Makholi": {
+          "status": "yes",
+          "note": "Booking counter/ On duty SM"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "yes",
+          "note": "Booking counter/on duty SM"
+        },
+        "Piloda": {
+          "status": "yes",
+          "note": "Booking counter/on duty SM"
+        },
+        "Narayanpur Tatwara": {
+          "status": "yes",
+          "note": "Booking counter/on duty SM"
+        },
+        "Suwasra": {
+          "status": "yes",
+          "note": "Booking counter/on duty SM"
+        }
+      }
+    },
+    "braille_map": {
+      "complete": true,
+      "per_station": {
+        "Bayana": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dharnaoda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Makholi": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Dindora Hkmikheda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Sikroda Mina": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Fatehsinghpura": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Piloda": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Narayanpur Tatwara": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        },
+        "Suwasra": {
+          "status": "no",
+          "note": "Not provided: the railways don't require this at a station of this size"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Bayana": "BXN",
+    "Dharnaoda": "DHR",
+    "Dindora Hkmikheda": "DNHK",
+    "Fatehsinghpura": "FSP",
+    "Makholi": "MXL",
+    "Narayanpur Tatwara": "NNW",
+    "Piloda": "PDZ",
+    "Sikroda Mina": "SKDM",
+    "Suwasra": "SVA"
+  }
+}
