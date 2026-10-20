@@ -388,6 +388,8 @@ def main(argv=None) -> int:
     ap.add_argument("--pages", help="only these pages, e.g. 1-8,30-31")
     ap.add_argument("--source-title", help="defaults to 'Accessibility data – <division> division (<zone>)'")
     ap.add_argument("--codes", type=Path, help="datameet stations.json, to resolve station codes")
+    ap.add_argument("--drop", action="append", default=[], metavar="FEATURE=REASON",
+                    help="leave out a feature whose column is unreliable, e.g. lift='...'; shown on the site")
     args = ap.parse_args(argv)
 
     found: dict = {}
@@ -403,6 +405,10 @@ def main(argv=None) -> int:
         "method": f"parsed-{layout}",
         "features": features,
     }
+    for spec in args.drop:
+        key, _, reason = spec.partition("=")
+        features.pop(key, None)
+        doc["method_note"] = (doc.get("method_note", "") + " " + reason).strip()
     if found:
         doc["station_codes"] = dict(sorted(found.items()))
         unresolved = sorted(c for n, c in found.items() if n == c)

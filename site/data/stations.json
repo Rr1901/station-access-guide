@@ -221,7 +221,7 @@
    "source_url": "https://cr.indianrailways.gov.in/",
    "retrieved": "2026-10-20",
    "method": "parsed-grid",
-   "method_note": null,
+   "method_note": "Lift counts are left out: the official file lists 0 lifts at Nagpur Junction, which has lifts, so that column can't be relied on.",
    "sources": null
   },
   {
@@ -994,8 +994,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "1 lift"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -1886,8 +1885,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "3 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -2907,7 +2905,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -3564,8 +3562,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "3 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -4301,7 +4298,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -4369,7 +4366,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -4504,7 +4501,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -4767,7 +4764,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -5901,7 +5898,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -6043,8 +6040,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "2 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -6456,7 +6452,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -6658,7 +6654,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -6931,7 +6927,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -7273,7 +7269,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -7937,7 +7933,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -8068,7 +8064,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -8271,7 +8267,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -8609,8 +8605,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "2 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -8681,7 +8676,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -9101,7 +9096,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -9241,7 +9236,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -10212,7 +10207,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -10625,7 +10620,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -11168,7 +11163,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -11369,8 +11364,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "2 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -11637,7 +11631,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -11973,7 +11967,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -13610,7 +13604,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -14141,7 +14135,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -14282,7 +14276,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -14547,7 +14541,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -14684,7 +14678,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -15082,7 +15076,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -15960,7 +15954,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -16166,7 +16160,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -16233,7 +16227,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -16701,7 +16695,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -16900,7 +16894,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -17641,7 +17635,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -18789,8 +18783,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "2 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -19280,7 +19273,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -19349,7 +19342,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -19417,7 +19410,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -19753,7 +19746,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -20651,7 +20644,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -21478,7 +21471,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -21754,7 +21747,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -22778,7 +22771,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -23421,7 +23414,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -23626,7 +23619,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -25104,7 +25097,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -25434,7 +25427,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -26397,7 +26390,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -26798,7 +26791,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -26868,7 +26861,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -27356,7 +27349,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -27424,7 +27417,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -27899,7 +27892,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -27966,7 +27959,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -28639,7 +28632,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -29502,7 +29495,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -29569,7 +29562,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -29635,8 +29628,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "2 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -30639,7 +30631,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "yes",
@@ -30710,7 +30702,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -31199,7 +31191,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -31407,7 +31399,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -33195,7 +33187,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -33739,8 +33731,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "2 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -34004,7 +33995,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -34699,7 +34690,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -35296,8 +35287,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "2 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -35566,7 +35556,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -36819,7 +36809,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -37355,7 +37345,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -38909,7 +38899,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -38979,8 +38969,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "3 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -40572,7 +40561,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -40987,7 +40976,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -41056,7 +41045,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -41872,7 +41861,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -42139,7 +42128,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -42472,7 +42461,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -42898,7 +42887,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -43633,7 +43622,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -43700,7 +43689,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -43967,7 +43956,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -45496,7 +45485,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -46327,7 +46316,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -46394,7 +46383,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -46531,8 +46520,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "yes",
-     "note": "8 lifts"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -46601,7 +46589,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"
@@ -46671,7 +46659,7 @@
      "status": "unknown"
     },
     "lift": {
-     "status": "no"
+     "status": "unknown"
     },
     "escalator": {
      "status": "no"

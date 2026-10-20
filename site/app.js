@@ -130,7 +130,8 @@
         </section>`).join("")}
       <a class="report" href="${issue}" target="_blank" rel="noopener">Something wrong or missing? Tell us</a>
       <p class="src">Source: <a href="${esc(div.source_url || "#")}" target="_blank" rel="noopener">${esc(div.source_title || "Indian Railways")}</a>, checked ${esc(div.retrieved || "")}.
-      ${st.features && Object.values(st.features).some((f) => f.status === "unknown") ? "“No data yet” means this division hasn't published that detail by station." : ""}</p>`;
+      ${st.features && Object.values(st.features).some((f) => f.status === "unknown") ? "“No data yet” means this division hasn't published that detail by station." : ""}
+      ${div.method !== "secondary" && div.method_note ? esc(div.method_note) : ""}</p>`;
     document.title = `${st.name} accessibility · Station Access Guide`;
     $("st-title").focus();
   }

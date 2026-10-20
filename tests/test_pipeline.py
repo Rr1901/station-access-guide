@@ -168,6 +168,7 @@ def test_real_build():
     assert by["Kurla"]["features"]["lift"]["status"] == "unknown"               # "Not Applicable" isn't "no"
     assert by["Khandala"]["features"]["ramp_entry"]["status"] == "no"           # "Technically not feasible"
     assert by["Nagpur"]["features"]["escalator"]["note"] == "6 escalators"
+    assert by["Nagpur"]["features"]["lift"]["status"] == "unknown"              # lift column dropped as unreliable
     assert "Mukutban" not in by                                                   # not open to passengers
     assert by["Harangul"]["features"]["accessible_toilet"]["status"] == "no"
     wr = {d["division"]: d for d in data["divisions"] if d["zone"] == "Western Railway"}

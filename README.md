@@ -39,7 +39,7 @@ Every feature at every station gets one of four states:
 |---|---|---|---|
 | Howrah | Eastern | 158 | Full station lists for every feature |
 | Mumbai | Central | 113 | Every local station from CSMT to Kasara, Khopoli and Uran, from the division's "Divyangjan Amenities at Stns." sheet, plus Divyangjan Sahayak (Dy. SS Commercial) numbers for CSMT, Dadar, LTT, Thane, Kalyan and Panvel |
-| Nagpur | Central | 93 | Grid with counts of lifts, escalators, wheelchairs, toilets (Mukutban skipped: not open to passengers). The PDF prints 0 lifts at Nagpur and 8 at Wardha, which looks like a mix-up in the source; it's shown as printed |
+| Nagpur | Central | 93 | Grid with counts of lifts, escalators, wheelchairs, toilets (Mukutban skipped: not open to passengers). Its lift column is left out: it prints 0 lifts at Nagpur Junction (which has lifts) and 8 at Wardha, so lifts show as "No data yet" for this division |
 | Solapur | Central | 58 | Yes/No grid; the PDF is a scan, hand-transcribed in `data/transcribed/` |
 | Pune | Central | 101 | Every station in a grid, including lifts, escalators, low counters, tactile paths; "Not applicable" (not required at that station size) and "being provided under ABSS" are kept as notes |
 | Malda | Eastern | 69 | Full lists, but by station code; codes are turned into names with the CC0 [datameet station list](https://github.com/datameet/railways). Wheelchairs are given only as "67 stations", so they show as "No data yet" |
