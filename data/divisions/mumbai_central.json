@@ -1,9 +1,17 @@
 {
   "division": "Mumbai Central",
   "zone": "Western Railway",
-  "source_title": "IRCTC e-wheelchair booking page (undated)",
-  "source_url": "https://www.irctctourism.com/wheelchair",
+  "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+  "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
   "sources": [
+    {
+      "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+      "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+      "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+      "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
     {
       "title": "IRCTC e-wheelchair booking page (undated)",
       "url": "https://www.irctctourism.com/wheelchair"
@@ -13,6 +21,56 @@
   "method": "secondary",
   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
   "features": {
+    "escalator": {
+      "complete": false,
+      "per_station": {
+        "Navsari": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Surat": {
+          "status": "yes",
+          "note": "5 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Udhna": {
+          "status": "yes",
+          "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Valsad": {
+          "status": "yes",
+          "note": "1 escalator (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Vapi": {
+          "status": "yes",
+          "note": "3 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    },
+    "lift": {
+      "complete": false,
+      "per_station": {
+        "Navsari": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Surat": {
+          "status": "yes",
+          "note": "4 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Udhna": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Valsad": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Vapi": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    },
     "wheelchair_booking": {
       "complete": false,
       "per_station": {
@@ -23,7 +81,38 @@
       }
     }
   },
+  "station_notes": {
+    "Uttran": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what."
+  },
   "station_codes": {
-    "Mumbai Central": "MMCT"
+    "Mumbai Central": "MMCT",
+    "Navsari": "NVS",
+    "Surat": "ST",
+    "Udhna": "UDN",
+    "Valsad": "BL",
+    "Vapi": "VAPI"
+  },
+  "station_sources": {
+    "Mumbai Central": [
+      "https://www.irctctourism.com/wheelchair"
+    ],
+    "Navsari": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Surat": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Udhna": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Uttran": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Valsad": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Vapi": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ]
   }
 }

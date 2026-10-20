@@ -165,6 +165,14 @@ def test_real_build():
     wr = {d["division"]: d for d in data["divisions"] if d["zone"] == "Western Railway"}
     assert all(d["method"] == "secondary" and d["sources"] for d in wr.values())
     assert by["Okha"]["features"]["escalator"]["status"] == "no"
+    assert by["Vadodara"]["features"]["escalator"]["note"].startswith("6 escalators")
+    assert by["Valsad"]["features"]["lift"]["status"] == "no"                  # "–" in the table
+    assert by["Chhayapuri"]["features"]["escalator"]["status"] == "yes"        # 2025 report over 2023 "–"
+    assert "Amrit Bharat" in by["Morbi"]["notes"]                              # note-only station kept
+    assert len(by["Morbi"]["sources"]) == 1 and "amrit-bharat" in by["Morbi"]["sources"][0]  # only its own source
+    gj = json.loads((ROOT / "data/transcribed/gujarat_lifts_escalators_2023.json").read_text())
+    n = lambda x: 0 if x == "–" else int(x)
+    assert sum(n(r[4]) for r in gj["rows"]) == 54 and sum(n(r[5]) for r in gj["rows"]) == 93
     assert by["Jamnagar"]["features"]["ramp_entry"]["status"] == "unknown"   # partial source: no "not listed"
     assert by["Howrah"]["code"] == "HWH" and by["Howrah"]["features"]["lift"]["status"] == "yes"
     assert by["Asansol"]["features"]["battery_car"]["status"] == "no"

@@ -33,7 +33,7 @@ Every feature at every station gets one of four states:
 
 ## Data coverage
 
-378 stations from eleven divisions in four zones. 370 are parsed from official PDFs:
+424 stations from thirteen divisions in four zones. 370 are parsed from official PDFs:
 
 | Division | Zone | Stations | What the PDF gives |
 |---|---|---|---|
@@ -48,7 +48,13 @@ Every feature at every station gets one of four states:
 
 The West Central Railway file covers only a sample of each division's stations, not the whole division.
 
-**Western Railway (secondary sources).** Western Railway hasn't published station-wise accessibility lists, so 8 stations (Ahmedabad, Gandhidham, Mahesana, Bhuj, Rajkot, Jamnagar, Okha, Mumbai Central) carry only lift/escalator counts and wheelchair-booking numbers pieced together from a 2023 Lok Sabha answer (as reported by DeshGujarat), IRCTC's e-wheelchair page, a 2022 news report, an older Ahmedabad division presentation and a PIB release. These divisions are marked `"method": "secondary"`, and their station pages say so at the top and list every source. These figures were read from search results because the pages couldn't be fetched directly, so please check them against the sources; corrections are welcome.
+**Western Railway (secondary sources).** Western Railway hasn't published station-wise accessibility lists, so 54 of its stations (all of Gujarat's larger ones, plus Mumbai Central) are built by `scraper/western_railway.py` from:
+
+- a Lok Sabha answer listing lifts and escalators at all 39 Gujarat stations that had them on 31 July 2023, as printed by DeshGujarat (table kept in `data/transcribed/`, totals checked: 54 escalators, 93 lifts);
+- DeshGujarat reports on Rajkot (2022), Chhayapuri (2025) and the 18 Amrit Bharat stations inaugurated in May 2025 (shown as a station note: the report doesn't say which station got which facility);
+- IRCTC's e-wheelchair page (Ahmedabad, Mumbai Central) and an older Ahmedabad division presentation (Bhuj).
+
+These divisions are marked `"method": "secondary"`; station pages say so at the top and list every source. A few stations were placed in a division by route rather than from a source (Khambhaliya, Kanalus, Jamwanthali, Morbi, Mithapur, Jamjodhpur, Rajula, Ekta Nagar, Karamsad, Derol, Uttran), and sources disagree on Surendranagar (Rajkot or Bhavnagar) and Gandhigram (Bhavnagar or Ahmedabad); corrections welcome.
 
 Known gaps: three Malda codes (BPBS, NALE, UXN) aren't in the open station list, so those stations show by code until someone adds their names to `data/station_names.json`. Six Bhopal halts have no code yet. PDF typos (Gnandas/Jnandas Kendra, Sainagar Shirdih, …) are merged through aliases.
 

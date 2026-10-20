@@ -1,0 +1,159 @@
+{
+  "division": "Bhavnagar",
+  "zone": "Western Railway",
+  "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+  "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+  "sources": [
+    {
+      "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+      "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+      "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+      "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    }
+  ],
+  "retrieved": "2026-10-20",
+  "method": "secondary",
+  "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+  "features": {
+    "escalator": {
+      "complete": false,
+      "per_station": {
+        "Bhavnagar Terminus": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Botad": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Gandhigram": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Jetalsar": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Junagadh": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Palitana": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Porbandar": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Veraval": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    },
+    "lift": {
+      "complete": false,
+      "per_station": {
+        "Bhavnagar Terminus": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Botad": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Gandhigram": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Jetalsar": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Junagadh": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Palitana": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Porbandar": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Veraval": {
+          "status": "yes",
+          "note": "1 lift (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    }
+  },
+  "station_notes": {
+    "Jamjodhpur": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Limbdi": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Mahuva": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Palitana": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Rajula": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Sihor": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what."
+  },
+  "station_codes": {
+    "Bhavnagar Terminus": "BVC",
+    "Botad": "BTD",
+    "Gandhigram": "GG",
+    "Jamjodhpur": "JDH",
+    "Jetalsar": "JLR",
+    "Junagadh": "JND",
+    "Limbdi": "LM",
+    "Mahuva": "MHV",
+    "Palitana": "PIT",
+    "Porbandar": "PBR",
+    "Rajula": "RLA",
+    "Veraval": "VRL"
+  },
+  "station_sources": {
+    "Bhavnagar Terminus": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Botad": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Gandhigram": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Jamjodhpur": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Jetalsar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Junagadh": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Limbdi": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Mahuva": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Palitana": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Porbandar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Rajula": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Sihor": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Veraval": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ]
+  }
+}

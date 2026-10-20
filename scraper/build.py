@@ -55,6 +55,7 @@ def build_division(div: dict, lookup: dict) -> dict[str, dict]:
         for key, entry in feats.items()
     }
     all_names = set().union(*listed.values(), *(set(p) for p in per_station.values())) if feats else set()
+    all_names |= {canonical(s, lookup) for s in div.get("station_notes", {})}
 
     stations = {}
     for name in sorted(all_names):
@@ -91,6 +92,8 @@ def build(divisions_dir: Path = DIVISIONS_DIR, names_file: Path = NAMES_FILE) ->
                               ("division", "zone", "source_title", "source_url",
                                "retrieved", "method", "method_note", "sources")})
         codes = {canonical(n, lookup): c for n, c in div.get("station_codes", {}).items()}
+        notes = {canonical(n, lookup): t for n, t in div.get("station_notes", {}).items()}
+        own_sources = {canonical(n, lookup): u for n, u in div.get("station_sources", {}).items()}
         for name, features in build_division(div, lookup).items():
             info = canon.get(name, {})
             code = info.get("code") or codes.get(name, "")
@@ -102,6 +105,8 @@ def build(divisions_dir: Path = DIVISIONS_DIR, names_file: Path = NAMES_FILE) ->
                 "name": name,
                 "code": code,
                 "aliases": info.get("aliases", []),
+                **({"notes": notes[name]} if name in notes else {}),
+                **({"sources": own_sources[name]} if name in own_sources else {}),
                 "division": div["division"],
                 "zone": div["zone"],
                 "features": features,

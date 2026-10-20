@@ -9,6 +9,10 @@
       "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
     },
     {
+      "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+      "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
+    {
       "title": "DeshGujarat: Rajkot station gets escalators and lifts (10 Jan 2022)",
       "url": "https://deshgujarat.com/2022/01/10/rajkot-railway-station-gets-electronic-escalator-lift-other-facilities/"
     }
@@ -17,29 +21,28 @@
   "method": "secondary",
   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
   "features": {
-    "lift": {
-      "complete": false,
-      "per_station": {
-        "Jamnagar": {
-          "status": "yes",
-          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
-        },
-        "Okha": {
-          "status": "yes",
-          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
-        },
-        "Rajkot": {
-          "status": "yes",
-          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023); on PF 2 and 3 (2022 report)"
-        }
-      }
-    },
     "escalator": {
       "complete": false,
       "per_station": {
+        "Bhaktinagar": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Dwarka": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Hapa": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
         "Jamnagar": {
           "status": "yes",
           "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Khambhaliya": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
         },
         "Okha": {
           "status": "no",
@@ -48,13 +51,123 @@
         "Rajkot": {
           "status": "yes",
           "note": "3 escalators (Lok Sabha answer, as on 31 Jul 2023); on PF 1–3 (2022 report)"
+        },
+        "Surendranagar": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Wankaner": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    },
+    "lift": {
+      "complete": false,
+      "per_station": {
+        "Bhaktinagar": {
+          "status": "yes",
+          "note": "1 lift (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Dwarka": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Hapa": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Jamnagar": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Khambhaliya": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Okha": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Rajkot": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023); on PF 2 and 3 (2022 report)"
+        },
+        "Surendranagar": {
+          "status": "yes",
+          "note": "5 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Wankaner": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
         }
       }
     }
   },
+  "station_notes": {
+    "Hapa": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Jamwanthali": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Kanalus": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Mithapur": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Morbi": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Okha": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what."
+  },
   "station_codes": {
+    "Bhaktinagar": "BKNG",
+    "Dwarka": "DWK",
+    "Hapa": "HAPA",
     "Jamnagar": "JAM",
+    "Jamwanthali": "WTJ",
+    "Khambhaliya": "KMBL",
+    "Mithapur": "MTHP",
+    "Morbi": "MVI",
+    "Okha": "OKHA",
     "Rajkot": "RJT",
-    "Okha": "OKHA"
+    "Surendranagar": "SUNR",
+    "Wankaner": "WKR"
+  },
+  "station_sources": {
+    "Bhaktinagar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Dwarka": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Hapa": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Jamnagar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Jamwanthali": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Kanalus": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Khambhaliya": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Mithapur": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Morbi": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Okha": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Rajkot": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://deshgujarat.com/2022/01/10/rajkot-railway-station-gets-electronic-escalator-lift-other-facilities/"
+    ],
+    "Surendranagar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Wankaner": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ]
   }
 }

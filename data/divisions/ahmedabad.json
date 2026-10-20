@@ -9,43 +9,22 @@
       "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
     },
     {
+      "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+      "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
+    {
       "title": "IRCTC e-wheelchair booking page (undated)",
       "url": "https://www.irctctourism.com/wheelchair"
     },
     {
       "title": "Ahmedabad division presentation (undated, about 2020–21)",
       "url": "https://www.readkong.com/page/ahmedabad-division-western-railway-2295689"
-    },
-    {
-      "title": "PIB: lifts, escalators and FOBs at Western Railway stations",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298294&reg=48&lang=2"
     }
   ],
   "retrieved": "2026-10-20",
   "method": "secondary",
   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
   "features": {
-    "lift": {
-      "complete": false,
-      "per_station": {
-        "Ahmedabad": {
-          "status": "yes",
-          "note": "7 lifts (Lok Sabha answer, as on 31 Jul 2023)"
-        },
-        "Gandhidham": {
-          "status": "yes",
-          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
-        },
-        "Mahesana": {
-          "status": "yes",
-          "note": "4 lifts (division presentation, about 2020–21; may be out of date)"
-        },
-        "Bhuj": {
-          "status": "yes",
-          "note": "2 lifts (division presentation, about 2020–21; more lifts are part of the new Bhuj station works (PIB))"
-        }
-      }
-    },
     "escalator": {
       "complete": false,
       "per_station": {
@@ -53,13 +32,82 @@
           "status": "yes",
           "note": "14 escalators (Lok Sabha answer, as on 31 Jul 2023)"
         },
+        "Bhachau": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
         "Gandhidham": {
           "status": "yes",
           "note": "4 escalators (Lok Sabha answer, as on 31 Jul 2023)"
         },
-        "Bhuj": {
+        "Mahesana": {
+          "status": "yes",
+          "note": "4 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "New Bhuj": {
+          "status": "yes",
+          "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Palanpur": {
+          "status": "yes",
+          "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Sabarmati (MG)": {
           "status": "no",
-          "note": "Escalators are part of the new Bhuj station works (PIB)"
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Samakhiali": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Vadnagar": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    },
+    "lift": {
+      "complete": false,
+      "per_station": {
+        "Ahmedabad": {
+          "status": "yes",
+          "note": "7 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Bhachau": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Bhuj": {
+          "status": "yes",
+          "note": "2 lifts (division presentation, about 2020–21; may be out of date)"
+        },
+        "Gandhidham": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Mahesana": {
+          "status": "yes",
+          "note": "4 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "New Bhuj": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Palanpur": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Sabarmati (MG)": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Samakhiali": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Vadnagar": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
         }
       }
     },
@@ -73,10 +121,49 @@
       }
     }
   },
+  "station_notes": {
+    "Samakhiali": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what."
+  },
   "station_codes": {
     "Ahmedabad": "ADI",
+    "Bhuj": "BHUJ",
     "Gandhidham": "GIMB",
     "Mahesana": "MSH",
-    "Bhuj": "BHUJ"
+    "Palanpur": "PNU",
+    "Samakhiali": "SIOB"
+  },
+  "station_sources": {
+    "Ahmedabad": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://www.irctctourism.com/wheelchair"
+    ],
+    "Bhachau": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Bhuj": [
+      "https://www.readkong.com/page/ahmedabad-division-western-railway-2295689"
+    ],
+    "Gandhidham": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Mahesana": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "New Bhuj": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Palanpur": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Sabarmati (MG)": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Samakhiali": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Vadnagar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ]
   }
 }

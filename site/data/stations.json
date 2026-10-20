@@ -89,16 +89,16 @@
      "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
     },
     {
+     "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+     "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
+    {
      "title": "IRCTC e-wheelchair booking page (undated)",
      "url": "https://www.irctctourism.com/wheelchair"
     },
     {
      "title": "Ahmedabad division presentation (undated, about 2020–21)",
      "url": "https://www.readkong.com/page/ahmedabad-division-western-railway-2295689"
-    },
-    {
-     "title": "PIB: lifts, escalators and FOBs at Western Railway stations",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298294&reg=48&lang=2"
     }
    ]
   },
@@ -111,6 +111,25 @@
    "method": "parsed-station",
    "method_note": null,
    "sources": null
+  },
+  {
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+   "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+   "retrieved": "2026-10-20",
+   "method": "secondary",
+   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+   "sources": [
+    {
+     "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+     "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+     "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+     "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    }
+   ]
   },
   {
    "division": "Bhopal",
@@ -165,12 +184,20 @@
   {
    "division": "Mumbai Central",
    "zone": "Western Railway",
-   "source_title": "IRCTC e-wheelchair booking page (undated)",
-   "source_url": "https://www.irctctourism.com/wheelchair",
+   "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+   "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
    "retrieved": "2026-10-20",
    "method": "secondary",
    "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
    "sources": [
+    {
+     "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+     "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+     "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+     "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
     {
      "title": "IRCTC e-wheelchair booking page (undated)",
      "url": "https://www.irctctourism.com/wheelchair"
@@ -201,6 +228,10 @@
      "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
     },
     {
+     "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+     "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
+    {
      "title": "DeshGujarat: Rajkot station gets escalators and lifts (10 Jan 2022)",
      "url": "https://deshgujarat.com/2022/01/10/rajkot-railway-station-gets-electronic-escalator-lift-other-facilities/"
     }
@@ -215,6 +246,29 @@
    "method": "parsed-list",
    "method_note": null,
    "sources": null
+  },
+  {
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+   "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+   "retrieved": "2026-10-20",
+   "method": "secondary",
+   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+   "sources": [
+    {
+     "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+     "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+     "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+     "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
+    {
+     "title": "DeshGujarat: Chhayapuri station gets escalators (27 Sep 2025)",
+     "url": "https://deshgujarat.com/2025/09/27/chhayapuri-railway-station-in-vadodara-gets-escalators-and-other-amenities/"
+    }
+   ]
   }
  ],
  "stations": [
@@ -550,6 +604,10 @@
    "name": "Ahmedabad",
    "code": "ADI",
    "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://www.irctctourism.com/wheelchair"
+   ],
    "division": "Ahmedabad",
    "zone": "Western Railway",
    "features": {
@@ -1362,6 +1420,144 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "anand",
+   "name": "Anand",
+   "code": "ANND",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "ankleshwar",
+   "name": "Ankleshwar",
+   "code": "AKV",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -3904,6 +4100,75 @@
    }
   },
   {
+   "id": "bhachau",
+   "name": "Bhachau",
+   "code": "",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "bhadanpur",
    "name": "Bhadanpur",
    "code": "BUU",
@@ -4044,6 +4309,75 @@
    }
   },
   {
+   "id": "bhaktinagar",
+   "name": "Bhaktinagar",
+   "code": "BKNG",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "1 lift (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "bhandartikuri",
    "name": "Bhandartikuri",
    "code": "",
@@ -4173,6 +4507,75 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "bhavnagar-terminus",
+   "name": "Bhavnagar Terminus",
+   "code": "BVC",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -4320,6 +4723,9 @@
    "name": "Bhuj",
    "code": "BHUJ",
    "aliases": [],
+   "sources": [
+    "https://www.readkong.com/page/ahmedabad-division-western-railway-2295689"
+   ],
    "division": "Ahmedabad",
    "zone": "Western Railway",
    "features": {
@@ -4337,11 +4743,10 @@
     },
     "lift": {
      "status": "yes",
-     "note": "2 lifts (division presentation, about 2020–21; more lifts are part of the new Bhuj station works (PIB))"
+     "note": "2 lifts (division presentation, about 2020–21; may be out of date)"
     },
     "escalator": {
-     "status": "no",
-     "note": "Escalators are part of the new Bhuj station works (PIB)"
+     "status": "unknown"
     },
     "ramp_entry": {
      "status": "unknown"
@@ -4911,6 +5316,75 @@
    }
   },
   {
+   "id": "botad",
+   "name": "Botad",
+   "code": "BTD",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "chamagram",
    "name": "Chamagram",
    "code": "CMX",
@@ -5242,6 +5716,76 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "chhayapuri",
+   "name": "Chhayapuri",
+   "code": "CYI",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://deshgujarat.com/2025/09/27/chhayapuri-railway-station-in-vadodara-gets-escalators-and-other-amenities/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "On the new foot overbridge between PF 1 and 2, opened Sep 2025"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -5791,6 +6335,74 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "dakor",
+   "name": "Dakor",
+   "code": "DK",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
@@ -6478,6 +7090,74 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "derol",
+   "name": "Derol",
+   "code": "DRL",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -7228,6 +7908,75 @@
    }
   },
   {
+   "id": "dwarka",
+   "name": "Dwarka",
+   "code": "DWK",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "ekchari",
    "name": "Ekchari",
    "code": "EKC",
@@ -7287,6 +8036,75 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "ekta-nagar",
+   "name": "Ekta Nagar",
+   "code": "EKNR",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "6 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -7438,6 +8256,9 @@
    "name": "Gandhidham",
    "code": "GIMB",
    "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
    "division": "Ahmedabad",
    "zone": "Western Railway",
    "features": {
@@ -7460,6 +8281,75 @@
     "escalator": {
      "status": "yes",
      "note": "4 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "gandhigram",
+   "name": "Gandhigram",
+   "code": "GG",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
     },
     "ramp_entry": {
      "status": "unknown"
@@ -8163,6 +9053,75 @@
    }
   },
   {
+   "id": "godhra",
+   "name": "Godhra",
+   "code": "GDA",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "gopalpurgram",
    "name": "Gopalpurgram",
    "code": "",
@@ -8747,6 +9706,77 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "hapa",
+   "name": "Hapa",
+   "code": "HAPA",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -9497,10 +10527,81 @@
    }
   },
   {
+   "id": "jamjodhpur",
+   "name": "Jamjodhpur",
+   "code": "JDH",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "jamnagar",
    "name": "Jamnagar",
    "code": "JAM",
    "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
    "division": "Rajkot",
    "zone": "Western Railway",
    "features": {
@@ -9523,6 +10624,74 @@
     "escalator": {
      "status": "yes",
      "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "jamwanthali",
+   "name": "Jamwanthali",
+   "code": "WTJ",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
     },
     "ramp_entry": {
      "status": "unknown"
@@ -10043,6 +11212,75 @@
    }
   },
   {
+   "id": "jetalsar",
+   "name": "Jetalsar",
+   "code": "JLR",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "jhamatpur-baharan",
    "name": "Jhamatpur Baharan",
    "code": "",
@@ -10431,6 +11669,75 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "junagadh",
+   "name": "Junagadh",
+   "code": "JND",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
@@ -11325,6 +12632,74 @@
    }
   },
   {
+   "id": "kanalus",
+   "name": "Kanalus",
+   "code": "",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "kanchanpur-road",
    "name": "Kanchanpur Road",
    "code": "KNC",
@@ -11600,6 +12975,74 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "karamsad",
+   "name": "Karamsad",
+   "code": "",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -12566,6 +14009,75 @@
    }
   },
   {
+   "id": "khambhaliya",
+   "name": "Khambhaliya",
+   "code": "KMBL",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "khana",
    "name": "Khana",
    "code": "",
@@ -13447,6 +14959,77 @@
    }
   },
   {
+   "id": "kosamba",
+   "name": "Kosamba",
+   "code": "KSB",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "kotalpukur",
    "name": "Kotalpukur",
    "code": "",
@@ -14111,6 +15694,74 @@
    }
   },
   {
+   "id": "limbdi",
+   "name": "Limbdi",
+   "code": "LM",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "lohapur",
    "name": "Lohapur",
    "code": "",
@@ -14740,6 +16391,9 @@
    "name": "Mahesana",
    "code": "MSH",
    "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
    "division": "Ahmedabad",
    "zone": "Western Railway",
    "features": {
@@ -14757,10 +16411,11 @@
     },
     "lift": {
      "status": "yes",
-     "note": "4 lifts (division presentation, about 2020–21; may be out of date)"
+     "note": "4 lifts (Lok Sabha answer, as on 31 Jul 2023)"
     },
     "escalator": {
-     "status": "unknown"
+     "status": "yes",
+     "note": "4 escalators (Lok Sabha answer, as on 31 Jul 2023)"
     },
     "ramp_entry": {
      "status": "unknown"
@@ -14992,6 +16647,74 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "mahuva",
+   "name": "Mahuva",
+   "code": "MHV",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -16154,6 +17877,74 @@
    }
   },
   {
+   "id": "mithapur",
+   "name": "Mithapur",
+   "code": "MTHP",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "moharajpur",
    "name": "Moharajpur",
    "code": "MJP",
@@ -16285,6 +18076,74 @@
    }
   },
   {
+   "id": "morbi",
+   "name": "Morbi",
+   "code": "MVI",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "moregram",
    "name": "Moregram",
    "code": "",
@@ -16354,6 +18213,9 @@
    "name": "Mumbai Central",
    "code": "MMCT",
    "aliases": [],
+   "sources": [
+    "https://www.irctctourism.com/wheelchair"
+   ],
    "division": "Mumbai Central",
    "zone": "Western Railway",
    "features": {
@@ -16806,6 +18668,75 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "nadiad",
+   "name": "Nadiad",
+   "code": "ND",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
@@ -17292,6 +19223,75 @@
    }
   },
   {
+   "id": "navsari",
+   "name": "Navsari",
+   "code": "NVS",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "negun",
    "name": "Negun",
    "code": "",
@@ -17424,6 +19424,75 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "new-bhuj",
+   "name": "New Bhuj",
+   "code": "",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -18124,6 +20193,11 @@
    "name": "Okha",
    "code": "OKHA",
    "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
    "division": "Rajkot",
    "zone": "Western Railway",
    "features": {
@@ -18383,6 +20457,146 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "palanpur",
+   "name": "Palanpur",
+   "code": "PNU",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "palitana",
+   "name": "Palitana",
+   "code": "PIT",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
@@ -19406,6 +21620,75 @@
    }
   },
   {
+   "id": "porbandar",
+   "name": "Porbandar",
+   "code": "PBR",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "prantik",
    "name": "Prantik",
    "code": "",
@@ -20105,6 +22388,10 @@
    "name": "Rajkot",
    "code": "RJT",
    "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://deshgujarat.com/2022/01/10/rajkot-railway-station-gets-electronic-escalator-lift-other-facilities/"
+   ],
    "division": "Rajkot",
    "zone": "Western Railway",
    "features": {
@@ -20226,6 +22513,74 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "rajula",
+   "name": "Rajula",
+   "code": "RLA",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -20702,6 +23057,75 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "sabarmati-mg",
+   "name": "Sabarmati (MG)",
+   "code": "",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -21366,6 +23790,77 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "samakhiali",
+   "name": "Samakhiali",
+   "code": "SIOB",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -22825,6 +25320,74 @@
    }
   },
   {
+   "id": "sihor",
+   "name": "Sihor",
+   "code": "",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "sikaripara",
    "name": "Sikaripara",
    "code": "",
@@ -23496,6 +26059,144 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "surat",
+   "name": "Surat",
+   "code": "ST",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "4 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "5 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "surendranagar",
+   "name": "Surendranagar",
+   "code": "SUNR",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "5 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -24864,6 +27565,75 @@
    }
   },
   {
+   "id": "udhna",
+   "name": "Udhna",
+   "code": "UDN",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "udyankhedi",
    "name": "Udyankhedi",
    "code": "",
@@ -25073,6 +27843,74 @@
    }
   },
   {
+   "id": "uttran",
+   "name": "Uttran",
+   "code": "",
+   "aliases": [],
+   "notes": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+   "sources": [
+    "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+   ],
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "vadgaon",
    "name": "Vadgaon",
    "code": "VDN",
@@ -25137,6 +27975,144 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "vadnagar",
+   "name": "Vadnagar",
+   "code": "",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "vadodara",
+   "name": "Vadodara",
+   "code": "BRC",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Vadodara",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "1 lift (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "6 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -25286,6 +28262,75 @@
    }
   },
   {
+   "id": "valsad",
+   "name": "Valsad",
+   "code": "BL",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "1 escalator (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "vambori",
    "name": "Vambori",
    "code": "VBR",
@@ -25350,6 +28395,144 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "vapi",
+   "name": "Vapi",
+   "code": "VAPI",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "3 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "veraval",
+   "name": "Veraval",
+   "code": "VRL",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Bhavnagar",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "1 lift (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -25567,6 +28750,75 @@
     "braille_signage": {
      "status": "no",
      "note": "Not provided: the railways don't require this at a station of this size"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "wankaner",
+   "name": "Wankaner",
+   "code": "WKR",
+   "aliases": [],
+   "sources": [
+    "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+   ],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"

@@ -1,0 +1,154 @@
+{
+  "division": "Vadodara",
+  "zone": "Western Railway",
+  "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+  "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+  "sources": [
+    {
+      "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+      "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+      "title": "DeshGujarat: PM inaugurates 18 Amrit Bharat stations in Gujarat (22 May 2025)",
+      "url": "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    },
+    {
+      "title": "DeshGujarat: Chhayapuri station gets escalators (27 Sep 2025)",
+      "url": "https://deshgujarat.com/2025/09/27/chhayapuri-railway-station-in-vadodara-gets-escalators-and-other-amenities/"
+    }
+  ],
+  "retrieved": "2026-10-20",
+  "method": "secondary",
+  "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+  "features": {
+    "escalator": {
+      "complete": false,
+      "per_station": {
+        "Anand": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Ankleshwar": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Chhayapuri": {
+          "status": "yes",
+          "note": "On the new foot overbridge between PF 1 and 2, opened Sep 2025"
+        },
+        "Ekta Nagar": {
+          "status": "yes",
+          "note": "6 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Godhra": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Kosamba": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Nadiad": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Vadodara": {
+          "status": "yes",
+          "note": "6 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    },
+    "lift": {
+      "complete": false,
+      "per_station": {
+        "Anand": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Ankleshwar": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Chhayapuri": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Ekta Nagar": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Godhra": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Kosamba": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Nadiad": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Vadodara": {
+          "status": "yes",
+          "note": "1 lift (Lok Sabha answer, as on 31 Jul 2023)"
+        }
+      }
+    }
+  },
+  "station_notes": {
+    "Dakor": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Derol": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Karamsad": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what.",
+    "Kosamba": "Redeveloped under the Amrit Bharat Station Scheme, inaugurated 22 May 2025. The report says the 18 redeveloped Gujarat stations got lifts, escalators and Divyangjan-friendly facilities, but not which station got what."
+  },
+  "station_codes": {
+    "Anand": "ANND",
+    "Ankleshwar": "AKV",
+    "Chhayapuri": "CYI",
+    "Dakor": "DK",
+    "Derol": "DRL",
+    "Ekta Nagar": "EKNR",
+    "Godhra": "GDA",
+    "Kosamba": "KSB",
+    "Nadiad": "ND",
+    "Vadodara": "BRC"
+  },
+  "station_sources": {
+    "Anand": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Ankleshwar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Chhayapuri": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://deshgujarat.com/2025/09/27/chhayapuri-railway-station-in-vadodara-gets-escalators-and-other-amenities/"
+    ],
+    "Dakor": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Derol": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Ekta Nagar": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Godhra": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Karamsad": [
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Kosamba": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+      "https://deshgujarat.com/2025/05/22/pm-modi-inaugurates-18-amrit-bharat-railway-stations-in-gujarat/"
+    ],
+    "Nadiad": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ],
+    "Vadodara": [
+      "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    ]
+  }
+}

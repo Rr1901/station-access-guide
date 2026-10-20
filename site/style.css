@@ -133,6 +133,7 @@ a { color: var(--accent); }
   border: 2px dashed var(--line); border-radius: var(--radius); text-decoration: none;
 }
 .src { color: var(--muted); font-size: 0.9rem; }
+.st-note { margin: 0.75rem 0 0; color: var(--ink); }
 .caveat { margin: 1rem 0; padding: 0.75rem 1rem; border-radius: var(--radius); background: var(--no-bg); color: var(--ink); border: 1px solid var(--line); font-size: 0.95rem; }
 .caveat p { margin: 0 0 0.4rem; }
 .caveat ul { margin: 0; padding-left: 1.2rem; }
