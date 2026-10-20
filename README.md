@@ -54,6 +54,11 @@ Known gaps: three Malda codes (BPBS, NALE, UXN) aren't in the open station list,
 
 Next: other zones' station-wise PDFs (Northern, Western, Southern, South Central, …), which aren't indexed by search engines; they need to be found on each zone's website.
 
+## Roadmap
+
+- **Phase 1 (now):** official divisional PDFs, plus clearly labelled secondary sources where a zone hasn't published any.
+- **Phase 2:** visitors record a short video at a station; Gemini checks the location and station boards and lists the facilities it sees. See [docs/phase-2-video-reports.md](docs/phase-2-video-reports.md).
+
 ## Run it locally
 
 ```bash
