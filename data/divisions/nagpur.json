@@ -1,0 +1,4177 @@
+{
+  "division": "Nagpur",
+  "zone": "Central Railway",
+  "source_title": "Divyangjan data – Central Railway, Nagpur division (file 'DIVYANGJAN DATA WEBSITE', Oct 2026)",
+  "source_url": "https://cr.indianrailways.gov.in/",
+  "retrieved": "2026-10-20",
+  "method": "parsed-grid",
+  "features": {
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes"
+        },
+        "Wardha": {
+          "status": "yes"
+        },
+        "Chandrapur": {
+          "status": "yes"
+        },
+        "Ballarshah": {
+          "status": "yes"
+        },
+        "Betul": {
+          "status": "yes"
+        },
+        "Ajni": {
+          "status": "yes"
+        },
+        "Sewagram": {
+          "status": "yes"
+        },
+        "Pulgaon": {
+          "status": "yes"
+        },
+        "Dhamangaon": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Chandur": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Hinganghat": {
+          "status": "yes"
+        },
+        "Warora": {
+          "status": "yes"
+        },
+        "Amla": {
+          "status": "yes"
+        },
+        "Multai": {
+          "status": "yes"
+        },
+        "Pandhurna": {
+          "status": "yes"
+        },
+        "Narkhed": {
+          "status": "yes"
+        },
+        "Ghoradongri": {
+          "status": "yes"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "yes"
+        },
+        "Parasia": {
+          "status": "yes"
+        },
+        "Khapri": {
+          "status": "yes"
+        },
+        "Gumgaon": {
+          "status": "yes"
+        },
+        "Butibori": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Borkhedi": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Sindi": {
+          "status": "yes"
+        },
+        "Tuljapur": {
+          "status": "yes"
+        },
+        "Seloo Road": {
+          "status": "yes"
+        },
+        "Dahegaon": {
+          "status": "yes"
+        },
+        "Kaotha": {
+          "status": "yes"
+        },
+        "Talni": {
+          "status": "yes"
+        },
+        "Malkhed": {
+          "status": "yes"
+        },
+        "Timtala": {
+          "status": "yes"
+        },
+        "Deoli": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Kalamb": {
+          "status": "yes"
+        },
+        "Bhandak": {
+          "status": "yes"
+        },
+        "Babupeth": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Tadali": {
+          "status": "yes"
+        },
+        "Majri": {
+          "status": "yes"
+        },
+        "Wani": {
+          "status": "yes"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "yes"
+        },
+        "Sonegaon": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Bhugaon": {
+          "status": "yes"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Jaulkheda": {
+          "status": "yes"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "yes"
+        },
+        "Kalambha": {
+          "status": "yes"
+        },
+        "Katol": {
+          "status": "yes"
+        },
+        "Metpanjra": {
+          "status": "yes"
+        },
+        "Sonkhamb": {
+          "status": "yes"
+        },
+        "Kohli": {
+          "status": "yes"
+        },
+        "Kalmeshwar": {
+          "status": "yes"
+        },
+        "Bharatwada": {
+          "status": "no"
+        },
+        "Godhani": {
+          "status": "yes"
+        },
+        "Morshi": {
+          "status": "yes"
+        },
+        "Pusla": {
+          "status": "yes"
+        },
+        "Warud Orange City": {
+          "status": "yes"
+        },
+        "Kirathgarh": {
+          "status": "yes"
+        },
+        "Taku": {
+          "status": "yes"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Dhodramohor": {
+          "status": "yes"
+        },
+        "Barbatpur": {
+          "status": "yes"
+        },
+        "Dharakhoh": {
+          "status": "yes"
+        },
+        "Maramjhiri": {
+          "status": "yes"
+        },
+        "Barsali": {
+          "status": "yes"
+        },
+        "Jambhara": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Navegaon": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "yes"
+        },
+        "Bhidi": {
+          "status": "yes"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "yes"
+        },
+        "Darimeta": {
+          "status": "yes"
+        },
+        "Tinkheda": {
+          "status": "yes"
+        },
+        "Ridhapur": {
+          "status": "yes"
+        },
+        "Benoda": {
+          "status": "yes"
+        },
+        "Malkapur Road": {
+          "status": "yes",
+          "note": "Ground-level entry, no ramp needed"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes"
+        },
+        "Wardha": {
+          "status": "yes"
+        },
+        "Chandrapur": {
+          "status": "yes"
+        },
+        "Ballarshah": {
+          "status": "no"
+        },
+        "Betul": {
+          "status": "yes"
+        },
+        "Ajni": {
+          "status": "yes"
+        },
+        "Sewagram": {
+          "status": "yes"
+        },
+        "Pulgaon": {
+          "status": "yes"
+        },
+        "Dhamangaon": {
+          "status": "yes"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "yes"
+        },
+        "Warora": {
+          "status": "no"
+        },
+        "Amla": {
+          "status": "yes"
+        },
+        "Multai": {
+          "status": "yes"
+        },
+        "Pandhurna": {
+          "status": "yes"
+        },
+        "Narkhed": {
+          "status": "yes"
+        },
+        "Ghoradongri": {
+          "status": "yes"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "yes"
+        },
+        "Parasia": {
+          "status": "yes"
+        },
+        "Khapri": {
+          "status": "yes"
+        },
+        "Gumgaon": {
+          "status": "yes"
+        },
+        "Butibori": {
+          "status": "yes"
+        },
+        "Borkhedi": {
+          "status": "yes"
+        },
+        "Sindi": {
+          "status": "yes"
+        },
+        "Tuljapur": {
+          "status": "yes"
+        },
+        "Seloo Road": {
+          "status": "yes"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "yes"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "yes"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "yes"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "yes"
+        },
+        "Chichonda": {
+          "status": "yes"
+        },
+        "Teegaon": {
+          "status": "yes"
+        },
+        "Kalambha": {
+          "status": "yes"
+        },
+        "Katol": {
+          "status": "yes"
+        },
+        "Metpanjra": {
+          "status": "yes"
+        },
+        "Sonkhamb": {
+          "status": "yes"
+        },
+        "Kohli": {
+          "status": "yes"
+        },
+        "Kalmeshwar": {
+          "status": "yes"
+        },
+        "Bharatwada": {
+          "status": "yes"
+        },
+        "Godhani": {
+          "status": "no"
+        },
+        "Morshi": {
+          "status": "yes"
+        },
+        "Pusla": {
+          "status": "yes"
+        },
+        "Warud Orange City": {
+          "status": "yes"
+        },
+        "Kirathgarh": {
+          "status": "yes"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "yes"
+        },
+        "Dhodramohor": {
+          "status": "yes"
+        },
+        "Barbatpur": {
+          "status": "yes"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "yes"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "yes"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "yes"
+        },
+        "Darimeta": {
+          "status": "yes"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "low_counter": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes",
+          "note": "2 counters"
+        },
+        "Wardha": {
+          "status": "yes",
+          "note": "2 counters"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Ballarshah": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Betul": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Ajni": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Sewagram": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Pulgaon": {
+          "status": "no"
+        },
+        "Dhamangaon": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "no"
+        },
+        "Warora": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Amla": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Multai": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Pandhurna": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Narkhed": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Ghoradongri": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Parasia": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Khapri": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Gumgaon": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Butibori": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Borkhedi": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Sindi": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Tuljapur": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Seloo Road": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "no"
+        },
+        "Kalambha": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Katol": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Metpanjra": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Sonkhamb": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Kohli": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Kalmeshwar": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Bharatwada": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Godhani": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Morshi": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Pusla": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Warud Orange City": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Kirathgarh": {
+          "status": "yes",
+          "note": "1 counter"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "no"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "no"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes",
+          "note": "Ask the Dy. SS (Comm)"
+        },
+        "Wardha": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Ballarshah": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Betul": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Ajni": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Sewagram": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Pulgaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Dhamangaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Chandur": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Hinganghat": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Warora": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Amla": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Multai": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Pandhurna": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Narkhed": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Ghoradongri": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Bordhai": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Junnardeo": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Parasia": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Khapri": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Gumgaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Butibori": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Borkhedi": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Sindi": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Tuljapur": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Seloo Road": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Dahegaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kaotha": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Talni": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Malkhed": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Timtala": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Deoli": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kalamb": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Bhandak": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Babupeth": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Tadali": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Majri": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Wani": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Chikni Road": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Nagri": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Wagholi": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Sonegaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Bhugaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kayar": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Lingti": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Pimpalkhuti": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Majri Khadan": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Jaulkheda": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Chichonda": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Teegaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kalambha": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Katol": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Metpanjra": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Sonkhamb": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kohli": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kalmeshwar": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Bharatwada": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Godhani": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Morshi": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Pusla": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Warud Orange City": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kirathgarh": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Taku": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Saheli": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Kalaakhar": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Dhodramohor": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Barbatpur": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Dharakhoh": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Maramjhiri": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Barsali": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Jambhara": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Navegaon": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Hirdagarh": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Palachauri": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Iklehra": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Gondwana Visapur": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Mowad": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Barchi Road": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Barelipar": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Markadhana": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Gangiwara": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Varud": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Bhidi": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Ghudankhapa": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Hatnapur": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Darimeta": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Tinkheda": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Ridhapur": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Benoda": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        },
+        "Malkapur Road": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Magrdoh": {
+          "status": "yes",
+          "note": "Ask the Station Manager"
+        },
+        "Lalawadi": {
+          "status": "no",
+          "note": "No railway staff posted at this station"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes",
+          "note": "6 toilets"
+        },
+        "Wardha": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Ballarshah": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Betul": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Ajni": {
+          "status": "no"
+        },
+        "Sewagram": {
+          "status": "yes",
+          "note": "2 toilets"
+        },
+        "Pulgaon": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Dhamangaon": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Chandur": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Hinganghat": {
+          "status": "no"
+        },
+        "Warora": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Amla": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Multai": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Pandhurna": {
+          "status": "yes",
+          "note": "2 toilets"
+        },
+        "Narkhed": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Ghoradongri": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Bordhai": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Junnardeo": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Parasia": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Khapri": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Gumgaon": {
+          "status": "yes",
+          "note": "2 toilets"
+        },
+        "Butibori": {
+          "status": "yes",
+          "note": "2 toilets"
+        },
+        "Borkhedi": {
+          "status": "yes",
+          "note": "2 toilets"
+        },
+        "Sindi": {
+          "status": "yes",
+          "note": "2 toilets"
+        },
+        "Tuljapur": {
+          "status": "yes",
+          "note": "2 toilets"
+        },
+        "Seloo Road": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Dahegaon": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Kaotha": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Talni": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Malkhed": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Timtala": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Deoli": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Kalamb": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Bhandak": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Babupeth": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Tadali": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Majri": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Wani": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Chikni Road": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Nagri": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Wagholi": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Sonegaon": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Bhugaon": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Kayar": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Lingti": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Pimpalkhuti": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Majri Khadan": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Jaulkheda": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Chichonda": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Teegaon": {
+          "status": "no"
+        },
+        "Kalambha": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Katol": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Metpanjra": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Sonkhamb": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Kohli": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Kalmeshwar": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Bharatwada": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Godhani": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Morshi": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Pusla": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Warud Orange City": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Kirathgarh": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Taku": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Saheli": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Kalaakhar": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Dhodramohor": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Barbatpur": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Dharakhoh": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Maramjhiri": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Barsali": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Jambhara": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Navegaon": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Hirdagarh": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Palachauri": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Iklehra": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "yes",
+          "note": "1 toilet"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes",
+          "note": "10 water stands"
+        },
+        "Wardha": {
+          "status": "yes",
+          "note": "2 water stands"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Ballarshah": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Betul": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Ajni": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Sewagram": {
+          "status": "yes",
+          "note": "2 water stands"
+        },
+        "Pulgaon": {
+          "status": "no"
+        },
+        "Dhamangaon": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Warora": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Amla": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Multai": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Pandhurna": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Narkhed": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Ghoradongri": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "yes",
+          "note": "2 water stands"
+        },
+        "Parasia": {
+          "status": "yes",
+          "note": "2 water stands"
+        },
+        "Khapri": {
+          "status": "no"
+        },
+        "Gumgaon": {
+          "status": "no"
+        },
+        "Butibori": {
+          "status": "no"
+        },
+        "Borkhedi": {
+          "status": "no"
+        },
+        "Sindi": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Tuljapur": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Seloo Road": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "no"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "yes",
+          "note": "2 water stands"
+        },
+        "Kalamb": {
+          "status": "yes",
+          "note": "2 water stands"
+        },
+        "Bhandak": {
+          "status": "no"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Jaulkheda": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Chichonda": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Teegaon": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Kalambha": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Katol": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Metpanjra": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Sonkhamb": {
+          "status": "no"
+        },
+        "Kohli": {
+          "status": "no"
+        },
+        "Kalmeshwar": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Bharatwada": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Godhani": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Morshi": {
+          "status": "no"
+        },
+        "Pusla": {
+          "status": "no"
+        },
+        "Warud Orange City": {
+          "status": "no"
+        },
+        "Kirathgarh": {
+          "status": "no"
+        },
+        "Taku": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "no"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Dharakhoh": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Maramjhiri": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "yes",
+          "note": "1 water stand"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "yes",
+          "note": "2 water stands"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "ramp_fob": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes"
+        },
+        "Wardha": {
+          "status": "yes"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Ballarshah": {
+          "status": "no"
+        },
+        "Betul": {
+          "status": "no"
+        },
+        "Ajni": {
+          "status": "no"
+        },
+        "Sewagram": {
+          "status": "no"
+        },
+        "Pulgaon": {
+          "status": "yes"
+        },
+        "Dhamangaon": {
+          "status": "no"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "yes"
+        },
+        "Warora": {
+          "status": "no"
+        },
+        "Amla": {
+          "status": "yes"
+        },
+        "Multai": {
+          "status": "no"
+        },
+        "Pandhurna": {
+          "status": "no"
+        },
+        "Narkhed": {
+          "status": "no"
+        },
+        "Ghoradongri": {
+          "status": "no"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "yes"
+        },
+        "Parasia": {
+          "status": "no"
+        },
+        "Khapri": {
+          "status": "no"
+        },
+        "Gumgaon": {
+          "status": "no"
+        },
+        "Butibori": {
+          "status": "no"
+        },
+        "Borkhedi": {
+          "status": "no"
+        },
+        "Sindi": {
+          "status": "no"
+        },
+        "Tuljapur": {
+          "status": "no"
+        },
+        "Seloo Road": {
+          "status": "no"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "no"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "no"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "no"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "no"
+        },
+        "Kalambha": {
+          "status": "no"
+        },
+        "Katol": {
+          "status": "no"
+        },
+        "Metpanjra": {
+          "status": "no"
+        },
+        "Sonkhamb": {
+          "status": "no"
+        },
+        "Kohli": {
+          "status": "no"
+        },
+        "Kalmeshwar": {
+          "status": "no"
+        },
+        "Bharatwada": {
+          "status": "no"
+        },
+        "Godhani": {
+          "status": "no"
+        },
+        "Morshi": {
+          "status": "no"
+        },
+        "Pusla": {
+          "status": "no"
+        },
+        "Warud Orange City": {
+          "status": "no"
+        },
+        "Kirathgarh": {
+          "status": "no"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "no"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "no"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "escalator": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes",
+          "note": "6 escalators"
+        },
+        "Wardha": {
+          "status": "no"
+        },
+        "Chandrapur": {
+          "status": "no"
+        },
+        "Ballarshah": {
+          "status": "no"
+        },
+        "Betul": {
+          "status": "no"
+        },
+        "Ajni": {
+          "status": "no"
+        },
+        "Sewagram": {
+          "status": "no"
+        },
+        "Pulgaon": {
+          "status": "no"
+        },
+        "Dhamangaon": {
+          "status": "no"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "no"
+        },
+        "Warora": {
+          "status": "no"
+        },
+        "Amla": {
+          "status": "no"
+        },
+        "Multai": {
+          "status": "no"
+        },
+        "Pandhurna": {
+          "status": "no"
+        },
+        "Narkhed": {
+          "status": "no"
+        },
+        "Ghoradongri": {
+          "status": "no"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "no"
+        },
+        "Parasia": {
+          "status": "no"
+        },
+        "Khapri": {
+          "status": "no"
+        },
+        "Gumgaon": {
+          "status": "no"
+        },
+        "Butibori": {
+          "status": "no"
+        },
+        "Borkhedi": {
+          "status": "no"
+        },
+        "Sindi": {
+          "status": "no"
+        },
+        "Tuljapur": {
+          "status": "no"
+        },
+        "Seloo Road": {
+          "status": "no"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "no"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "no"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "no"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "no"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "no"
+        },
+        "Kalambha": {
+          "status": "no"
+        },
+        "Katol": {
+          "status": "no"
+        },
+        "Metpanjra": {
+          "status": "no"
+        },
+        "Sonkhamb": {
+          "status": "no"
+        },
+        "Kohli": {
+          "status": "no"
+        },
+        "Kalmeshwar": {
+          "status": "no"
+        },
+        "Bharatwada": {
+          "status": "no"
+        },
+        "Godhani": {
+          "status": "no"
+        },
+        "Morshi": {
+          "status": "no"
+        },
+        "Pusla": {
+          "status": "no"
+        },
+        "Warud Orange City": {
+          "status": "no"
+        },
+        "Kirathgarh": {
+          "status": "no"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "no"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "no"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "wheelchair": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes",
+          "note": "8 wheelchairs"
+        },
+        "Wardha": {
+          "status": "yes",
+          "note": "4 wheelchairs"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Ballarshah": {
+          "status": "yes",
+          "note": "3 wheelchairs"
+        },
+        "Betul": {
+          "status": "yes",
+          "note": "3 wheelchairs"
+        },
+        "Ajni": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Sewagram": {
+          "status": "yes",
+          "note": "3 wheelchairs"
+        },
+        "Pulgaon": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Dhamangaon": {
+          "status": "yes",
+          "note": "3 wheelchairs"
+        },
+        "Chandur": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Hinganghat": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Warora": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Amla": {
+          "status": "yes",
+          "note": "3 wheelchairs"
+        },
+        "Multai": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Pandhurna": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Narkhed": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Ghoradongri": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Bordhai": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Junnardeo": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Parasia": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Khapri": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Gumgaon": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Butibori": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Borkhedi": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Sindi": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Tuljapur": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Seloo Road": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Dahegaon": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kaotha": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Talni": {
+          "status": "yes",
+          "note": "2 wheelchairs"
+        },
+        "Malkhed": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Timtala": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Deoli": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kalamb": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Bhandak": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Babupeth": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Tadali": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Majri": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Wani": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Chikni Road": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Nagri": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Wagholi": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Sonegaon": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Bhugaon": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kayar": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Lingti": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Pimpalkhuti": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Majri Khadan": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Jaulkheda": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Chichonda": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Teegaon": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kalambha": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Katol": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Metpanjra": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Sonkhamb": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kohli": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kalmeshwar": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Bharatwada": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Godhani": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Morshi": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Pusla": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Warud Orange City": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kirathgarh": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Taku": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Saheli": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Kalaakhar": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Dhodramohor": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Barbatpur": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Dharakhoh": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Maramjhiri": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Barsali": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Jambhara": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Navegaon": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Hirdagarh": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Palachauri": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Iklehra": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Hatnapur": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Darimeta": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Tinkheda": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Ridhapur": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "yes",
+          "note": "1 wheelchair"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "lift": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "no"
+        },
+        "Wardha": {
+          "status": "yes",
+          "note": "8 lifts"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "2 lifts"
+        },
+        "Ballarshah": {
+          "status": "yes",
+          "note": "3 lifts"
+        },
+        "Betul": {
+          "status": "yes",
+          "note": "2 lifts"
+        },
+        "Ajni": {
+          "status": "yes",
+          "note": "1 lift"
+        },
+        "Sewagram": {
+          "status": "yes",
+          "note": "3 lifts"
+        },
+        "Pulgaon": {
+          "status": "yes",
+          "note": "2 lifts"
+        },
+        "Dhamangaon": {
+          "status": "yes",
+          "note": "2 lifts"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "no"
+        },
+        "Warora": {
+          "status": "no"
+        },
+        "Amla": {
+          "status": "yes",
+          "note": "3 lifts"
+        },
+        "Multai": {
+          "status": "yes",
+          "note": "2 lifts"
+        },
+        "Pandhurna": {
+          "status": "yes",
+          "note": "2 lifts"
+        },
+        "Narkhed": {
+          "status": "no"
+        },
+        "Ghoradongri": {
+          "status": "no"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "yes",
+          "note": "2 lifts"
+        },
+        "Parasia": {
+          "status": "no"
+        },
+        "Khapri": {
+          "status": "no"
+        },
+        "Gumgaon": {
+          "status": "no"
+        },
+        "Butibori": {
+          "status": "no"
+        },
+        "Borkhedi": {
+          "status": "no"
+        },
+        "Sindi": {
+          "status": "no"
+        },
+        "Tuljapur": {
+          "status": "no"
+        },
+        "Seloo Road": {
+          "status": "no"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "no"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "no"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "no"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "no"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "no"
+        },
+        "Kalambha": {
+          "status": "no"
+        },
+        "Katol": {
+          "status": "no"
+        },
+        "Metpanjra": {
+          "status": "no"
+        },
+        "Sonkhamb": {
+          "status": "no"
+        },
+        "Kohli": {
+          "status": "no"
+        },
+        "Kalmeshwar": {
+          "status": "no"
+        },
+        "Bharatwada": {
+          "status": "no"
+        },
+        "Godhani": {
+          "status": "no"
+        },
+        "Morshi": {
+          "status": "no"
+        },
+        "Pusla": {
+          "status": "no"
+        },
+        "Warud Orange City": {
+          "status": "no"
+        },
+        "Kirathgarh": {
+          "status": "no"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "no"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "no"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "battery_car": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "no"
+        },
+        "Wardha": {
+          "status": "no"
+        },
+        "Chandrapur": {
+          "status": "no"
+        },
+        "Ballarshah": {
+          "status": "no"
+        },
+        "Betul": {
+          "status": "no"
+        },
+        "Ajni": {
+          "status": "no"
+        },
+        "Sewagram": {
+          "status": "no"
+        },
+        "Pulgaon": {
+          "status": "no"
+        },
+        "Dhamangaon": {
+          "status": "no"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "no"
+        },
+        "Warora": {
+          "status": "no"
+        },
+        "Amla": {
+          "status": "no"
+        },
+        "Multai": {
+          "status": "no"
+        },
+        "Pandhurna": {
+          "status": "no"
+        },
+        "Narkhed": {
+          "status": "no"
+        },
+        "Ghoradongri": {
+          "status": "no"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "no"
+        },
+        "Parasia": {
+          "status": "no"
+        },
+        "Khapri": {
+          "status": "no"
+        },
+        "Gumgaon": {
+          "status": "no"
+        },
+        "Butibori": {
+          "status": "no"
+        },
+        "Borkhedi": {
+          "status": "no"
+        },
+        "Sindi": {
+          "status": "no"
+        },
+        "Tuljapur": {
+          "status": "no"
+        },
+        "Seloo Road": {
+          "status": "no"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "no"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "no"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "no"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "no"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "no"
+        },
+        "Kalambha": {
+          "status": "no"
+        },
+        "Katol": {
+          "status": "no"
+        },
+        "Metpanjra": {
+          "status": "no"
+        },
+        "Sonkhamb": {
+          "status": "no"
+        },
+        "Kohli": {
+          "status": "no"
+        },
+        "Kalmeshwar": {
+          "status": "no"
+        },
+        "Bharatwada": {
+          "status": "no"
+        },
+        "Godhani": {
+          "status": "no"
+        },
+        "Morshi": {
+          "status": "no"
+        },
+        "Pusla": {
+          "status": "no"
+        },
+        "Warud Orange City": {
+          "status": "no"
+        },
+        "Kirathgarh": {
+          "status": "no"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "no"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "no"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "tactile_path": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Wardha": {
+          "status": "no"
+        },
+        "Chandrapur": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Ballarshah": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Betul": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Ajni": {
+          "status": "no"
+        },
+        "Sewagram": {
+          "status": "no"
+        },
+        "Pulgaon": {
+          "status": "no"
+        },
+        "Dhamangaon": {
+          "status": "no"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "no"
+        },
+        "Warora": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Amla": {
+          "status": "no"
+        },
+        "Multai": {
+          "status": "no"
+        },
+        "Pandhurna": {
+          "status": "no"
+        },
+        "Narkhed": {
+          "status": "no"
+        },
+        "Ghoradongri": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "yes"
+        },
+        "Parasia": {
+          "status": "no"
+        },
+        "Khapri": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Gumgaon": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Butibori": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Borkhedi": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Sindi": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Tuljapur": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Seloo Road": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "no"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "no"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "yes"
+        },
+        "Wani": {
+          "status": "yes",
+          "note": "Available on PF"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "no"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Kalambha": {
+          "status": "yes"
+        },
+        "Katol": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Metpanjra": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Sonkhamb": {
+          "status": "no"
+        },
+        "Kohli": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Kalmeshwar": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Bharatwada": {
+          "status": "no"
+        },
+        "Godhani": {
+          "status": "no"
+        },
+        "Morshi": {
+          "status": "no"
+        },
+        "Pusla": {
+          "status": "no"
+        },
+        "Warud Orange City": {
+          "status": "no"
+        },
+        "Kirathgarh": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "yes",
+          "note": "Partly available"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "yes"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    },
+    "braille_signage": {
+      "complete": true,
+      "per_station": {
+        "Nagpur": {
+          "status": "yes"
+        },
+        "Wardha": {
+          "status": "yes"
+        },
+        "Chandrapur": {
+          "status": "no"
+        },
+        "Ballarshah": {
+          "status": "no"
+        },
+        "Betul": {
+          "status": "no"
+        },
+        "Ajni": {
+          "status": "no"
+        },
+        "Sewagram": {
+          "status": "no"
+        },
+        "Pulgaon": {
+          "status": "no"
+        },
+        "Dhamangaon": {
+          "status": "no"
+        },
+        "Chandur": {
+          "status": "no"
+        },
+        "Hinganghat": {
+          "status": "no"
+        },
+        "Warora": {
+          "status": "no"
+        },
+        "Amla": {
+          "status": "no"
+        },
+        "Multai": {
+          "status": "no"
+        },
+        "Pandhurna": {
+          "status": "no"
+        },
+        "Narkhed": {
+          "status": "no"
+        },
+        "Ghoradongri": {
+          "status": "no"
+        },
+        "Bordhai": {
+          "status": "no"
+        },
+        "Junnardeo": {
+          "status": "no"
+        },
+        "Parasia": {
+          "status": "no"
+        },
+        "Khapri": {
+          "status": "no"
+        },
+        "Gumgaon": {
+          "status": "no"
+        },
+        "Butibori": {
+          "status": "no"
+        },
+        "Borkhedi": {
+          "status": "no"
+        },
+        "Sindi": {
+          "status": "no"
+        },
+        "Tuljapur": {
+          "status": "no"
+        },
+        "Seloo Road": {
+          "status": "no"
+        },
+        "Dahegaon": {
+          "status": "no"
+        },
+        "Kaotha": {
+          "status": "no"
+        },
+        "Talni": {
+          "status": "no"
+        },
+        "Malkhed": {
+          "status": "no"
+        },
+        "Timtala": {
+          "status": "no"
+        },
+        "Deoli": {
+          "status": "no"
+        },
+        "Kalamb": {
+          "status": "no"
+        },
+        "Bhandak": {
+          "status": "no"
+        },
+        "Babupeth": {
+          "status": "no"
+        },
+        "Tadali": {
+          "status": "no"
+        },
+        "Majri": {
+          "status": "no"
+        },
+        "Wani": {
+          "status": "no"
+        },
+        "Chikni Road": {
+          "status": "no"
+        },
+        "Nagri": {
+          "status": "no"
+        },
+        "Wagholi": {
+          "status": "no"
+        },
+        "Sonegaon": {
+          "status": "no"
+        },
+        "Bhugaon": {
+          "status": "no"
+        },
+        "Kayar": {
+          "status": "no"
+        },
+        "Lingti": {
+          "status": "no"
+        },
+        "Pimpalkhuti": {
+          "status": "no"
+        },
+        "Majri Khadan": {
+          "status": "no"
+        },
+        "Jaulkheda": {
+          "status": "no"
+        },
+        "Chichonda": {
+          "status": "no"
+        },
+        "Teegaon": {
+          "status": "no"
+        },
+        "Kalambha": {
+          "status": "no"
+        },
+        "Katol": {
+          "status": "no"
+        },
+        "Metpanjra": {
+          "status": "no"
+        },
+        "Sonkhamb": {
+          "status": "no"
+        },
+        "Kohli": {
+          "status": "no"
+        },
+        "Kalmeshwar": {
+          "status": "no"
+        },
+        "Bharatwada": {
+          "status": "no"
+        },
+        "Godhani": {
+          "status": "no"
+        },
+        "Morshi": {
+          "status": "no"
+        },
+        "Pusla": {
+          "status": "no"
+        },
+        "Warud Orange City": {
+          "status": "no"
+        },
+        "Kirathgarh": {
+          "status": "no"
+        },
+        "Taku": {
+          "status": "no"
+        },
+        "Saheli": {
+          "status": "no"
+        },
+        "Kalaakhar": {
+          "status": "no"
+        },
+        "Dhodramohor": {
+          "status": "no"
+        },
+        "Barbatpur": {
+          "status": "no"
+        },
+        "Dharakhoh": {
+          "status": "no"
+        },
+        "Maramjhiri": {
+          "status": "no"
+        },
+        "Barsali": {
+          "status": "no"
+        },
+        "Jambhara": {
+          "status": "no"
+        },
+        "Navegaon": {
+          "status": "no"
+        },
+        "Hirdagarh": {
+          "status": "no"
+        },
+        "Palachauri": {
+          "status": "no"
+        },
+        "Iklehra": {
+          "status": "no"
+        },
+        "Gondwana Visapur": {
+          "status": "no"
+        },
+        "Mowad": {
+          "status": "no"
+        },
+        "Barchi Road": {
+          "status": "no"
+        },
+        "Barelipar": {
+          "status": "no"
+        },
+        "Markadhana": {
+          "status": "no"
+        },
+        "Gangiwara": {
+          "status": "no"
+        },
+        "Varud": {
+          "status": "no"
+        },
+        "Bhidi": {
+          "status": "no"
+        },
+        "Ghudankhapa": {
+          "status": "no"
+        },
+        "Hatnapur": {
+          "status": "no"
+        },
+        "Darimeta": {
+          "status": "no"
+        },
+        "Tinkheda": {
+          "status": "no"
+        },
+        "Ridhapur": {
+          "status": "no"
+        },
+        "Benoda": {
+          "status": "no"
+        },
+        "Malkapur Road": {
+          "status": "no"
+        },
+        "Magrdoh": {
+          "status": "no"
+        },
+        "Lalawadi": {
+          "status": "no"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Ajni": "AQ",
+    "Amla": "AMLA",
+    "Babupeth": "BUPH",
+    "Ballarshah": "BPQ",
+    "Barbatpur": "BBTR",
+    "Barchi Road": "BCRD",
+    "Barelipar": "BQM",
+    "Barsali": "BYS",
+    "Benoda": "BNOD",
+    "Betul": "BZU",
+    "Bhandak": "BUX",
+    "Bharatwada": "BWRA",
+    "Bhidi": "BHIDI",
+    "Bhugaon": "BPK",
+    "Bordhai": "BXY",
+    "Borkhedi": "BOK",
+    "Butibori": "BTBR",
+    "Chandrapur": "CD",
+    "Chandur": "CND",
+    "Chichonda": "CCD",
+    "Chikni Road": "CKNI",
+    "Dahegaon": "DAE",
+    "Darimeta": "DDMT",
+    "Deoli": "DELI",
+    "Dhamangaon": "DMN",
+    "Dharakhoh": "DHQ",
+    "Dhodramohor": "DOH",
+    "Gangiwara": "GNW",
+    "Ghoradongri": "GDYA",
+    "Ghudankhapa": "GDKP",
+    "Godhani": "GNQ",
+    "Gondwana Visapur": "GNVR",
+    "Gumgaon": "GMG",
+    "Hatnapur": "HTN",
+    "Hinganghat": "HGT",
+    "Hirdagarh": "HRG",
+    "Iklehra": "IKR",
+    "Jambhara": "JMV",
+    "Jaulkheda": "JKR",
+    "Junnardeo": "JNO",
+    "Kalaakhar": "KQE",
+    "Kalamb": "KALM",
+    "Kalambha": "KLBA",
+    "Kalmeshwar": "KSWR",
+    "Kaotha": "KAOT",
+    "Katol": "KATL",
+    "Kayar": "KAYR",
+    "Khapri": "KRI",
+    "Kirathgarh": "KRTH",
+    "Kohli": "KOHL",
+    "Lalawadi": "LLD",
+    "Lingti": "LNT",
+    "Magrdoh": "MGRD",
+    "Majri": "MJRI",
+    "Majri Khadan": "MJKN",
+    "Malkapur Road": "MALK",
+    "Malkhed": "MLR",
+    "Maramjhiri": "MJY",
+    "Markadhana": "MKDN",
+    "Metpanjra": "MER",
+    "Morshi": "MRSH",
+    "Mowad": "MWAD",
+    "Multai": "MTY",
+    "Nagpur": "NGP",
+    "Nagri": "NGI",
+    "Narkhed": "NRKR",
+    "Navegaon": "NVG",
+    "Palachauri": "PCLI",
+    "Pandhurna": "PAR",
+    "Parasia": "PUX",
+    "Pimpalkhuti": "PMKT",
+    "Pulgaon": "PLO",
+    "Pusla": "PUSA",
+    "Ridhapur": "RDHR",
+    "Saheli": "SAHL",
+    "Seloo Road": "SLOR",
+    "Sewagram": "SEGM",
+    "Sindi": "SNI",
+    "Sonegaon": "SNN",
+    "Sonkhamb": "SNKB",
+    "Tadali": "TAE",
+    "Taku": "TAKU",
+    "Talni": "TLN",
+    "Teegaon": "TEO",
+    "Timtala": "TMT",
+    "Tinkheda": "TNH",
+    "Tuljapur": "TGP",
+    "Varud": "VUD",
+    "Wagholi": "WG",
+    "Wani": "WANI",
+    "Wardha": "WR",
+    "Warora": "WRR",
+    "Warud Orange City": "WOC"
+  }
+}

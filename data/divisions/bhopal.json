@@ -10,36 +10,36 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
           "status": "yes",
@@ -55,36 +55,36 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
           "status": "no"
@@ -98,44 +98,44 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chochora Binaganj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -143,44 +143,44 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chochora Binaganj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -233,36 +233,36 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
           "status": "yes",
@@ -278,44 +278,44 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chochora Binaganj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -384,12 +384,12 @@
           "status": "no"
         },
         "Kumbhraj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chochora Binaganj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -432,44 +432,44 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chochora Binaganj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -477,36 +477,36 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
           "status": "yes",
@@ -522,44 +522,44 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chochora Binaganj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -567,44 +567,44 @@
       "complete": true,
       "per_station": {
         "Raghogarh": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Lukwasa": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Udyankhedi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chauhani": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Tarawata": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Raiser Jagir": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khonker": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Khajuri": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kumbhraj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Chochora Binaganj": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     }

@@ -14,12 +14,12 @@
           "note": "Available with Station Manager office"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
           "status": "yes",
@@ -59,12 +59,12 @@
           "status": "no"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
           "status": "no"
@@ -99,52 +99,52 @@
       "complete": true,
       "per_station": {
         "Beohari": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kanchanpur Road": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Ghunwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Junheta": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dangidhar": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Hati": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sansarpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Madhavnagar": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kaima": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -152,52 +152,52 @@
       "complete": true,
       "per_station": {
         "Beohari": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kanchanpur Road": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Ghunwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Junheta": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dangidhar": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Hati": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sansarpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Madhavnagar": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kaima": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -252,12 +252,12 @@
           "note": "Available on PF No. 01 KTE end."
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
           "status": "no"
@@ -297,16 +297,16 @@
           "note": "Available on all PF's"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kanchanpur Road": {
           "status": "no"
@@ -475,20 +475,20 @@
       "complete": true,
       "per_station": {
         "Beohari": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kanchanpur Road": {
           "status": "no"
@@ -512,8 +512,8 @@
           "status": "no"
         },
         "Kaima": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -525,12 +525,12 @@
           "note": "Dy. SS (O) istructed to assist the Divyangjan Passenger as and when required."
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
           "status": "yes",
@@ -567,20 +567,20 @@
       "complete": true,
       "per_station": {
         "Beohari": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kanchanpur Road": {
           "status": "no"
@@ -604,8 +604,8 @@
           "status": "no"
         },
         "Kaima": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -613,20 +613,20 @@
       "complete": true,
       "per_station": {
         "Beohari": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Damoy": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Shankarpur Bhadora": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Bhadanpur": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Kanchanpur Road": {
           "status": "no"
@@ -650,8 +650,8 @@
           "status": "no"
         },
         "Kaima": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     }

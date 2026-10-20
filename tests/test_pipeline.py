@@ -118,8 +118,8 @@ def test_wcr_station_layout():
     found = {}
     layout, f = parse_rows(WCR_ROWS, None, found)
     assert layout == "station"
-    assert f["wheelchair"]["per_station"]["Raghogarh"]["status"] == "no"
-    assert "require" in f["wheelchair"]["per_station"]["Raghogarh"]["note"]
+    assert f["wheelchair"]["per_station"]["Raghogarh"]["status"] == "unknown"   # NOT APPLICABLE: not required,
+    assert "require" in f["wheelchair"]["per_station"]["Raghogarh"]["note"]      # which doesn't mean absent
     assert f["parking"]["per_station"]["Raghogarh"] == {"status": "yes", "note": "In circulating area"}
     assert f["ramp_second"]["per_station"]["Raghogarh"]["status"] == "no"   # "YES" but no second entry
     assert f["ramp_entry"]["per_station"]["Bayana"] == {"status": "yes", "note": "Under ABSS work"}
@@ -133,7 +133,7 @@ def test_grid_layout():
     assert layout == "grid"
     assert f["lift"]["per_station"]["Pune"] == {"status": "no", "note": "Work in progress"}
     assert f["escalator"]["per_station"]["Pune"]["status"] == "yes"
-    assert f["lift"]["per_station"]["Nira"]["status"] == "no"
+    assert f["lift"]["per_station"]["Nira"]["status"] == "unknown"             # "Not applicable"
     assert "Amrit Bharat" in f["ramp_fob"]["per_station"]["Nira"]["note"]
     assert found == {"Nira": "NIRA"}                                     # "Pune" in the code column isn't a code
 
@@ -162,6 +162,14 @@ def test_real_build():
     assert {s["code"] for s in data["stations"] if s["name"] == "Madhavnagar"} == {"MDVR", "MDRR"}
     assert by["Malda Town"]["features"]["ramp_second"]["status"] == "yes"      # "Malda." alias
     assert by["Sainagar Shirdi"]["code"] == "SNSI"
+    # Central Railway Mumbai sheet, Nagpur grid, Solapur scan
+    csmt = by["Chhatrapati Shivaji Maharaj Terminus"]
+    assert csmt["code"] == "CSMT" and "9004413911" in csmt["features"]["human_assistance"]["note"]
+    assert by["Kurla"]["features"]["lift"]["status"] == "unknown"               # "Not Applicable" isn't "no"
+    assert by["Khandala"]["features"]["ramp_entry"]["status"] == "no"           # "Technically not feasible"
+    assert by["Nagpur"]["features"]["escalator"]["note"] == "6 escalators"
+    assert "Mukutban" not in by                                                   # not open to passengers
+    assert by["Harangul"]["features"]["accessible_toilet"]["status"] == "no"
     wr = {d["division"]: d for d in data["divisions"] if d["zone"] == "Western Railway"}
     assert all(d["method"] == "secondary" and d["sources"] for d in wr.values())
     assert by["Okha"]["features"]["escalator"]["status"] == "no"

@@ -49,7 +49,9 @@ PHONE = re.compile(r"\b[6-9]\d{9}\b")
 COUNT_ONLY = re.compile(r"\b(\d+)\s*(nos\.?\s*(of\s*)?)?stations?\b", re.I)
 ALL_STATIONS = re.compile(r"\ball\s+sta\w*ions?\b", re.I)  # also catches the typo "staions"
 CODE_LIST = re.compile(r"[A-Z]{2,5}(\s*,\s*[A-Z\s]{2,7})*[\s.]*")  # "BGP", "AKN, BDAG, JM\nQ, ..."
-NA_NOTE = "Not provided: the railways don't require this at a station of this size"
+# "Not applicable" means the rules don't require it at this station category; it doesn't say whether
+# the station has it (Mumbai's list marks lifts "not applicable" at Kurla, which has them).
+NA_NOTE = "Not required at a station of this size, so the official list doesn't say"
 # Unfilled template text in the location column of the West Central Railway forms
 PLACEHOLDER = re.compile(r"^(na|location\s*\(s\)|at platform no/s\W*|no\. of parking.*|location to be .*|"
                          r"location of help booth to be indicated|specify the features.*|"
@@ -257,7 +259,7 @@ def station_item(said: str, location: str, remark: str) -> dict:
     if said == "yes" and re.search(r"no second entry|second (side ?)?entry not available|only one platform", text, re.I):
         said = "no"
     if said == "na":
-        return {"status": "no", "note": NA_NOTE}
+        return {"status": "unknown", "note": NA_NOTE}
     item = {"status": said}
     if text and said == "yes":  # a location next to a NO is a form-filling slip, not information
         item["note"] = text[:1].upper() + text[1:].lower() if text.isupper() else text
@@ -297,18 +299,44 @@ def parse_station_rows(rows: list[list[str]], found: dict | None = None) -> dict
 
 # ---------- grid layout ----------
 
-def grid_item(cell: str) -> dict | None:
-    t = cell.lower()
+UNITS = {"lift": "lift", "escalator": "escalator", "wheelchair": "wheelchair", "accessible_toilet": "toilet",
+         "water_booth": "water stand", "low_counter": "counter", "battery_car": "battery car"}
+
+
+def grid_item(cell: str, key: str = "") -> dict | None:
+    t = re.sub(r"\s+", " ", cell).strip().lower()
     if re.search(r"being provided|will be provided|under progress|under construction", t):
         return {"status": "no", "note": "Being provided under the Amrit Bharat Station Scheme"
                 if "abss" in t else "Work in progress"}
     said = answer(cell)
     if said == "na":
-        return {"status": "no", "note": NA_NOTE}
+        return {"status": "unknown", "note": NA_NOTE}
     if said:
         return {"status": said}
-    if cell.strip().isdigit():
-        return {"status": "yes" if int(cell) else "no"}
+    if t.isdigit():
+        n = int(t)
+        unit = UNITS.get(key)
+        return {"status": "yes", "note": f"{n} {unit}{'s' if n > 1 else ''}"} if n and unit else {"status": "yes" if n else "no"}
+    if t == "not required":
+        return {"status": "unknown", "note": "The official list says it isn't needed at this station"}
+    if t == "technically not feasible":
+        return {"status": "no", "note": "Technically not feasible here, according to the official list"}
+    if t == "no vehicular movement":
+        return {"status": "no", "note": "No vehicles can reach this station"}
+    if re.match(r"not (available )?on all pfs?$", t):
+        return {"status": "yes", "note": "Not on all platforms"}
+    if t.startswith("partial"):
+        return {"status": "yes", "note": "Partly available"}
+    if t.startswith("available on"):
+        return {"status": "yes", "note": cell.strip()}
+    if t == "ground level entry":
+        return {"status": "yes", "note": "Ground-level entry, no ramp needed"}
+    if t.startswith(("station manager", "dy. ss")):
+        return {"status": "yes", "note": f"Ask the {cell.strip()}"}
+    if PHONE.search(t):
+        return {"status": "yes", "note": cell.strip()}
+    if t == "no railway staff posted":
+        return {"status": "no", "note": "No railway staff posted at this station"}
     return None
 
 
@@ -323,12 +351,14 @@ def parse_grid_rows(rows: list[list[str]], found: dict | None = None) -> dict:
         if not columns or not row[0].isdigit():
             continue
         station = clean_name(row[1].title() if row[1].isupper() else row[1])  # "NIRA"
+        if not station or any(re.search(r"not open for passenger", c, re.I) for c in row):
+            continue  # e.g. Mukutban (Nagpur): listed, but no passenger trains stop
         if not station:
             continue
         if re.fullmatch(r"[A-Z]{2,5}", row[2]):
             found[station] = row[2]
         for i, key in columns.items():
-            if i < len(row) and (item := grid_item(row[i])):
+            if i < len(row) and (item := grid_item(row[i], key)):
                 features.setdefault(key, {"complete": True, "per_station": {}})["per_station"][station] = item
     return features
 
@@ -356,6 +386,7 @@ def main(argv=None) -> int:
     ap.add_argument("--source-url", required=True)
     ap.add_argument("--out", type=Path, required=True)
     ap.add_argument("--pages", help="only these pages, e.g. 1-8,30-31")
+    ap.add_argument("--source-title", help="defaults to 'Accessibility data – <division> division (<zone>)'")
     ap.add_argument("--codes", type=Path, help="datameet stations.json, to resolve station codes")
     args = ap.parse_args(argv)
 
@@ -366,7 +397,7 @@ def main(argv=None) -> int:
     doc = {
         "division": args.division,
         "zone": args.zone,
-        "source_title": f"Accessibility data – {args.division} division ({args.zone})",
+        "source_title": args.source_title or f"Accessibility data – {args.division} division ({args.zone})",
         "source_url": args.source_url,
         "retrieved": dt.date.today().isoformat(),
         "method": f"parsed-{layout}",

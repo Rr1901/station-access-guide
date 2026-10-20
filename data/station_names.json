@@ -277,5 +277,28 @@
   "Lukwasa": {
     "code": "LWS",
     "aliases": []
+  },
+  "Chhatrapati Shivaji Maharaj Terminus": {
+    "code": "CSMT",
+    "aliases": [
+      "Mumbai CST",
+      "CST",
+      "VT",
+      "Victoria Terminus",
+      "CSMT"
+    ]
+  },
+  "Lokmanya Tilak Terminus": {
+    "code": "LTT",
+    "aliases": [
+      "LTT",
+      "Kurla Terminus"
+    ]
+  },
+  "Gangapur Road": {
+    "code": "GUR",
+    "aliases": [
+      "Gangaupr Road"
+    ]
   }
 }

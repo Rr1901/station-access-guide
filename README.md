@@ -33,11 +33,14 @@ Every feature at every station gets one of four states:
 
 ## Data coverage
 
-424 stations from thirteen divisions in four zones. 370 are parsed from official PDFs:
+688 stations from sixteen divisions in four zones. 634 come from official railway lists:
 
 | Division | Zone | Stations | What the PDF gives |
 |---|---|---|---|
 | Howrah | Eastern | 158 | Full station lists for every feature |
+| Mumbai | Central | 113 | Every local station from CSMT to Kasara, Khopoli and Uran, from the division's "Divyangjan Amenities at Stns." sheet, plus Divyangjan Sahayak (Dy. SS Commercial) numbers for CSMT, Dadar, LTT, Thane, Kalyan and Panvel |
+| Nagpur | Central | 93 | Grid with counts of lifts, escalators, wheelchairs, toilets (Mukutban skipped: not open to passengers). The PDF prints 0 lifts at Nagpur and 8 at Wardha, which looks like a mix-up in the source; it's shown as printed |
+| Solapur | Central | 58 | Yes/No grid; the PDF is a scan, hand-transcribed in `data/transcribed/` |
 | Pune | Central | 101 | Every station in a grid, including lifts, escalators, low counters, tactile paths; "Not applicable" (not required at that station size) and "being provided under ABSS" are kept as notes |
 | Malda | Eastern | 69 | Full lists, but by station code; codes are turned into names with the CC0 [datameet station list](https://github.com/datameet/railways). Wheelchairs are given only as "67 stations", so they show as "No data yet" |
 | Jabalpur | West Central | 12 | YES/NO per station with locations. 8 of these pages are scans; they are hand-transcribed in `data/transcribed/` |
@@ -47,6 +50,8 @@ Every feature at every station gets one of four states:
 | Asansol | Eastern | 5 | Explicit YES/NO per station, with platform locations |
 
 The West Central Railway file covers only a sample of each division's stations, not the whole division.
+
+"Not applicable" in the official lists means the rules don't require that facility at a station of that size; it doesn't say whether the station has it (Mumbai's sheet marks lifts "not applicable" at Kurla and Ghatkopar, which have them). So it shows as "No data yet" with that explanation, never as "Not available".
 
 **Western Railway (secondary sources).** Western Railway hasn't published station-wise accessibility lists, so 54 of its stations (all of Gujarat's larger ones, plus Mumbai Central) are built by `scraper/western_railway.py` from:
 

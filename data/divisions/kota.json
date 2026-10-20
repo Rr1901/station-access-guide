@@ -22,12 +22,12 @@
           "note": "Available at Help Booths/Enquiry booth · On duty SM"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
           "status": "yes",
@@ -60,12 +60,12 @@
           "status": "no"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
           "status": "no"
@@ -85,40 +85,40 @@
       "complete": true,
       "per_station": {
         "Bayana": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dharnaoda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Makholi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Piloda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Narayanpur Tatwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Suwasra": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -126,40 +126,40 @@
       "complete": true,
       "per_station": {
         "Bayana": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dharnaoda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Makholi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Piloda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Narayanpur Tatwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Suwasra": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -217,12 +217,12 @@
           "status": "yes"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
           "status": "yes",
@@ -246,40 +246,40 @@
       "complete": true,
       "per_station": {
         "Bayana": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dharnaoda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Makholi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Piloda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Narayanpur Tatwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Suwasra": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -330,36 +330,36 @@
           "status": "no"
         },
         "Dharnaoda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Makholi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Piloda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Narayanpur Tatwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Suwasra": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -376,12 +376,12 @@
           "status": "yes"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
           "status": "yes"
@@ -404,36 +404,36 @@
           "status": "no"
         },
         "Dharnaoda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Makholi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Piloda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Narayanpur Tatwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Suwasra": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     },
@@ -453,12 +453,12 @@
           "note": "Booking counter/ On duty SM"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
           "status": "yes",
@@ -482,40 +482,40 @@
       "complete": true,
       "per_station": {
         "Bayana": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dharnaoda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Makholi": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Dindora Hkmikheda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Sikroda Mina": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Fatehsinghpura": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Piloda": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Narayanpur Tatwara": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         },
         "Suwasra": {
-          "status": "no",
-          "note": "Not provided: the railways don't require this at a station of this size"
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
         }
       }
     }

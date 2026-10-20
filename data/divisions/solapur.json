@@ -1,0 +1,1323 @@
+{
+  "division": "Solapur",
+  "zone": "Central Railway",
+  "source_title": "Divyangjan amenities over SUR Division – Central Railway, Solapur division (file 'Divyang master sheet', May 2025)",
+  "source_url": "https://cr.indianrailways.gov.in/",
+  "retrieved": "2026-10-20",
+  "method": "parsed-grid",
+  "features": {
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Solapur": {
+          "status": "yes"
+        },
+        "Kalburagi": {
+          "status": "yes"
+        },
+        "Latur": {
+          "status": "yes"
+        },
+        "Wadi": {
+          "status": "no"
+        },
+        "Kurduwadi": {
+          "status": "yes"
+        },
+        "Pandharpur": {
+          "status": "yes"
+        },
+        "Hotgi": {
+          "status": "no"
+        },
+        "Akkalkot Road": {
+          "status": "no"
+        },
+        "Jeur": {
+          "status": "yes"
+        },
+        "Shahabad": {
+          "status": "yes"
+        },
+        "Barsi Town": {
+          "status": "yes"
+        },
+        "Gangaupr Road": {
+          "status": "yes"
+        },
+        "Dudhani": {
+          "status": "yes"
+        },
+        "Sangola": {
+          "status": "yes"
+        },
+        "Harangul": {
+          "status": "yes"
+        },
+        "Osmanabad": {
+          "status": "yes"
+        },
+        "Vakav": {
+          "status": "yes"
+        },
+        "Angar": {
+          "status": "yes"
+        },
+        "Malikpeth": {
+          "status": "yes"
+        },
+        "Mohol": {
+          "status": "yes"
+        },
+        "Mundhewadi": {
+          "status": "yes"
+        },
+        "Pakni": {
+          "status": "no"
+        },
+        "Bale": {
+          "status": "no"
+        },
+        "Tikekarwadi": {
+          "status": "yes"
+        },
+        "Tilati": {
+          "status": "no"
+        },
+        "Nagansur": {
+          "status": "no"
+        },
+        "Madha": {
+          "status": "yes"
+        },
+        "Wadsinge": {
+          "status": "yes"
+        },
+        "Dhavalas": {
+          "status": "yes"
+        },
+        "Kem": {
+          "status": "yes"
+        },
+        "Bhalwani": {
+          "status": "yes"
+        },
+        "Pophlaj": {
+          "status": "yes"
+        },
+        "Washimbe": {
+          "status": "yes"
+        },
+        "Parewadi": {
+          "status": "yes"
+        },
+        "Jinti Road": {
+          "status": "yes"
+        },
+        "Bhigvan": {
+          "status": "yes"
+        },
+        "Malthan": {
+          "status": "yes"
+        },
+        "Boribial": {
+          "status": "no"
+        },
+        "Jath Road": {
+          "status": "yes"
+        },
+        "Dhalgaon": {
+          "status": "yes"
+        },
+        "Kavathe-Mahankal": {
+          "status": "yes"
+        },
+        "Sulgare": {
+          "status": "yes"
+        },
+        "Belanki": {
+          "status": "no"
+        },
+        "Arag": {
+          "status": "yes"
+        },
+        "Modnimb": {
+          "status": "no"
+        },
+        "Martur": {
+          "status": "yes"
+        },
+        "Hirenandur": {
+          "status": "yes"
+        },
+        "Taj Sultanpur": {
+          "status": "yes"
+        },
+        "Bablad": {
+          "status": "yes"
+        },
+        "Sawalgi": {
+          "status": "yes"
+        },
+        "Gaudgaon": {
+          "status": "yes"
+        },
+        "Kulali": {
+          "status": "yes"
+        },
+        "Boroti": {
+          "status": "yes"
+        },
+        "Shendri": {
+          "status": "yes"
+        },
+        "Pangri": {
+          "status": "yes"
+        },
+        "Yedshi": {
+          "status": "yes"
+        },
+        "Dhoki": {
+          "status": "yes"
+        },
+        "Ausa Road": {
+          "status": "yes"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Solapur": {
+          "status": "yes"
+        },
+        "Kalburagi": {
+          "status": "yes"
+        },
+        "Latur": {
+          "status": "yes"
+        },
+        "Wadi": {
+          "status": "yes"
+        },
+        "Kurduwadi": {
+          "status": "yes"
+        },
+        "Pandharpur": {
+          "status": "yes"
+        },
+        "Hotgi": {
+          "status": "yes"
+        },
+        "Akkalkot Road": {
+          "status": "yes"
+        },
+        "Jeur": {
+          "status": "yes"
+        },
+        "Shahabad": {
+          "status": "yes"
+        },
+        "Barsi Town": {
+          "status": "yes"
+        },
+        "Gangaupr Road": {
+          "status": "yes"
+        },
+        "Dudhani": {
+          "status": "yes"
+        },
+        "Sangola": {
+          "status": "yes"
+        },
+        "Harangul": {
+          "status": "yes"
+        },
+        "Osmanabad": {
+          "status": "yes"
+        },
+        "Vakav": {
+          "status": "yes"
+        },
+        "Angar": {
+          "status": "yes"
+        },
+        "Malikpeth": {
+          "status": "yes"
+        },
+        "Mohol": {
+          "status": "yes"
+        },
+        "Mundhewadi": {
+          "status": "yes"
+        },
+        "Pakni": {
+          "status": "yes"
+        },
+        "Bale": {
+          "status": "yes"
+        },
+        "Tikekarwadi": {
+          "status": "yes"
+        },
+        "Tilati": {
+          "status": "yes"
+        },
+        "Nagansur": {
+          "status": "yes"
+        },
+        "Madha": {
+          "status": "yes"
+        },
+        "Wadsinge": {
+          "status": "yes"
+        },
+        "Dhavalas": {
+          "status": "yes"
+        },
+        "Kem": {
+          "status": "yes"
+        },
+        "Bhalwani": {
+          "status": "yes"
+        },
+        "Pophlaj": {
+          "status": "yes"
+        },
+        "Washimbe": {
+          "status": "yes"
+        },
+        "Parewadi": {
+          "status": "yes"
+        },
+        "Jinti Road": {
+          "status": "yes"
+        },
+        "Bhigvan": {
+          "status": "yes"
+        },
+        "Malthan": {
+          "status": "yes"
+        },
+        "Boribial": {
+          "status": "yes"
+        },
+        "Jath Road": {
+          "status": "yes"
+        },
+        "Dhalgaon": {
+          "status": "yes"
+        },
+        "Kavathe-Mahankal": {
+          "status": "yes"
+        },
+        "Sulgare": {
+          "status": "yes"
+        },
+        "Belanki": {
+          "status": "yes"
+        },
+        "Arag": {
+          "status": "yes"
+        },
+        "Modnimb": {
+          "status": "yes"
+        },
+        "Martur": {
+          "status": "yes"
+        },
+        "Hirenandur": {
+          "status": "yes"
+        },
+        "Taj Sultanpur": {
+          "status": "yes"
+        },
+        "Bablad": {
+          "status": "yes"
+        },
+        "Sawalgi": {
+          "status": "yes"
+        },
+        "Gaudgaon": {
+          "status": "yes"
+        },
+        "Kulali": {
+          "status": "yes"
+        },
+        "Boroti": {
+          "status": "yes"
+        },
+        "Shendri": {
+          "status": "yes"
+        },
+        "Pangri": {
+          "status": "yes"
+        },
+        "Yedshi": {
+          "status": "yes"
+        },
+        "Dhoki": {
+          "status": "yes"
+        },
+        "Ausa Road": {
+          "status": "yes"
+        }
+      }
+    },
+    "low_counter": {
+      "complete": true,
+      "per_station": {
+        "Solapur": {
+          "status": "yes"
+        },
+        "Kalburagi": {
+          "status": "yes"
+        },
+        "Latur": {
+          "status": "yes"
+        },
+        "Wadi": {
+          "status": "no"
+        },
+        "Kurduwadi": {
+          "status": "no"
+        },
+        "Pandharpur": {
+          "status": "no"
+        },
+        "Hotgi": {
+          "status": "no"
+        },
+        "Akkalkot Road": {
+          "status": "no"
+        },
+        "Jeur": {
+          "status": "yes"
+        },
+        "Shahabad": {
+          "status": "no"
+        },
+        "Barsi Town": {
+          "status": "no"
+        },
+        "Gangaupr Road": {
+          "status": "no"
+        },
+        "Dudhani": {
+          "status": "no"
+        },
+        "Sangola": {
+          "status": "no"
+        },
+        "Harangul": {
+          "status": "no"
+        },
+        "Osmanabad": {
+          "status": "no"
+        },
+        "Vakav": {
+          "status": "no"
+        },
+        "Angar": {
+          "status": "no"
+        },
+        "Malikpeth": {
+          "status": "no"
+        },
+        "Mohol": {
+          "status": "no"
+        },
+        "Mundhewadi": {
+          "status": "no"
+        },
+        "Pakni": {
+          "status": "no"
+        },
+        "Bale": {
+          "status": "no"
+        },
+        "Tikekarwadi": {
+          "status": "no"
+        },
+        "Tilati": {
+          "status": "no"
+        },
+        "Nagansur": {
+          "status": "no"
+        },
+        "Madha": {
+          "status": "no"
+        },
+        "Wadsinge": {
+          "status": "no"
+        },
+        "Dhavalas": {
+          "status": "no"
+        },
+        "Kem": {
+          "status": "no"
+        },
+        "Bhalwani": {
+          "status": "no"
+        },
+        "Pophlaj": {
+          "status": "no"
+        },
+        "Washimbe": {
+          "status": "no"
+        },
+        "Parewadi": {
+          "status": "no"
+        },
+        "Jinti Road": {
+          "status": "no"
+        },
+        "Bhigvan": {
+          "status": "no"
+        },
+        "Malthan": {
+          "status": "no"
+        },
+        "Boribial": {
+          "status": "no"
+        },
+        "Jath Road": {
+          "status": "no"
+        },
+        "Dhalgaon": {
+          "status": "no"
+        },
+        "Kavathe-Mahankal": {
+          "status": "no"
+        },
+        "Sulgare": {
+          "status": "no"
+        },
+        "Belanki": {
+          "status": "no"
+        },
+        "Arag": {
+          "status": "no"
+        },
+        "Modnimb": {
+          "status": "no"
+        },
+        "Martur": {
+          "status": "no"
+        },
+        "Hirenandur": {
+          "status": "no"
+        },
+        "Taj Sultanpur": {
+          "status": "no"
+        },
+        "Bablad": {
+          "status": "no"
+        },
+        "Sawalgi": {
+          "status": "no"
+        },
+        "Gaudgaon": {
+          "status": "no"
+        },
+        "Kulali": {
+          "status": "no"
+        },
+        "Boroti": {
+          "status": "no"
+        },
+        "Shendri": {
+          "status": "no"
+        },
+        "Pangri": {
+          "status": "no"
+        },
+        "Yedshi": {
+          "status": "no"
+        },
+        "Dhoki": {
+          "status": "no"
+        },
+        "Ausa Road": {
+          "status": "no"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Solapur": {
+          "status": "yes"
+        },
+        "Kalburagi": {
+          "status": "yes"
+        },
+        "Latur": {
+          "status": "yes"
+        },
+        "Wadi": {
+          "status": "yes"
+        },
+        "Kurduwadi": {
+          "status": "yes"
+        },
+        "Pandharpur": {
+          "status": "yes"
+        },
+        "Hotgi": {
+          "status": "yes"
+        },
+        "Akkalkot Road": {
+          "status": "yes"
+        },
+        "Jeur": {
+          "status": "yes"
+        },
+        "Shahabad": {
+          "status": "yes"
+        },
+        "Barsi Town": {
+          "status": "yes"
+        },
+        "Gangaupr Road": {
+          "status": "yes"
+        },
+        "Dudhani": {
+          "status": "yes"
+        },
+        "Sangola": {
+          "status": "yes"
+        },
+        "Harangul": {
+          "status": "no"
+        },
+        "Osmanabad": {
+          "status": "yes"
+        },
+        "Vakav": {
+          "status": "yes"
+        },
+        "Angar": {
+          "status": "yes"
+        },
+        "Malikpeth": {
+          "status": "yes"
+        },
+        "Mohol": {
+          "status": "yes"
+        },
+        "Mundhewadi": {
+          "status": "yes"
+        },
+        "Pakni": {
+          "status": "yes"
+        },
+        "Bale": {
+          "status": "yes"
+        },
+        "Tikekarwadi": {
+          "status": "yes"
+        },
+        "Tilati": {
+          "status": "yes"
+        },
+        "Nagansur": {
+          "status": "yes"
+        },
+        "Madha": {
+          "status": "yes"
+        },
+        "Wadsinge": {
+          "status": "yes"
+        },
+        "Dhavalas": {
+          "status": "yes"
+        },
+        "Kem": {
+          "status": "yes"
+        },
+        "Bhalwani": {
+          "status": "yes"
+        },
+        "Pophlaj": {
+          "status": "yes"
+        },
+        "Washimbe": {
+          "status": "yes"
+        },
+        "Parewadi": {
+          "status": "yes"
+        },
+        "Jinti Road": {
+          "status": "yes"
+        },
+        "Bhigvan": {
+          "status": "yes"
+        },
+        "Malthan": {
+          "status": "yes"
+        },
+        "Boribial": {
+          "status": "yes"
+        },
+        "Jath Road": {
+          "status": "yes"
+        },
+        "Dhalgaon": {
+          "status": "yes"
+        },
+        "Kavathe-Mahankal": {
+          "status": "yes"
+        },
+        "Sulgare": {
+          "status": "yes"
+        },
+        "Belanki": {
+          "status": "no"
+        },
+        "Arag": {
+          "status": "yes"
+        },
+        "Modnimb": {
+          "status": "yes"
+        },
+        "Martur": {
+          "status": "yes"
+        },
+        "Hirenandur": {
+          "status": "yes"
+        },
+        "Taj Sultanpur": {
+          "status": "yes"
+        },
+        "Bablad": {
+          "status": "yes"
+        },
+        "Sawalgi": {
+          "status": "yes"
+        },
+        "Gaudgaon": {
+          "status": "yes"
+        },
+        "Kulali": {
+          "status": "yes"
+        },
+        "Boroti": {
+          "status": "yes"
+        },
+        "Shendri": {
+          "status": "yes"
+        },
+        "Pangri": {
+          "status": "yes"
+        },
+        "Yedshi": {
+          "status": "yes"
+        },
+        "Dhoki": {
+          "status": "yes"
+        },
+        "Ausa Road": {
+          "status": "yes"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Solapur": {
+          "status": "yes"
+        },
+        "Kalburagi": {
+          "status": "yes"
+        },
+        "Latur": {
+          "status": "yes"
+        },
+        "Wadi": {
+          "status": "yes"
+        },
+        "Kurduwadi": {
+          "status": "yes"
+        },
+        "Pandharpur": {
+          "status": "yes"
+        },
+        "Hotgi": {
+          "status": "yes"
+        },
+        "Akkalkot Road": {
+          "status": "yes"
+        },
+        "Jeur": {
+          "status": "yes"
+        },
+        "Shahabad": {
+          "status": "yes"
+        },
+        "Barsi Town": {
+          "status": "yes"
+        },
+        "Gangaupr Road": {
+          "status": "yes"
+        },
+        "Dudhani": {
+          "status": "yes"
+        },
+        "Sangola": {
+          "status": "yes"
+        },
+        "Harangul": {
+          "status": "yes"
+        },
+        "Osmanabad": {
+          "status": "yes"
+        },
+        "Vakav": {
+          "status": "no"
+        },
+        "Angar": {
+          "status": "no"
+        },
+        "Malikpeth": {
+          "status": "no"
+        },
+        "Mohol": {
+          "status": "no"
+        },
+        "Mundhewadi": {
+          "status": "no"
+        },
+        "Pakni": {
+          "status": "no"
+        },
+        "Bale": {
+          "status": "no"
+        },
+        "Tikekarwadi": {
+          "status": "no"
+        },
+        "Tilati": {
+          "status": "yes"
+        },
+        "Nagansur": {
+          "status": "no"
+        },
+        "Madha": {
+          "status": "yes"
+        },
+        "Wadsinge": {
+          "status": "yes"
+        },
+        "Dhavalas": {
+          "status": "yes"
+        },
+        "Kem": {
+          "status": "yes"
+        },
+        "Bhalwani": {
+          "status": "yes"
+        },
+        "Pophlaj": {
+          "status": "yes"
+        },
+        "Washimbe": {
+          "status": "yes"
+        },
+        "Parewadi": {
+          "status": "yes"
+        },
+        "Jinti Road": {
+          "status": "yes"
+        },
+        "Bhigvan": {
+          "status": "yes"
+        },
+        "Malthan": {
+          "status": "yes"
+        },
+        "Boribial": {
+          "status": "yes"
+        },
+        "Jath Road": {
+          "status": "no"
+        },
+        "Dhalgaon": {
+          "status": "no"
+        },
+        "Kavathe-Mahankal": {
+          "status": "no"
+        },
+        "Sulgare": {
+          "status": "yes"
+        },
+        "Belanki": {
+          "status": "no"
+        },
+        "Arag": {
+          "status": "no"
+        },
+        "Modnimb": {
+          "status": "no"
+        },
+        "Martur": {
+          "status": "yes"
+        },
+        "Hirenandur": {
+          "status": "yes"
+        },
+        "Taj Sultanpur": {
+          "status": "yes"
+        },
+        "Bablad": {
+          "status": "yes"
+        },
+        "Sawalgi": {
+          "status": "yes"
+        },
+        "Gaudgaon": {
+          "status": "yes"
+        },
+        "Kulali": {
+          "status": "yes"
+        },
+        "Boroti": {
+          "status": "yes"
+        },
+        "Shendri": {
+          "status": "yes"
+        },
+        "Pangri": {
+          "status": "yes"
+        },
+        "Yedshi": {
+          "status": "yes"
+        },
+        "Dhoki": {
+          "status": "yes"
+        },
+        "Ausa Road": {
+          "status": "yes"
+        }
+      }
+    },
+    "wheelchair": {
+      "complete": true,
+      "per_station": {
+        "Solapur": {
+          "status": "yes"
+        },
+        "Kalburagi": {
+          "status": "yes"
+        },
+        "Latur": {
+          "status": "yes"
+        },
+        "Wadi": {
+          "status": "yes"
+        },
+        "Kurduwadi": {
+          "status": "yes"
+        },
+        "Pandharpur": {
+          "status": "yes"
+        },
+        "Hotgi": {
+          "status": "yes"
+        },
+        "Akkalkot Road": {
+          "status": "yes"
+        },
+        "Jeur": {
+          "status": "yes"
+        },
+        "Shahabad": {
+          "status": "yes"
+        },
+        "Barsi Town": {
+          "status": "yes"
+        },
+        "Gangaupr Road": {
+          "status": "yes"
+        },
+        "Dudhani": {
+          "status": "yes"
+        },
+        "Sangola": {
+          "status": "yes"
+        },
+        "Harangul": {
+          "status": "yes"
+        },
+        "Osmanabad": {
+          "status": "yes"
+        },
+        "Vakav": {
+          "status": "yes"
+        },
+        "Angar": {
+          "status": "yes"
+        },
+        "Malikpeth": {
+          "status": "yes"
+        },
+        "Mohol": {
+          "status": "yes"
+        },
+        "Mundhewadi": {
+          "status": "yes"
+        },
+        "Pakni": {
+          "status": "yes"
+        },
+        "Bale": {
+          "status": "yes"
+        },
+        "Tikekarwadi": {
+          "status": "yes"
+        },
+        "Tilati": {
+          "status": "yes"
+        },
+        "Nagansur": {
+          "status": "yes"
+        },
+        "Madha": {
+          "status": "yes"
+        },
+        "Wadsinge": {
+          "status": "yes"
+        },
+        "Dhavalas": {
+          "status": "yes"
+        },
+        "Kem": {
+          "status": "yes"
+        },
+        "Bhalwani": {
+          "status": "yes"
+        },
+        "Pophlaj": {
+          "status": "yes"
+        },
+        "Washimbe": {
+          "status": "yes"
+        },
+        "Parewadi": {
+          "status": "yes"
+        },
+        "Jinti Road": {
+          "status": "yes"
+        },
+        "Bhigvan": {
+          "status": "yes"
+        },
+        "Malthan": {
+          "status": "yes"
+        },
+        "Boribial": {
+          "status": "yes"
+        },
+        "Jath Road": {
+          "status": "yes"
+        },
+        "Dhalgaon": {
+          "status": "yes"
+        },
+        "Kavathe-Mahankal": {
+          "status": "yes"
+        },
+        "Sulgare": {
+          "status": "yes"
+        },
+        "Belanki": {
+          "status": "yes"
+        },
+        "Arag": {
+          "status": "yes"
+        },
+        "Modnimb": {
+          "status": "yes"
+        },
+        "Martur": {
+          "status": "yes"
+        },
+        "Hirenandur": {
+          "status": "yes"
+        },
+        "Taj Sultanpur": {
+          "status": "yes"
+        },
+        "Bablad": {
+          "status": "yes"
+        },
+        "Sawalgi": {
+          "status": "yes"
+        },
+        "Gaudgaon": {
+          "status": "yes"
+        },
+        "Kulali": {
+          "status": "yes"
+        },
+        "Boroti": {
+          "status": "yes"
+        },
+        "Shendri": {
+          "status": "yes"
+        },
+        "Pangri": {
+          "status": "yes"
+        },
+        "Yedshi": {
+          "status": "yes"
+        },
+        "Dhoki": {
+          "status": "yes"
+        },
+        "Ausa Road": {
+          "status": "yes"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Solapur": {
+          "status": "yes"
+        },
+        "Kalburagi": {
+          "status": "yes"
+        },
+        "Latur": {
+          "status": "no"
+        },
+        "Wadi": {
+          "status": "no"
+        },
+        "Kurduwadi": {
+          "status": "no"
+        },
+        "Pandharpur": {
+          "status": "no"
+        },
+        "Hotgi": {
+          "status": "no"
+        },
+        "Akkalkot Road": {
+          "status": "no"
+        },
+        "Jeur": {
+          "status": "no"
+        },
+        "Shahabad": {
+          "status": "no"
+        },
+        "Barsi Town": {
+          "status": "no"
+        },
+        "Gangaupr Road": {
+          "status": "no"
+        },
+        "Dudhani": {
+          "status": "no"
+        },
+        "Sangola": {
+          "status": "no"
+        },
+        "Harangul": {
+          "status": "no"
+        },
+        "Osmanabad": {
+          "status": "no"
+        },
+        "Vakav": {
+          "status": "no"
+        },
+        "Angar": {
+          "status": "no"
+        },
+        "Malikpeth": {
+          "status": "no"
+        },
+        "Mohol": {
+          "status": "no"
+        },
+        "Mundhewadi": {
+          "status": "no"
+        },
+        "Pakni": {
+          "status": "no"
+        },
+        "Bale": {
+          "status": "no"
+        },
+        "Tikekarwadi": {
+          "status": "no"
+        },
+        "Tilati": {
+          "status": "no"
+        },
+        "Nagansur": {
+          "status": "no"
+        },
+        "Madha": {
+          "status": "no"
+        },
+        "Wadsinge": {
+          "status": "no"
+        },
+        "Dhavalas": {
+          "status": "no"
+        },
+        "Kem": {
+          "status": "no"
+        },
+        "Bhalwani": {
+          "status": "no"
+        },
+        "Pophlaj": {
+          "status": "no"
+        },
+        "Washimbe": {
+          "status": "no"
+        },
+        "Parewadi": {
+          "status": "no"
+        },
+        "Jinti Road": {
+          "status": "no"
+        },
+        "Bhigvan": {
+          "status": "no"
+        },
+        "Malthan": {
+          "status": "no"
+        },
+        "Boribial": {
+          "status": "no"
+        },
+        "Jath Road": {
+          "status": "no"
+        },
+        "Dhalgaon": {
+          "status": "no"
+        },
+        "Kavathe-Mahankal": {
+          "status": "no"
+        },
+        "Sulgare": {
+          "status": "no"
+        },
+        "Belanki": {
+          "status": "no"
+        },
+        "Arag": {
+          "status": "no"
+        },
+        "Modnimb": {
+          "status": "no"
+        },
+        "Martur": {
+          "status": "no"
+        },
+        "Hirenandur": {
+          "status": "no"
+        },
+        "Taj Sultanpur": {
+          "status": "no"
+        },
+        "Bablad": {
+          "status": "no"
+        },
+        "Sawalgi": {
+          "status": "no"
+        },
+        "Gaudgaon": {
+          "status": "no"
+        },
+        "Kulali": {
+          "status": "no"
+        },
+        "Boroti": {
+          "status": "no"
+        },
+        "Shendri": {
+          "status": "no"
+        },
+        "Pangri": {
+          "status": "no"
+        },
+        "Yedshi": {
+          "status": "no"
+        },
+        "Dhoki": {
+          "status": "no"
+        },
+        "Ausa Road": {
+          "status": "no"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Akkalkot Road": "AKOR",
+    "Angar": "AAG",
+    "Arag": "ARAG",
+    "Ausa Road": "OSA",
+    "Bablad": "BBD",
+    "Bale": "BALE",
+    "Barsi Town": "BTW",
+    "Belanki": "BLNK",
+    "Bhalwani": "BLNI",
+    "Bhigvan": "BGVN",
+    "Boribial": "BRB",
+    "Boroti": "BOT",
+    "Dhalgaon": "DLGN",
+    "Dhavalas": "DHS",
+    "Dhoki": "DKY",
+    "Dudhani": "DUD",
+    "Gangaupr Road": "GUR",
+    "Gaudgaon": "GDGN",
+    "Harangul": "HGL",
+    "Hirenandur": "HQR",
+    "Hotgi": "HG",
+    "Jath Road": "JTRD",
+    "Jeur": "JH",
+    "Jinti Road": "JNTR",
+    "Kalburagi": "KLBG",
+    "Kavathe-Mahankal": "KVK",
+    "Kem": "KEM",
+    "Kulali": "KUI",
+    "Kurduwadi": "KWV",
+    "Latur": "LUR",
+    "Madha": "MA",
+    "Malikpeth": "MKPT",
+    "Malthan": "MLM",
+    "Martur": "MR",
+    "Modnimb": "MLB",
+    "Mohol": "MO",
+    "Mundhewadi": "MVE",
+    "Nagansur": "NGS",
+    "Osmanabad": "UMD",
+    "Pakni": "PK",
+    "Pandharpur": "PVR",
+    "Pangri": "PJR",
+    "Parewadi": "PRWD",
+    "Pophlaj": "PPJ",
+    "Sangola": "SGLA",
+    "Sawalgi": "SVG",
+    "Shahabad": "SDB",
+    "Shendri": "SEI",
+    "Solapur": "SUR",
+    "Sulgare": "SGRE",
+    "Taj Sultanpur": "TJSP",
+    "Tikekarwadi": "TKWD",
+    "Tilati": "TLT",
+    "Vakav": "WKA",
+    "Wadi": "WD",
+    "Wadsinge": "WDS",
+    "Washimbe": "WSB",
+    "Yedshi": "YSI"
+  }
+}

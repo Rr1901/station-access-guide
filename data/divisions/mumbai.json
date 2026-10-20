@@ -1,0 +1,4229 @@
+{
+  "division": "Mumbai",
+  "zone": "Central Railway",
+  "source_title": "Divyangjan Amenities at Stations – Central Railway, Mumbai division (sheet), with Dy. SS (Commercial) contacts (June 2026)",
+  "source_url": "https://docs.google.com/spreadsheets/d/17ZzBaMsPjHtww7gS8op0Rv_DbkF3cLpxC2tWIL9uRQI",
+  "retrieved": "2026-10-20",
+  "method": "parsed-grid",
+  "features": {
+    "ramp_entry": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes"
+        },
+        "Thane": {
+          "status": "yes"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "yes"
+        },
+        "Lonavala": {
+          "status": "yes"
+        },
+        "Matheran": {
+          "status": "yes"
+        },
+        "Aman Lodge": {
+          "status": "yes"
+        },
+        "Bhiwandi Road": {
+          "status": "yes"
+        },
+        "Igatpuri": {
+          "status": "yes"
+        },
+        "Pen": {
+          "status": "yes"
+        },
+        "Roha": {
+          "status": "yes"
+        },
+        "Apta": {
+          "status": "yes"
+        },
+        "Jite": {
+          "status": "yes"
+        },
+        "Khandala": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Nagothane": {
+          "status": "yes"
+        },
+        "Somatne": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Ambernath": {
+          "status": "yes"
+        },
+        "Badlapur": {
+          "status": "yes"
+        },
+        "Kurla": {
+          "status": "yes"
+        },
+        "Dombivli": {
+          "status": "yes"
+        },
+        "Bhandup": {
+          "status": "yes"
+        },
+        "Diva": {
+          "status": "yes"
+        },
+        "Ghatkopar": {
+          "status": "yes"
+        },
+        "Mulund": {
+          "status": "yes"
+        },
+        "Mankhurd": {
+          "status": "yes"
+        },
+        "Sion": {
+          "status": "yes"
+        },
+        "Vikhroli": {
+          "status": "yes"
+        },
+        "Mumbra": {
+          "status": "yes"
+        },
+        "Airoli": {
+          "status": "yes"
+        },
+        "Byculla": {
+          "status": "yes"
+        },
+        "Chembur": {
+          "status": "yes"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "yes"
+        },
+        "Govandi": {
+          "status": "yes"
+        },
+        "Kharghar": {
+          "status": "yes"
+        },
+        "Kanjurmarg": {
+          "status": "yes"
+        },
+        "Karjat": {
+          "status": "yes"
+        },
+        "Kalwa": {
+          "status": "yes"
+        },
+        "Masjid": {
+          "status": "yes"
+        },
+        "Nerul": {
+          "status": "yes"
+        },
+        "Shahad": {
+          "status": "yes"
+        },
+        "Tilak Nagar": {
+          "status": "yes"
+        },
+        "Titwala": {
+          "status": "yes"
+        },
+        "Ulhasnagar": {
+          "status": "yes"
+        },
+        "Vadala Road": {
+          "status": "yes"
+        },
+        "Vitthalwadi": {
+          "status": "yes"
+        },
+        "Vashi": {
+          "status": "yes"
+        },
+        "Ambivli": {
+          "status": "yes"
+        },
+        "Belapur CBD": {
+          "status": "yes"
+        },
+        "Rabale": {
+          "status": "yes"
+        },
+        "Ghansoli": {
+          "status": "yes"
+        },
+        "Juinagar": {
+          "status": "yes"
+        },
+        "Kopar Khairane": {
+          "status": "yes"
+        },
+        "Khandeshwar": {
+          "status": "yes"
+        },
+        "Thakurli": {
+          "status": "yes"
+        },
+        "Mansarovar": {
+          "status": "yes"
+        },
+        "Nahur": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Sanpada": {
+          "status": "yes"
+        },
+        "Sandhaurst Road": {
+          "status": "yes"
+        },
+        "Sewri": {
+          "status": "yes"
+        },
+        "Seawoods Darave": {
+          "status": "yes"
+        },
+        "Vidyavihar": {
+          "status": "yes"
+        },
+        "Chinchpokli": {
+          "status": "yes"
+        },
+        "Cotton Green": {
+          "status": "yes"
+        },
+        "King S Circle": {
+          "status": "yes"
+        },
+        "Matunga": {
+          "status": "yes"
+        },
+        "Agasan": {
+          "status": "yes"
+        },
+        "Asangaon": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Atgaon": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Bhivpuri Road": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Chunabhatti": {
+          "status": "yes"
+        },
+        "Dockyard Road": {
+          "status": "yes"
+        },
+        "Dolavli": {
+          "status": "yes"
+        },
+        "Khadavali": {
+          "status": "yes"
+        },
+        "Khardi": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Khopoli": {
+          "status": "yes"
+        },
+        "Kelavli": {
+          "status": "yes"
+        },
+        "Kopar": {
+          "status": "yes"
+        },
+        "Kasara": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Lowjee": {
+          "status": "yes"
+        },
+        "Neral": {
+          "status": "yes"
+        },
+        "Palasdhari": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Parel": {
+          "status": "yes"
+        },
+        "Currey Road": {
+          "status": "yes"
+        },
+        "Reay Road": {
+          "status": "yes"
+        },
+        "Shelu": {
+          "status": "yes"
+        },
+        "Turbhe": {
+          "status": "yes"
+        },
+        "Vangani": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Vasind": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Bamandongri": {
+          "status": "yes"
+        },
+        "Kharkopar": {
+          "status": "yes"
+        },
+        "Digha Gaon": {
+          "status": "yes"
+        },
+        "Shematikhar": {
+          "status": "yes"
+        },
+        "Navha Sheva": {
+          "status": "yes"
+        },
+        "Dronagiri": {
+          "status": "yes"
+        },
+        "Uran": {
+          "status": "yes"
+        },
+        "Kalamboli": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Taloje Panchnand": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Nilaje": {
+          "status": "yes"
+        },
+        "Navde Road": {
+          "status": "no",
+          "note": "Technically not feasible here, according to the official list"
+        },
+        "Kaman Road": {
+          "status": "yes"
+        },
+        "Kharbav": {
+          "status": "yes"
+        },
+        "Juchandra": {
+          "status": "yes"
+        },
+        "Umbermali": {
+          "status": "yes"
+        },
+        "Thansit": {
+          "status": "yes"
+        },
+        "Nidi": {
+          "status": "yes"
+        },
+        "Kasu": {
+          "status": "yes"
+        },
+        "Hamarapur": {
+          "status": "yes"
+        },
+        "Rasayani": {
+          "status": "yes"
+        },
+        "Mohope": {
+          "status": "yes"
+        },
+        "Chikhale": {
+          "status": "yes"
+        },
+        "Chouk": {
+          "status": "yes"
+        }
+      }
+    },
+    "parking": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes"
+        },
+        "Thane": {
+          "status": "yes"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "yes"
+        },
+        "Lonavala": {
+          "status": "yes"
+        },
+        "Matheran": {
+          "status": "no",
+          "note": "No vehicles can reach this station"
+        },
+        "Aman Lodge": {
+          "status": "no",
+          "note": "No vehicles can reach this station"
+        },
+        "Bhiwandi Road": {
+          "status": "yes"
+        },
+        "Igatpuri": {
+          "status": "yes"
+        },
+        "Pen": {
+          "status": "yes"
+        },
+        "Roha": {
+          "status": "yes"
+        },
+        "Apta": {
+          "status": "yes"
+        },
+        "Jite": {
+          "status": "yes"
+        },
+        "Khandala": {
+          "status": "yes"
+        },
+        "Nagothane": {
+          "status": "yes"
+        },
+        "Somatne": {
+          "status": "yes"
+        },
+        "Ambernath": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Badlapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kurla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dombivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhandup": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Diva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghatkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mulund": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mankhurd": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sion": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vikhroli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mumbra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Airoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Byculla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chembur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Govandi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharghar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kanjurmarg": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Karjat": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalwa": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Masjid": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nerul": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shahad": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Tilak Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Titwala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ulhasnagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vadala Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vitthalwadi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vashi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Belapur CBD": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rabale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghansoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juinagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar Khairane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandeshwar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thakurli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mansarovar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nahur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sanpada": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sandhaurst Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sewri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Seawoods Darave": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vidyavihar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chinchpokli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Cotton Green": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "King S Circle": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matunga": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Agasan": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Asangaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Atgaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhivpuri Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chunabhatti": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dockyard Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dolavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khadavali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khardi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khopoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kelavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasara": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Lowjee": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Neral": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Palasdhari": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Parel": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Currey Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Reay Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shelu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Turbhe": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vangani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vasind": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bamandongri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Digha Gaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shematikhar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navha Sheva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dronagiri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Uran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalamboli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Taloje Panchnand": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nilaje": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navde Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kaman Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharbav": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juchandra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Umbermali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thansit": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "low_counter": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "no"
+        },
+        "Thane": {
+          "status": "yes"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "yes"
+        },
+        "Lonavala": {
+          "status": "yes"
+        },
+        "Matheran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Aman Lodge": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhiwandi Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Igatpuri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Pen": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Roha": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Apta": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Jite": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nagothane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Somatne": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambernath": {
+          "status": "yes"
+        },
+        "Badlapur": {
+          "status": "yes"
+        },
+        "Kurla": {
+          "status": "yes"
+        },
+        "Dombivli": {
+          "status": "yes"
+        },
+        "Bhandup": {
+          "status": "yes"
+        },
+        "Diva": {
+          "status": "yes"
+        },
+        "Ghatkopar": {
+          "status": "yes"
+        },
+        "Mulund": {
+          "status": "yes"
+        },
+        "Mankhurd": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sion": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vikhroli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mumbra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Airoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Byculla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chembur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Govandi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharghar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kanjurmarg": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Karjat": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalwa": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Masjid": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nerul": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shahad": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Tilak Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Titwala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ulhasnagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vadala Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vitthalwadi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vashi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Belapur CBD": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rabale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghansoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juinagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar Khairane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandeshwar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thakurli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mansarovar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nahur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sanpada": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sandhaurst Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sewri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Seawoods Darave": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vidyavihar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chinchpokli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Cotton Green": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "King S Circle": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matunga": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Agasan": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Asangaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Atgaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhivpuri Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chunabhatti": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dockyard Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dolavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khadavali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khardi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khopoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kelavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasara": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Lowjee": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Neral": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Palasdhari": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Parel": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Currey Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Reay Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shelu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Turbhe": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vangani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vasind": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bamandongri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Digha Gaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shematikhar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navha Sheva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dronagiri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Uran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalamboli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Taloje Panchnand": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nilaje": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navde Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kaman Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharbav": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juchandra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Umbermali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thansit": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "help_booth": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes"
+        },
+        "Thane": {
+          "status": "yes"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "yes"
+        },
+        "Lonavala": {
+          "status": "yes"
+        },
+        "Matheran": {
+          "status": "yes"
+        },
+        "Aman Lodge": {
+          "status": "yes"
+        },
+        "Bhiwandi Road": {
+          "status": "yes"
+        },
+        "Igatpuri": {
+          "status": "yes"
+        },
+        "Pen": {
+          "status": "yes"
+        },
+        "Roha": {
+          "status": "yes"
+        },
+        "Apta": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Jite": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nagothane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Somatne": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambernath": {
+          "status": "yes"
+        },
+        "Badlapur": {
+          "status": "yes"
+        },
+        "Kurla": {
+          "status": "yes"
+        },
+        "Dombivli": {
+          "status": "yes"
+        },
+        "Bhandup": {
+          "status": "yes"
+        },
+        "Diva": {
+          "status": "yes"
+        },
+        "Ghatkopar": {
+          "status": "yes"
+        },
+        "Mulund": {
+          "status": "yes"
+        },
+        "Mankhurd": {
+          "status": "yes"
+        },
+        "Sion": {
+          "status": "yes"
+        },
+        "Vikhroli": {
+          "status": "yes"
+        },
+        "Mumbra": {
+          "status": "yes"
+        },
+        "Airoli": {
+          "status": "yes"
+        },
+        "Byculla": {
+          "status": "yes"
+        },
+        "Chembur": {
+          "status": "yes"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "yes"
+        },
+        "Govandi": {
+          "status": "yes"
+        },
+        "Kharghar": {
+          "status": "yes"
+        },
+        "Kanjurmarg": {
+          "status": "yes"
+        },
+        "Karjat": {
+          "status": "yes"
+        },
+        "Kalwa": {
+          "status": "yes"
+        },
+        "Masjid": {
+          "status": "yes"
+        },
+        "Nerul": {
+          "status": "yes"
+        },
+        "Shahad": {
+          "status": "yes"
+        },
+        "Tilak Nagar": {
+          "status": "yes"
+        },
+        "Titwala": {
+          "status": "yes"
+        },
+        "Ulhasnagar": {
+          "status": "yes"
+        },
+        "Vadala Road": {
+          "status": "yes"
+        },
+        "Vitthalwadi": {
+          "status": "yes"
+        },
+        "Vashi": {
+          "status": "yes"
+        },
+        "Ambivli": {
+          "status": "yes"
+        },
+        "Belapur CBD": {
+          "status": "yes"
+        },
+        "Rabale": {
+          "status": "yes"
+        },
+        "Ghansoli": {
+          "status": "yes"
+        },
+        "Juinagar": {
+          "status": "yes"
+        },
+        "Kopar Khairane": {
+          "status": "yes"
+        },
+        "Khandeshwar": {
+          "status": "yes"
+        },
+        "Thakurli": {
+          "status": "yes"
+        },
+        "Mansarovar": {
+          "status": "yes"
+        },
+        "Nahur": {
+          "status": "yes"
+        },
+        "Sanpada": {
+          "status": "yes"
+        },
+        "Sandhaurst Road": {
+          "status": "yes"
+        },
+        "Sewri": {
+          "status": "yes"
+        },
+        "Seawoods Darave": {
+          "status": "yes"
+        },
+        "Vidyavihar": {
+          "status": "yes"
+        },
+        "Chinchpokli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Cotton Green": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "King S Circle": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matunga": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Agasan": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Asangaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Atgaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhivpuri Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chunabhatti": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dockyard Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dolavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khadavali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khardi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khopoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kelavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasara": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Lowjee": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Neral": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Palasdhari": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Parel": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Currey Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Reay Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shelu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Turbhe": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vangani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vasind": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bamandongri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Digha Gaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shematikhar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navha Sheva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dronagiri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Uran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalamboli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Taloje Panchnand": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nilaje": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navde Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kaman Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharbav": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juchandra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Umbermali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thansit": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "accessible_toilet": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes"
+        },
+        "Thane": {
+          "status": "yes"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "yes"
+        },
+        "Lonavala": {
+          "status": "yes"
+        },
+        "Matheran": {
+          "status": "yes"
+        },
+        "Aman Lodge": {
+          "status": "no"
+        },
+        "Bhiwandi Road": {
+          "status": "no"
+        },
+        "Igatpuri": {
+          "status": "yes"
+        },
+        "Pen": {
+          "status": "yes"
+        },
+        "Roha": {
+          "status": "yes"
+        },
+        "Apta": {
+          "status": "yes"
+        },
+        "Jite": {
+          "status": "yes"
+        },
+        "Khandala": {
+          "status": "yes"
+        },
+        "Nagothane": {
+          "status": "no"
+        },
+        "Somatne": {
+          "status": "yes"
+        },
+        "Ambernath": {
+          "status": "yes"
+        },
+        "Badlapur": {
+          "status": "yes"
+        },
+        "Kurla": {
+          "status": "yes"
+        },
+        "Dombivli": {
+          "status": "yes"
+        },
+        "Bhandup": {
+          "status": "yes"
+        },
+        "Diva": {
+          "status": "yes"
+        },
+        "Ghatkopar": {
+          "status": "yes"
+        },
+        "Mulund": {
+          "status": "yes"
+        },
+        "Mankhurd": {
+          "status": "yes"
+        },
+        "Sion": {
+          "status": "yes"
+        },
+        "Vikhroli": {
+          "status": "yes"
+        },
+        "Mumbra": {
+          "status": "yes"
+        },
+        "Airoli": {
+          "status": "yes"
+        },
+        "Byculla": {
+          "status": "yes"
+        },
+        "Chembur": {
+          "status": "yes"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "yes"
+        },
+        "Govandi": {
+          "status": "yes"
+        },
+        "Kharghar": {
+          "status": "yes"
+        },
+        "Kanjurmarg": {
+          "status": "yes"
+        },
+        "Karjat": {
+          "status": "yes"
+        },
+        "Kalwa": {
+          "status": "yes"
+        },
+        "Masjid": {
+          "status": "yes"
+        },
+        "Nerul": {
+          "status": "yes"
+        },
+        "Shahad": {
+          "status": "yes"
+        },
+        "Tilak Nagar": {
+          "status": "yes"
+        },
+        "Titwala": {
+          "status": "yes"
+        },
+        "Ulhasnagar": {
+          "status": "yes"
+        },
+        "Vadala Road": {
+          "status": "yes"
+        },
+        "Vitthalwadi": {
+          "status": "yes"
+        },
+        "Vashi": {
+          "status": "yes"
+        },
+        "Ambivli": {
+          "status": "yes"
+        },
+        "Belapur CBD": {
+          "status": "yes"
+        },
+        "Rabale": {
+          "status": "yes"
+        },
+        "Ghansoli": {
+          "status": "yes"
+        },
+        "Juinagar": {
+          "status": "yes"
+        },
+        "Kopar Khairane": {
+          "status": "yes"
+        },
+        "Khandeshwar": {
+          "status": "yes"
+        },
+        "Thakurli": {
+          "status": "yes"
+        },
+        "Mansarovar": {
+          "status": "yes"
+        },
+        "Nahur": {
+          "status": "yes"
+        },
+        "Sanpada": {
+          "status": "yes"
+        },
+        "Sandhaurst Road": {
+          "status": "yes"
+        },
+        "Sewri": {
+          "status": "yes"
+        },
+        "Seawoods Darave": {
+          "status": "yes"
+        },
+        "Vidyavihar": {
+          "status": "yes"
+        },
+        "Chinchpokli": {
+          "status": "yes"
+        },
+        "Cotton Green": {
+          "status": "yes"
+        },
+        "King S Circle": {
+          "status": "yes"
+        },
+        "Matunga": {
+          "status": "yes"
+        },
+        "Agasan": {
+          "status": "no"
+        },
+        "Asangaon": {
+          "status": "yes"
+        },
+        "Atgaon": {
+          "status": "yes"
+        },
+        "Bhivpuri Road": {
+          "status": "yes"
+        },
+        "Chunabhatti": {
+          "status": "yes"
+        },
+        "Dockyard Road": {
+          "status": "yes"
+        },
+        "Dolavli": {
+          "status": "no"
+        },
+        "Khadavali": {
+          "status": "yes"
+        },
+        "Khardi": {
+          "status": "yes"
+        },
+        "Khopoli": {
+          "status": "yes"
+        },
+        "Kelavli": {
+          "status": "no"
+        },
+        "Kopar": {
+          "status": "no"
+        },
+        "Kasara": {
+          "status": "yes"
+        },
+        "Lowjee": {
+          "status": "no"
+        },
+        "Neral": {
+          "status": "yes"
+        },
+        "Palasdhari": {
+          "status": "no"
+        },
+        "Parel": {
+          "status": "yes"
+        },
+        "Currey Road": {
+          "status": "yes"
+        },
+        "Reay Road": {
+          "status": "yes"
+        },
+        "Shelu": {
+          "status": "yes"
+        },
+        "Turbhe": {
+          "status": "yes"
+        },
+        "Vangani": {
+          "status": "yes"
+        },
+        "Vasind": {
+          "status": "yes"
+        },
+        "Bamandongri": {
+          "status": "yes"
+        },
+        "Kharkopar": {
+          "status": "yes"
+        },
+        "Digha Gaon": {
+          "status": "yes"
+        },
+        "Shematikhar": {
+          "status": "yes"
+        },
+        "Navha Sheva": {
+          "status": "yes"
+        },
+        "Dronagiri": {
+          "status": "yes"
+        },
+        "Uran": {
+          "status": "yes"
+        },
+        "Kalamboli": {
+          "status": "yes"
+        },
+        "Taloje Panchnand": {
+          "status": "yes"
+        },
+        "Nilaje": {
+          "status": "yes"
+        },
+        "Navde Road": {
+          "status": "no"
+        },
+        "Kaman Road": {
+          "status": "yes"
+        },
+        "Kharbav": {
+          "status": "yes"
+        },
+        "Juchandra": {
+          "status": "yes"
+        },
+        "Umbermali": {
+          "status": "no"
+        },
+        "Thansit": {
+          "status": "no"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "water_booth": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes"
+        },
+        "Thane": {
+          "status": "yes"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "yes"
+        },
+        "Lonavala": {
+          "status": "yes"
+        },
+        "Matheran": {
+          "status": "yes"
+        },
+        "Aman Lodge": {
+          "status": "yes"
+        },
+        "Bhiwandi Road": {
+          "status": "yes"
+        },
+        "Igatpuri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Pen": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Roha": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Apta": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Jite": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nagothane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Somatne": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambernath": {
+          "status": "yes"
+        },
+        "Badlapur": {
+          "status": "yes"
+        },
+        "Kurla": {
+          "status": "yes"
+        },
+        "Dombivli": {
+          "status": "yes"
+        },
+        "Bhandup": {
+          "status": "yes"
+        },
+        "Diva": {
+          "status": "yes"
+        },
+        "Ghatkopar": {
+          "status": "yes"
+        },
+        "Mulund": {
+          "status": "yes"
+        },
+        "Mankhurd": {
+          "status": "yes"
+        },
+        "Sion": {
+          "status": "yes"
+        },
+        "Vikhroli": {
+          "status": "yes"
+        },
+        "Mumbra": {
+          "status": "yes"
+        },
+        "Airoli": {
+          "status": "yes"
+        },
+        "Byculla": {
+          "status": "yes"
+        },
+        "Chembur": {
+          "status": "yes"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "yes"
+        },
+        "Govandi": {
+          "status": "yes"
+        },
+        "Kharghar": {
+          "status": "yes"
+        },
+        "Kanjurmarg": {
+          "status": "yes"
+        },
+        "Karjat": {
+          "status": "yes"
+        },
+        "Kalwa": {
+          "status": "yes"
+        },
+        "Masjid": {
+          "status": "yes"
+        },
+        "Nerul": {
+          "status": "yes"
+        },
+        "Shahad": {
+          "status": "yes"
+        },
+        "Tilak Nagar": {
+          "status": "yes"
+        },
+        "Titwala": {
+          "status": "yes"
+        },
+        "Ulhasnagar": {
+          "status": "yes"
+        },
+        "Vadala Road": {
+          "status": "yes"
+        },
+        "Vitthalwadi": {
+          "status": "yes"
+        },
+        "Vashi": {
+          "status": "yes"
+        },
+        "Ambivli": {
+          "status": "yes"
+        },
+        "Belapur CBD": {
+          "status": "yes"
+        },
+        "Rabale": {
+          "status": "yes"
+        },
+        "Ghansoli": {
+          "status": "yes"
+        },
+        "Juinagar": {
+          "status": "yes"
+        },
+        "Kopar Khairane": {
+          "status": "yes"
+        },
+        "Khandeshwar": {
+          "status": "yes"
+        },
+        "Thakurli": {
+          "status": "yes"
+        },
+        "Mansarovar": {
+          "status": "yes"
+        },
+        "Nahur": {
+          "status": "yes"
+        },
+        "Sanpada": {
+          "status": "yes"
+        },
+        "Sandhaurst Road": {
+          "status": "yes"
+        },
+        "Sewri": {
+          "status": "yes"
+        },
+        "Seawoods Darave": {
+          "status": "yes"
+        },
+        "Vidyavihar": {
+          "status": "yes"
+        },
+        "Chinchpokli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Cotton Green": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "King S Circle": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matunga": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Agasan": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Asangaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Atgaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhivpuri Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chunabhatti": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dockyard Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dolavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khadavali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khardi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khopoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kelavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasara": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Lowjee": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Neral": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Palasdhari": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Parel": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Currey Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Reay Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shelu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Turbhe": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vangani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vasind": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bamandongri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Digha Gaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shematikhar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navha Sheva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dronagiri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Uran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalamboli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Taloje Panchnand": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nilaje": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navde Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kaman Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharbav": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juchandra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Umbermali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thansit": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "ramp_fob": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "unknown",
+          "note": "The official list says it isn't needed at this station"
+        },
+        "Dadar": {
+          "status": "no"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "unknown",
+          "note": "The official list says it isn't needed at this station"
+        },
+        "Thane": {
+          "status": "no"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "no"
+        },
+        "Lonavala": {
+          "status": "yes"
+        },
+        "Matheran": {
+          "status": "unknown",
+          "note": "The official list says it isn't needed at this station"
+        },
+        "Aman Lodge": {
+          "status": "unknown",
+          "note": "The official list says it isn't needed at this station"
+        },
+        "Bhiwandi Road": {
+          "status": "no"
+        },
+        "Igatpuri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Pen": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Roha": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Apta": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Jite": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nagothane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Somatne": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambernath": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Badlapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kurla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dombivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhandup": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Diva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghatkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mulund": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mankhurd": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sion": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vikhroli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mumbra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Airoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Byculla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chembur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Govandi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharghar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kanjurmarg": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Karjat": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalwa": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Masjid": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nerul": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shahad": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Tilak Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Titwala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ulhasnagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vadala Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vitthalwadi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vashi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Belapur CBD": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rabale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghansoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juinagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar Khairane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandeshwar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thakurli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mansarovar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nahur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sanpada": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sandhaurst Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sewri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Seawoods Darave": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vidyavihar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chinchpokli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Cotton Green": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "King S Circle": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matunga": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Agasan": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Asangaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Atgaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhivpuri Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chunabhatti": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dockyard Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dolavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khadavali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khardi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khopoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kelavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasara": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Lowjee": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Neral": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Palasdhari": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Parel": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Currey Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Reay Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shelu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Turbhe": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vangani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vasind": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bamandongri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Digha Gaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shematikhar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navha Sheva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dronagiri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Uran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalamboli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Taloje Panchnand": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nilaje": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navde Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kaman Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharbav": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juchandra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Umbermali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thansit": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "tactile_path": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Dadar": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Thane": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kalyan": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Panvel": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Lonavala": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Matheran": {
+          "status": "no"
+        },
+        "Aman Lodge": {
+          "status": "no"
+        },
+        "Bhiwandi Road": {
+          "status": "no"
+        },
+        "Igatpuri": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Pen": {
+          "status": "no"
+        },
+        "Roha": {
+          "status": "no"
+        },
+        "Apta": {
+          "status": "no"
+        },
+        "Jite": {
+          "status": "no"
+        },
+        "Khandala": {
+          "status": "no"
+        },
+        "Nagothane": {
+          "status": "no"
+        },
+        "Somatne": {
+          "status": "no"
+        },
+        "Ambernath": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Badlapur": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kurla": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Dombivli": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Bhandup": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Diva": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Ghatkopar": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Mulund": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Mankhurd": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Sion": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Vikhroli": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Mumbra": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Airoli": {
+          "status": "yes"
+        },
+        "Byculla": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Chembur": {
+          "status": "no"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "no"
+        },
+        "Govandi": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kharghar": {
+          "status": "yes"
+        },
+        "Kanjurmarg": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Karjat": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kalwa": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Masjid": {
+          "status": "yes"
+        },
+        "Nerul": {
+          "status": "yes"
+        },
+        "Shahad": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Tilak Nagar": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Titwala": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Ulhasnagar": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Vadala Road": {
+          "status": "yes"
+        },
+        "Vitthalwadi": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Vashi": {
+          "status": "yes"
+        },
+        "Ambivli": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Belapur CBD": {
+          "status": "yes"
+        },
+        "Rabale": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Ghansoli": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Juinagar": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kopar Khairane": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Khandeshwar": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Thakurli": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Mansarovar": {
+          "status": "yes"
+        },
+        "Nahur": {
+          "status": "yes"
+        },
+        "Sanpada": {
+          "status": "yes"
+        },
+        "Sandhaurst Road": {
+          "status": "yes"
+        },
+        "Sewri": {
+          "status": "yes"
+        },
+        "Seawoods Darave": {
+          "status": "yes"
+        },
+        "Vidyavihar": {
+          "status": "yes"
+        },
+        "Chinchpokli": {
+          "status": "yes"
+        },
+        "Cotton Green": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "King S Circle": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Matunga": {
+          "status": "yes"
+        },
+        "Agasan": {
+          "status": "no"
+        },
+        "Asangaon": {
+          "status": "yes"
+        },
+        "Atgaon": {
+          "status": "no"
+        },
+        "Bhivpuri Road": {
+          "status": "no"
+        },
+        "Chunabhatti": {
+          "status": "yes"
+        },
+        "Dockyard Road": {
+          "status": "no"
+        },
+        "Dolavli": {
+          "status": "no"
+        },
+        "Khadavali": {
+          "status": "no"
+        },
+        "Khardi": {
+          "status": "no"
+        },
+        "Khopoli": {
+          "status": "no"
+        },
+        "Kelavli": {
+          "status": "no"
+        },
+        "Kopar": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kasara": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Lowjee": {
+          "status": "no"
+        },
+        "Neral": {
+          "status": "no"
+        },
+        "Palasdhari": {
+          "status": "no"
+        },
+        "Parel": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Currey Road": {
+          "status": "yes"
+        },
+        "Reay Road": {
+          "status": "yes"
+        },
+        "Shelu": {
+          "status": "no"
+        },
+        "Turbhe": {
+          "status": "yes"
+        },
+        "Vangani": {
+          "status": "no"
+        },
+        "Vasind": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Bamandongri": {
+          "status": "yes"
+        },
+        "Kharkopar": {
+          "status": "yes"
+        },
+        "Digha Gaon": {
+          "status": "yes"
+        },
+        "Shematikhar": {
+          "status": "yes"
+        },
+        "Navha Sheva": {
+          "status": "yes"
+        },
+        "Dronagiri": {
+          "status": "yes"
+        },
+        "Uran": {
+          "status": "yes"
+        },
+        "Kalamboli": {
+          "status": "yes"
+        },
+        "Taloje Panchnand": {
+          "status": "yes"
+        },
+        "Nilaje": {
+          "status": "yes"
+        },
+        "Navde Road": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kaman Road": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Kharbav": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Juchandra": {
+          "status": "yes",
+          "note": "Not on all platforms"
+        },
+        "Umbermali": {
+          "status": "yes"
+        },
+        "Thansit": {
+          "status": "yes"
+        },
+        "Nidi": {
+          "status": "no"
+        },
+        "Kasu": {
+          "status": "no"
+        },
+        "Hamarapur": {
+          "status": "no"
+        },
+        "Rasayani": {
+          "status": "no"
+        },
+        "Mohope": {
+          "status": "no"
+        },
+        "Chikhale": {
+          "status": "no"
+        },
+        "Chouk": {
+          "status": "no"
+        }
+      }
+    },
+    "battery_car": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes"
+        },
+        "Thane": {
+          "status": "no"
+        },
+        "Kalyan": {
+          "status": "no"
+        },
+        "Panvel": {
+          "status": "no"
+        },
+        "Lonavala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matheran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Aman Lodge": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhiwandi Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Igatpuri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Pen": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Roha": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Apta": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Jite": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nagothane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Somatne": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambernath": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Badlapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kurla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dombivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhandup": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Diva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghatkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mulund": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mankhurd": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sion": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vikhroli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mumbra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Airoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Byculla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chembur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Govandi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharghar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kanjurmarg": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Karjat": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalwa": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Masjid": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nerul": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shahad": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Tilak Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Titwala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ulhasnagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vadala Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vitthalwadi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vashi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Belapur CBD": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rabale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghansoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juinagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar Khairane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandeshwar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thakurli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mansarovar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nahur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sanpada": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sandhaurst Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sewri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Seawoods Darave": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vidyavihar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chinchpokli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Cotton Green": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "King S Circle": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matunga": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Agasan": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Asangaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Atgaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhivpuri Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chunabhatti": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dockyard Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dolavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khadavali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khardi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khopoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kelavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasara": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Lowjee": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Neral": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Palasdhari": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Parel": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Currey Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Reay Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shelu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Turbhe": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vangani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vasind": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bamandongri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Digha Gaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shematikhar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navha Sheva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dronagiri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Uran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalamboli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Taloje Panchnand": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nilaje": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navde Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kaman Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharbav": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juchandra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Umbermali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thansit": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "lift": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes"
+        },
+        "Dadar": {
+          "status": "yes"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes"
+        },
+        "Thane": {
+          "status": "yes"
+        },
+        "Kalyan": {
+          "status": "yes"
+        },
+        "Panvel": {
+          "status": "yes"
+        },
+        "Lonavala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matheran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Aman Lodge": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhiwandi Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Igatpuri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Pen": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Roha": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Apta": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Jite": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nagothane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Somatne": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambernath": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Badlapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kurla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dombivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhandup": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Diva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghatkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mulund": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mankhurd": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sion": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vikhroli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mumbra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Airoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Byculla": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chembur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Guru Tegh Bahadur Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Govandi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharghar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kanjurmarg": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Karjat": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalwa": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Masjid": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nerul": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shahad": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Tilak Nagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Titwala": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ulhasnagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vadala Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vitthalwadi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vashi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ambivli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Belapur CBD": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rabale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Ghansoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juinagar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar Khairane": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khandeshwar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thakurli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mansarovar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nahur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sanpada": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sandhaurst Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Sewri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Seawoods Darave": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vidyavihar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chinchpokli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Cotton Green": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "King S Circle": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Matunga": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Agasan": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Asangaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Atgaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bhivpuri Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chunabhatti": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dockyard Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dolavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khadavali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khardi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Khopoli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kelavli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasara": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Lowjee": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Neral": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Palasdhari": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Parel": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Currey Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Reay Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shelu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Turbhe": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vangani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Vasind": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Bamandongri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharkopar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Digha Gaon": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Shematikhar": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navha Sheva": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Dronagiri": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Uran": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kalamboli": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Taloje Panchnand": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nilaje": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Navde Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kaman Road": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kharbav": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Juchandra": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Umbermali": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Thansit": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Nidi": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Kasu": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Hamarapur": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Rasayani": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Mohope": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chikhale": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        },
+        "Chouk": {
+          "status": "unknown",
+          "note": "Not required at a station of this size, so the official list doesn't say"
+        }
+      }
+    },
+    "human_assistance": {
+      "complete": true,
+      "per_station": {
+        "Chhatrapati Shivaji Maharaj Terminus": {
+          "status": "yes",
+          "note": "Call 9004413911 (CUG)"
+        },
+        "Dadar": {
+          "status": "yes",
+          "note": "Call 8655884069 (CUG)"
+        },
+        "Lokmanya Tilak Terminus": {
+          "status": "yes",
+          "note": "Call 7400098796 (CUG)"
+        },
+        "Thane": {
+          "status": "yes",
+          "note": "Call 8655884016 (CUG)"
+        },
+        "Kalyan": {
+          "status": "yes",
+          "note": "Call 7700919939 (CUG)"
+        },
+        "Panvel": {
+          "status": "yes",
+          "note": "Call 8655884048 (CUG)"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Ambivli": "ABY",
+    "Apta": "APTA",
+    "Asangaon": "ASO",
+    "Atgaon": "ATG",
+    "Badlapur": "BUD",
+    "Bhandup": "BND",
+    "Bhivpuri Road": "BVS",
+    "Bhiwandi Road": "BIRD",
+    "Byculla": "BY",
+    "Chhatrapati Shivaji Maharaj Terminus": "CSMT",
+    "Chikhale": "CKHS",
+    "Dadar": "DR",
+    "Diva": "DIVA",
+    "Ghatkopar": "GC",
+    "Hamarapur": "HMRR",
+    "Igatpuri": "IGP",
+    "Jite": "JITE",
+    "Juchandra": "JCNR",
+    "Kalamboli": "KLMC",
+    "Kalyan": "KYN",
+    "Kaman Road": "KARD",
+    "Kanjurmarg": "KJMG",
+    "Karjat": "KJT",
+    "Kasara": "KSRA",
+    "Kasu": "KASU",
+    "Khandala": "KAD",
+    "Khardi": "KE",
+    "Kurla": "CLA",
+    "Lokmanya Tilak Terminus": "LTT",
+    "Lonavala": "LNL",
+    "Matheran": "MAE",
+    "Mulund": "MLND",
+    "Mumbra": "MBQ",
+    "Nagothane": "NGTN",
+    "Nahur": "NHU",
+    "Neral": "NRL",
+    "Nidi": "NIDI",
+    "Nilaje": "NIIJ",
+    "Panvel": "PNVL",
+    "Pen": "PEN",
+    "Rasayani": "RSYI",
+    "Roha": "ROHA",
+    "Shahad": "SHAD",
+    "Shelu": "SHLU",
+    "Thane": "TNA",
+    "Thansit": "THS",
+    "Ulhasnagar": "ULNR",
+    "Vangani": "VGI",
+    "Vasind": "VSD",
+    "Vidyavihar": "VVH",
+    "Vikhroli": "VK"
+  }
+}
