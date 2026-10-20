@@ -17,6 +17,9 @@ ROOT = Path(__file__).resolve().parent.parent
 DIVISIONS_DIR = ROOT / "data" / "divisions"
 NAMES_FILE = ROOT / "data" / "station_names.json"
 OUT_FILE = ROOT / "site" / "data" / "stations.json"
+COORDS_FILE = ROOT / "data" / "station_coords.json"
+# Phase 2 backend: the stations a visitor can report on, with coordinates for the location check
+BACKEND_FILE = ROOT / "backend" / "stations.json"
 
 
 def _key(name: str) -> str:
@@ -120,10 +123,23 @@ def build(divisions_dir: Path = DIVISIONS_DIR, names_file: Path = NAMES_FILE) ->
     }
 
 
+def backend_stations(data: dict) -> dict:
+    coords = {k: v for k, v in json.loads(COORDS_FILE.read_text(encoding="utf-8")).items() if not k.startswith("_")}
+    out = {}
+    for s in data["stations"]:
+        item = {"name": s["name"], "code": s["code"], "division": s["division"], "aliases": s["aliases"]}
+        if s["code"] in coords:
+            item["lat"], item["lon"] = coords[s["code"]]
+        out[s["id"]] = item
+    return out
+
+
 def main() -> int:
     data = build()
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(json.dumps(data, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    BACKEND_FILE.parent.mkdir(parents=True, exist_ok=True)
+    BACKEND_FILE.write_text(json.dumps(backend_stations(data), ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Wrote {OUT_FILE.relative_to(ROOT)}: {len(data['stations'])} stations "
           f"from {len(data['divisions'])} division(s)")
     return 0
