@@ -33,7 +33,7 @@ Every feature at every station gets one of four states:
 
 ## Data coverage
 
-370 stations from eight divisions in three zones, all parsed from official PDFs:
+378 stations from eleven divisions in four zones. 370 are parsed from official PDFs:
 
 | Division | Zone | Stations | What the PDF gives |
 |---|---|---|---|
@@ -47,6 +47,8 @@ Every feature at every station gets one of four states:
 | Asansol | Eastern | 5 | Explicit YES/NO per station, with platform locations |
 
 The West Central Railway file covers only a sample of each division's stations, not the whole division.
+
+**Western Railway (secondary sources).** Western Railway hasn't published station-wise accessibility lists, so 8 stations (Ahmedabad, Gandhidham, Mahesana, Bhuj, Rajkot, Jamnagar, Okha, Mumbai Central) carry only lift/escalator counts and wheelchair-booking numbers pieced together from a 2023 Lok Sabha answer (as reported by DeshGujarat), IRCTC's e-wheelchair page, a 2022 news report, an older Ahmedabad division presentation and a PIB release. These divisions are marked `"method": "secondary"`, and their station pages say so at the top and list every source. These figures were read from search results because the pages couldn't be fetched directly, so please check them against the sources; corrections are welcome.
 
 Known gaps: three Malda codes (BPBS, NALE, UXN) aren't in the open station list, so those stations show by code until someone adds their names to `data/station_names.json`. Six Bhopal halts have no code yet. PDF typos (Gnandas/Jnandas Kendra, Sainagar Shirdih, …) are merged through aliases.
 

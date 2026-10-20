@@ -1,0 +1,60 @@
+{
+  "division": "Rajkot",
+  "zone": "Western Railway",
+  "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+  "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+  "sources": [
+    {
+      "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+      "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+      "title": "DeshGujarat: Rajkot station gets escalators and lifts (10 Jan 2022)",
+      "url": "https://deshgujarat.com/2022/01/10/rajkot-railway-station-gets-electronic-escalator-lift-other-facilities/"
+    }
+  ],
+  "retrieved": "2026-10-20",
+  "method": "secondary",
+  "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+  "features": {
+    "lift": {
+      "complete": false,
+      "per_station": {
+        "Jamnagar": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Okha": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Rajkot": {
+          "status": "yes",
+          "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023); on PF 2 and 3 (2022 report)"
+        }
+      }
+    },
+    "escalator": {
+      "complete": false,
+      "per_station": {
+        "Jamnagar": {
+          "status": "yes",
+          "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Okha": {
+          "status": "no",
+          "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Rajkot": {
+          "status": "yes",
+          "note": "3 escalators (Lok Sabha answer, as on 31 Jul 2023); on PF 1–3 (2022 report)"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Jamnagar": "JAM",
+    "Rajkot": "RJT",
+    "Okha": "OKHA"
+  }
+}

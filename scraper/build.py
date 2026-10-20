@@ -89,7 +89,7 @@ def build(divisions_dir: Path = DIVISIONS_DIR, names_file: Path = NAMES_FILE) ->
         div = json.loads(path.read_text(encoding="utf-8"))
         out_divisions.append({k: div.get(k) for k in
                               ("division", "zone", "source_title", "source_url",
-                               "retrieved", "method", "method_note")})
+                               "retrieved", "method", "method_note", "sources")})
         codes = {canonical(n, lookup): c for n, c in div.get("station_codes", {}).items()}
         for name, features in build_division(div, lookup).items():
             info = canon.get(name, {})

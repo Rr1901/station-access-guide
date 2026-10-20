@@ -162,6 +162,10 @@ def test_real_build():
     assert {s["code"] for s in data["stations"] if s["name"] == "Madhavnagar"} == {"MDVR", "MDRR"}
     assert by["Malda Town"]["features"]["ramp_second"]["status"] == "yes"      # "Malda." alias
     assert by["Sainagar Shirdi"]["code"] == "SNSI"
+    wr = {d["division"]: d for d in data["divisions"] if d["zone"] == "Western Railway"}
+    assert all(d["method"] == "secondary" and d["sources"] for d in wr.values())
+    assert by["Okha"]["features"]["escalator"]["status"] == "no"
+    assert by["Jamnagar"]["features"]["ramp_entry"]["status"] == "unknown"   # partial source: no "not listed"
     assert by["Howrah"]["code"] == "HWH" and by["Howrah"]["features"]["lift"]["status"] == "yes"
     assert by["Asansol"]["features"]["battery_car"]["status"] == "no"
     assert by["Sealdah"]["features"]["battery_car"]["status"] == "yes"

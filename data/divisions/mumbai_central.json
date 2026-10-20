@@ -1,0 +1,29 @@
+{
+  "division": "Mumbai Central",
+  "zone": "Western Railway",
+  "source_title": "IRCTC e-wheelchair booking page (undated)",
+  "source_url": "https://www.irctctourism.com/wheelchair",
+  "sources": [
+    {
+      "title": "IRCTC e-wheelchair booking page (undated)",
+      "url": "https://www.irctctourism.com/wheelchair"
+    }
+  ],
+  "retrieved": "2026-10-20",
+  "method": "secondary",
+  "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+  "features": {
+    "wheelchair_booking": {
+      "complete": false,
+      "per_station": {
+        "Mumbai Central": {
+          "status": "yes",
+          "note": "IRCTC e-wheelchair: call 7021092600, collect at the concourse, book at least 6 hours ahead (IRCTC listing, undated)"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Mumbai Central": "MMCT"
+  }
+}

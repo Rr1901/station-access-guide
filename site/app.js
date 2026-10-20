@@ -102,6 +102,8 @@
         <h1 tabindex="-1" id="st-title">${esc(st.name)}${st.code ? `<span class="st-code" aria-label="Station code ${esc(st.code)}">${esc(st.code)}</span>` : ""}</h1>
         <p class="st-sub">${esc(st.division)} division · ${esc(st.zone)}</p>
       </div>
+      ${div.method === "secondary" ? `<div class="caveat"><p><strong>Not from an official station list.</strong> ${esc(div.method_note || "")} Call 139 or the station before you travel.</p>
+        <ul>${(div.sources || []).map((x) => `<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a></li>`).join("")}</ul></div>` : ""}
       <div class="summary">
         <div class="yes"><strong>${counts.yes}</strong><span>available</span></div>
         <div class="not_listed"><strong>${counts.not_listed}</strong><span>not available</span></div>

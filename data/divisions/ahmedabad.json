@@ -1,0 +1,82 @@
+{
+  "division": "Ahmedabad",
+  "zone": "Western Railway",
+  "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+  "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+  "sources": [
+    {
+      "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+      "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+      "title": "IRCTC e-wheelchair booking page (undated)",
+      "url": "https://www.irctctourism.com/wheelchair"
+    },
+    {
+      "title": "Ahmedabad division presentation (undated, about 2020–21)",
+      "url": "https://www.readkong.com/page/ahmedabad-division-western-railway-2295689"
+    },
+    {
+      "title": "PIB: lifts, escalators and FOBs at Western Railway stations",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298294&reg=48&lang=2"
+    }
+  ],
+  "retrieved": "2026-10-20",
+  "method": "secondary",
+  "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+  "features": {
+    "lift": {
+      "complete": false,
+      "per_station": {
+        "Ahmedabad": {
+          "status": "yes",
+          "note": "7 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Gandhidham": {
+          "status": "yes",
+          "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Mahesana": {
+          "status": "yes",
+          "note": "4 lifts (division presentation, about 2020–21; may be out of date)"
+        },
+        "Bhuj": {
+          "status": "yes",
+          "note": "2 lifts (division presentation, about 2020–21; more lifts are part of the new Bhuj station works (PIB))"
+        }
+      }
+    },
+    "escalator": {
+      "complete": false,
+      "per_station": {
+        "Ahmedabad": {
+          "status": "yes",
+          "note": "14 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Gandhidham": {
+          "status": "yes",
+          "note": "4 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+        },
+        "Bhuj": {
+          "status": "no",
+          "note": "Escalators are part of the new Bhuj station works (PIB)"
+        }
+      }
+    },
+    "wheelchair_booking": {
+      "complete": false,
+      "per_station": {
+        "Ahmedabad": {
+          "status": "yes",
+          "note": "IRCTC e-wheelchair: call 8287931890, collect at the concourse, book at least 6 hours ahead (IRCTC listing, undated)"
+        }
+      }
+    }
+  },
+  "station_codes": {
+    "Ahmedabad": "ADI",
+    "Gandhidham": "GIMB",
+    "Mahesana": "MSH",
+    "Bhuj": "BHUJ"
+  }
+}

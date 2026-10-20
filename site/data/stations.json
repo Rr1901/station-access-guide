@@ -76,13 +76,41 @@
  ],
  "divisions": [
   {
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+   "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+   "retrieved": "2026-10-20",
+   "method": "secondary",
+   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+   "sources": [
+    {
+     "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+     "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+     "title": "IRCTC e-wheelchair booking page (undated)",
+     "url": "https://www.irctctourism.com/wheelchair"
+    },
+    {
+     "title": "Ahmedabad division presentation (undated, about 2020–21)",
+     "url": "https://www.readkong.com/page/ahmedabad-division-western-railway-2295689"
+    },
+    {
+     "title": "PIB: lifts, escalators and FOBs at Western Railway stations",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298294&reg=48&lang=2"
+    }
+   ]
+  },
+  {
    "division": "Asansol",
    "zone": "Eastern Railway",
    "source_title": "Accessibility data – Asansol division (Eastern Railway)",
    "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748659731723-ASNDivyang.pdf",
    "retrieved": "2026-10-19",
    "method": "parsed-station",
-   "method_note": null
+   "method_note": null,
+   "sources": null
   },
   {
    "division": "Bhopal",
@@ -91,7 +119,8 @@
    "source_url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/GATI-SHAKTI/2025/WCR_Divyangjan%20compliance%20station.pdf",
    "retrieved": "2026-10-20",
    "method": "parsed-station",
-   "method_note": null
+   "method_note": null,
+   "sources": null
   },
   {
    "division": "Howrah",
@@ -100,7 +129,8 @@
    "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748610497959-Accessibility%20data%20HWH%20division.pdf",
    "retrieved": "2026-10-19",
    "method": "parsed-list",
-   "method_note": null
+   "method_note": null,
+   "sources": null
   },
   {
    "division": "Jabalpur",
@@ -109,7 +139,8 @@
    "source_url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/GATI-SHAKTI/2025/WCR_Divyangjan%20compliance%20station.pdf",
    "retrieved": "2026-10-20",
    "method": "parsed-station",
-   "method_note": null
+   "method_note": null,
+   "sources": null
   },
   {
    "division": "Kota",
@@ -118,7 +149,8 @@
    "source_url": "https://indianrailways.gov.in/railwayboard/uploads/directorate/GATI-SHAKTI/2025/WCR_Divyangjan%20compliance%20station.pdf",
    "retrieved": "2026-10-20",
    "method": "parsed-station",
-   "method_note": null
+   "method_note": null,
+   "sources": null
   },
   {
    "division": "Malda",
@@ -127,7 +159,23 @@
    "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748616673718-Divyangjan%20facilities.pdf",
    "retrieved": "2026-10-20",
    "method": "parsed-list",
-   "method_note": null
+   "method_note": null,
+   "sources": null
+  },
+  {
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "source_title": "IRCTC e-wheelchair booking page (undated)",
+   "source_url": "https://www.irctctourism.com/wheelchair",
+   "retrieved": "2026-10-20",
+   "method": "secondary",
+   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+   "sources": [
+    {
+     "title": "IRCTC e-wheelchair booking page (undated)",
+     "url": "https://www.irctctourism.com/wheelchair"
+    }
+   ]
   },
   {
    "division": "Pune",
@@ -136,7 +184,27 @@
    "source_url": "https://cr.indianrailways.gov.in/cris//uploads/files/1748408015007-Station%20wise%20divyangjan%20amenities.pdf",
    "retrieved": "2026-10-20",
    "method": "parsed-grid",
-   "method_note": null
+   "method_note": null,
+   "sources": null
+  },
+  {
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "source_title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+   "source_url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/",
+   "retrieved": "2026-10-20",
+   "method": "secondary",
+   "method_note": "Western Railway has not published a station-wise accessibility list for this division. These details are pieced together from the sources below, some several years old; they may have changed and don't say whether lifts are working. Anything else shows as \"No data yet\".",
+   "sources": [
+    {
+     "title": "Lok Sabha answer on lifts and escalators in Gujarat, as on 31 Jul 2023 (DeshGujarat, 11 Aug 2023)",
+     "url": "https://deshgujarat.com/2023/08/11/39-railway-stations-in-gujarat-have-escalators/"
+    },
+    {
+     "title": "DeshGujarat: Rajkot station gets escalators and lifts (10 Jan 2022)",
+     "url": "https://deshgujarat.com/2022/01/10/rajkot-railway-station-gets-electronic-escalator-lift-other-facilities/"
+    }
+   ]
   },
   {
    "division": "Sealdah",
@@ -145,7 +213,8 @@
    "source_url": "https://er.indianrailways.gov.in/cris//uploads/files/1748659654741-sdahdivyang.pdf",
    "retrieved": "2026-10-19",
    "method": "parsed-list",
-   "method_note": null
+   "method_note": null,
+   "sources": null
   }
  ],
  "stations": [
@@ -470,6 +539,73 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "ahmedabad",
+   "name": "Ahmedabad",
+   "code": "ADI",
+   "aliases": [],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "yes",
+     "note": "IRCTC e-wheelchair: call 8287931890, collect at the concourse, book at least 6 hours ahead (IRCTC listing, undated)"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "7 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "14 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -4180,6 +4316,72 @@
    }
   },
   {
+   "id": "bhuj",
+   "name": "Bhuj",
+   "code": "BHUJ",
+   "aliases": [],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (division presentation, about 2020–21; more lifts are part of the new Bhuj station works (PIB))"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "Escalators are part of the new Bhuj station works (PIB)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "bikram-shila",
    "name": "Bikram Shila",
    "code": "BKSL",
@@ -7232,6 +7434,72 @@
    }
   },
   {
+   "id": "gandhidham",
+   "name": "Gandhidham",
+   "code": "GIMB",
+   "aliases": [],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "4 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "gangani",
    "name": "Gangani",
    "code": "GNNA",
@@ -9222,6 +9490,72 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "jamnagar",
+   "name": "Jamnagar",
+   "code": "JAM",
+   "aliases": [],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "2 escalators (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -14402,6 +14736,71 @@
    }
   },
   {
+   "id": "mahesana",
+   "name": "Mahesana",
+   "code": "MSH",
+   "aliases": [],
+   "division": "Ahmedabad",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "4 lifts (division presentation, about 2020–21; may be out of date)"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
    "id": "maheshi",
    "name": "Maheshi",
    "code": "MVV",
@@ -15947,6 +16346,71 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "mumbai-central",
+   "name": "Mumbai Central",
+   "code": "MMCT",
+   "aliases": [],
+   "division": "Mumbai Central",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "yes",
+     "note": "IRCTC e-wheelchair: call 7021092600, collect at the concourse, book at least 6 hours ahead (IRCTC listing, undated)"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "unknown"
+    },
+    "escalator": {
+     "status": "unknown"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
@@ -17649,6 +18113,72 @@
     },
     "braille_signage": {
      "status": "not_listed"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
+    }
+   }
+  },
+  {
+   "id": "okha",
+   "name": "Okha",
+   "code": "OKHA",
+   "aliases": [],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "2 lifts (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "escalator": {
+     "status": "no",
+     "note": "None listed (Lok Sabha answer, as on 31 Jul 2023)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
     },
     "boarding_ramp": {
      "status": "unknown"
@@ -19567,6 +20097,72 @@
     },
     "boarding_ramp": {
      "status": "not_listed"
+    }
+   }
+  },
+  {
+   "id": "rajkot",
+   "name": "Rajkot",
+   "code": "RJT",
+   "aliases": [],
+   "division": "Rajkot",
+   "zone": "Western Railway",
+   "features": {
+    "wheelchair": {
+     "status": "unknown"
+    },
+    "wheelchair_booking": {
+     "status": "unknown"
+    },
+    "battery_car": {
+     "status": "unknown"
+    },
+    "human_assistance": {
+     "status": "unknown"
+    },
+    "lift": {
+     "status": "yes",
+     "note": "3 lifts (Lok Sabha answer, as on 31 Jul 2023); on PF 2 and 3 (2022 report)"
+    },
+    "escalator": {
+     "status": "yes",
+     "note": "3 escalators (Lok Sabha answer, as on 31 Jul 2023); on PF 1–3 (2022 report)"
+    },
+    "ramp_entry": {
+     "status": "unknown"
+    },
+    "ramp_second": {
+     "status": "unknown"
+    },
+    "ramp_fob": {
+     "status": "unknown"
+    },
+    "accessible_toilet": {
+     "status": "unknown"
+    },
+    "water_booth": {
+     "status": "unknown"
+    },
+    "parking": {
+     "status": "unknown"
+    },
+    "help_booth": {
+     "status": "unknown"
+    },
+    "low_counter": {
+     "status": "unknown"
+    },
+    "tactile_path": {
+     "status": "unknown"
+    },
+    "braille_map": {
+     "status": "unknown"
+    },
+    "braille_signage": {
+     "status": "unknown"
+    },
+    "boarding_ramp": {
+     "status": "unknown"
     }
    }
   },
