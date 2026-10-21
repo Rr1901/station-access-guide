@@ -2,7 +2,9 @@
 
 Search an Indian railway station and see, on one page, whether it has lifts, ramps, wheelchairs, battery cars, accessible toilets and other facilities, with booking phone numbers where they exist.
 
-**Live site:** https://rr1901.github.io/station-access-guide/ (after GitHub Pages is switched on, see below)
+**Live site:** https://railclub.github.io/rail-club-station-access/
+
+Part of **Rail Club**, an unofficial, crowd-sourced companion for Indian rail travellers (see [Where this is going](#where-this-is-going)). Not affiliated with Indian Railways or IRCTC.
 
 ## Why
 
@@ -65,10 +67,39 @@ Known gaps: three Malda codes (BPBS, NALE, UXN) aren't in the open station list,
 
 Next: other zones' station-wise PDFs (Northern, Western, Southern, South Central, …), which aren't indexed by search engines; they need to be found on each zone's website.
 
-## Roadmap
+## Where this is going
 
-- **Phase 1 (now):** official divisional PDFs, plus clearly labelled secondary sources where a zone hasn't published any.
-- **Phase 2:** visitors record a short video at a station; Gemini checks the location and station boards and lists the facilities it sees. See [docs/phase-2-video-reports.md](docs/phase-2-video-reports.md).
+The goal is a free, crowd-sourced hub where Indian rail travellers help each other have a better journey, with things the official apps don't cover. Booking, PNR and live running status stay with IRCTC and NTES; this site doesn't try to replace them.
+
+```
+Rail Club
+├── 🚉 Stations   → accessibility · platform & coach guide · getting in & out · safety · Q&A
+├── 🚆 Journeys   → Journey Partner (scenic sights, left/right side, timings) · train reviews
+└── 👥 Community  → add & confirm · Ask a Traveller · top contributors
+```
+
+| Order | Section | Status |
+|---|---|---|
+| Now | 🚉 **Stations**: accessibility from official lists | Live: 688 stations, 16 divisions |
+| Next | 🚉 **Stations**: visitor video reports, checked by Gemini ([plan](docs/phase-2-video-reports.md)) | Designed; backend: Supabase |
+| Next | 🪟 **Journey Partner**: enter a train and from → to stations, see sights along the way (rivers, bridges, waterfalls, ghats, forts) with timing and **left/right side**; travellers add and confirm sights | Pilot: Mumbai → Pune via Bhor Ghat |
+| Then | 🧭 **Platform & Coach Guide**, 🚕 **Getting In & Out**, ⚠️ **Safety & Scam Alerts** | Inside station pages |
+| Then | ⭐ **Train Reviews**, 💬 **Ask a Traveller** | Inside journey pages and Community |
+| Later | 🍛 **Food on the Line** (famous station foods, stalls, pantry) | Parked until the community is active |
+| Later | 📡 **Live reports** (platform changes, AC not working, delays) | Needs many daily users |
+
+How Journey Partner works:
+- Sights belong to the **track**, not the train, so one contribution helps every train on that line.
+- Each sight is stored by its map position, so left/right is worked out for the direction of travel: a bridge on the left going Mumbai → Pune is on the right going back.
+- Times are shown relative to stations ("~25 min after Karjat"), with "after dark" and seasonal ("Jul–Sep") labels.
+- Track and sight locations come from OpenStreetMap (© OpenStreetMap contributors) and from travellers.
+
+Principles that don't change:
+- Clearly unofficial: no railway logos or names that look official.
+- Every fact shows its source and date; "no data yet" is never shown as "not available".
+- Crowd contributions are confirmed by other travellers or reviewed before they count; first contributions are always reviewed.
+- Privacy first: minimal personal data, no audio, videos deleted after review.
+- Start with one region (Mumbai, Pune, Gujarat) and fill it well before spreading out.
 
 ## Run it locally
 

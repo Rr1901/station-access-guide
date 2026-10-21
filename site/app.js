@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const REPO = "https://github.com/Rr1901/station-access-guide";
+  const REPO = "https://github.com/railclub/rail-club-station-access";
   const GROUPS = [
     { title: "Getting around", keys: ["lift", "escalator", "ramp_entry", "ramp_second", "ramp_fob", "battery_car", "boarding_ramp"] },
     { title: "Help on hand", keys: ["wheelchair", "wheelchair_booking", "human_assistance", "help_booth"] },
