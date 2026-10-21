@@ -134,7 +134,7 @@ Pushing to `main` runs the tests, rebuilds the data and publishes `site/` to Git
 
 ## Corrections
 
-Every station page has a "Something wrong or missing?" link that opens a GitHub issue for that station.
+Every station page has a "Something wrong or missing?" link that opens a GitHub issue for that station. For anything else (corrections without a GitHub account, privacy or deletion requests, complaints) write to **railclub.support@gmail.com**.
 
 ## Disclaimer
 
