@@ -18,6 +18,9 @@ Supabase → your project → ⚙️ **Project Settings → General**. Region sh
 
 ## 2. Create the database (5 min)
 
+**Done (22 Oct 2026, via the Supabase connector):** the migration is applied. Only step 3 below,
+adding the admin email, is still to do.
+
 1. Supabase → **SQL Editor → New query**.
 2. Paste the whole of [`supabase/migrations/20261022000000_phase2_visitor_reports.sql`](../supabase/migrations/20261022000000_phase2_visitor_reports.sql) and click **Run**. It should say "Success. No rows returned".
 3. New query, add yourself as the reviewer (your admin Google account, lowercase):
@@ -72,6 +75,9 @@ Supabase → your project → ⚙️ **Project Settings → General**. Region sh
    | `GEMINI_MODEL` | optional, default `gemini-2.5-flash`; set this if Google has renamed or retired it |
 
 ## 5. Deploy the server functions (10 min)
+
+**Done (22 Oct 2026, via the Supabase connector):** all three functions are deployed. Redeploy
+with the commands below after changing any file in `supabase/functions/`.
 
 On any computer with Node.js installed, in a copy of this repository:
 
