@@ -3,7 +3,7 @@
 Everything is built and tested; these steps connect it to your accounts. Allow about an hour.
 Nothing here changes the live site until the last step.
 
-Your project: `https://uqocpkpaploskwavrppb.supabase.co`
+Your project: `https://szhspqlvgiuqgbavfuhz.supabase.co`
 Site: `https://railclub.github.io/rail-club-station-access/`
 
 **Never paste a secret key into chat, the code or GitHub.** Secrets go only into the Supabase and
@@ -43,7 +43,7 @@ Supabase → your project → ⚙️ **Project Settings → General**. Region sh
    The app only asks for name and email, so Google normally doesn't require a review.
 4. **Clients → Create client → Web application**, name `Rail Club web`:
    - Authorised JavaScript origins: `https://railclub.github.io`
-   - Authorised redirect URIs: `https://uqocpkpaploskwavrppb.supabase.co/auth/v1/callback`
+   - Authorised redirect URIs: `https://szhspqlvgiuqgbavfuhz.supabase.co/auth/v1/callback`
 5. Copy the **Client ID** and **Client secret** (keep the secret to yourself).
 
 **In Supabase:**
@@ -77,8 +77,8 @@ On any computer with Node.js installed, in a copy of this repository:
 
 ```bash
 npx supabase login
-npx supabase functions deploy submit-report review-report --project-ref uqocpkpaploskwavrppb
-npx supabase functions deploy cleanup --no-verify-jwt --project-ref uqocpkpaploskwavrppb
+npx supabase functions deploy submit-report review-report --project-ref szhspqlvgiuqgbavfuhz
+npx supabase functions deploy cleanup --no-verify-jwt --project-ref szhspqlvgiuqgbavfuhz
 ```
 
 Check: Supabase → **Edge Functions** lists `submit-report`, `review-report` and `cleanup`.
@@ -108,7 +108,7 @@ Supabase → **Integrations → Cron** → enable → **Create job**:
 
 | Symptom | Likely cause |
 |---|---|
-| Google says "redirect_uri_mismatch" | Step 3.4 redirect URI must be exactly `https://uqocpkpaploskwavrppb.supabase.co/auth/v1/callback` |
+| Google says "redirect_uri_mismatch" | Step 3.4 redirect URI must be exactly `https://szhspqlvgiuqgbavfuhz.supabase.co/auth/v1/callback` |
 | Back on the site but not signed in | Step 3.7: the page URL isn't in Supabase's Redirect URLs |
 | "Only reviewers can do this" on admin.html | Step 2.3: email in `admins` must match the Google account, in lowercase |
 | Every report goes to review with "Waiting for a reviewer" | `GEMINI_API_KEY` missing, Gemini error, or the monthly cap reached; see Edge Functions → submit-report → Logs |
