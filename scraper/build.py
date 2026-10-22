@@ -18,8 +18,9 @@ DIVISIONS_DIR = ROOT / "data" / "divisions"
 NAMES_FILE = ROOT / "data" / "station_names.json"
 OUT_FILE = ROOT / "site" / "data" / "stations.json"
 COORDS_FILE = ROOT / "data" / "station_coords.json"
-# Phase 2 backend: the stations a visitor can report on, with coordinates for the location check
-BACKEND_FILE = ROOT / "supabase" / "functions" / "_shared" / "stations.json"
+# Phase 2 backend: the stations a visitor can report on, with coordinates for the location check.
+# Published with the site; the Supabase functions fetch it (see supabase/functions/_shared/server.ts).
+BACKEND_FILE = ROOT / "site" / "data" / "backend-stations.json"
 
 
 def _key(name: str) -> str:

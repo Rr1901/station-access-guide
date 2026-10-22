@@ -3,7 +3,7 @@
 //   { action: "approve", report_id, features: [...] }    → publish those facilities, delete the video
 //   { action: "reject",  report_id, reason }             → reject, delete the video
 import { VIDEO_FEATURES } from "../_shared/rules.ts";
-import { adminClient, BUCKET, currentUser, isAdmin, istDate, preflight, reply, stations } from "../_shared/server.ts";
+import { adminClient, BUCKET, currentUser, isAdmin, istDate, loadStations, preflight, reply } from "../_shared/server.ts";
 
 Deno.serve(async (req) => {
   const early = preflight(req);
@@ -21,6 +21,7 @@ Deno.serve(async (req) => {
       .select("id, station_id, claimed_features, suggested_features, distance_m, accuracy_m, duration_s, recorded_at, created_at, decided_by, reasons, gemini, video_path, user_id")
       .eq("status", "pending").order("created_at").limit(50);
     if (error) return reply(req, { error: "Couldn't load the queue" }, 500);
+    const stations = await loadStations();
     const items = await Promise.all((data ?? []).map(async (r) => {
       // 10-minute link: enough to watch, useless if copied somewhere
       const { data: signed } = await admin.storage.from(BUCKET).createSignedUrl(r.video_path, 600);

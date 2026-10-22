@@ -8,7 +8,7 @@ import {
 } from "../_shared/rules.ts";
 import { checkVideo, PROMPT_VERSION } from "../_shared/gemini.ts";
 import {
-  adminClient, BUCKET, currentUser, istDate, istStartOf, loadLimits, preflight, reply, stations,
+  adminClient, BUCKET, currentUser, istDate, istStartOf, loadLimits, loadStations, preflight, reply,
 } from "../_shared/server.ts";
 
 const MODEL = Deno.env.get("GEMINI_MODEL") ?? "gemini-2.5-flash";
@@ -23,7 +23,7 @@ Deno.serve(async (req) => {
 
   const input = parseInput(await req.json().catch(() => null), user.id);
   if (typeof input === "string") return reply(req, { error: input }, 400);
-  const station = stations[input.station_id];
+  const station = (await loadStations())[input.station_id];
   if (!station) return reply(req, { error: "Unknown station" }, 400);
 
   const limits = await loadLimits(admin);

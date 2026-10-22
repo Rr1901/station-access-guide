@@ -1,11 +1,28 @@
 // Plumbing shared by the Edge Functions: CORS, JSON replies, the service-role client,
 // the signed-in user, settings and stations.
 import { createClient, type SupabaseClient, type User } from "npm:@supabase/supabase-js@2.117.3";
-import stationsJson from "./stations.json" with { type: "json" };
 import type { Limits, Station } from "./rules.ts";
 
 export const BUCKET = "report-videos";
-export const stations = stationsJson as Record<string, Station>;
+
+// The station list (names, codes, coordinates, what the official data already confirms) is built by
+// scraper/build.py and published with the site; cached here for an hour.
+const STATIONS_URL = Deno.env.get("STATIONS_URL") ??
+  "https://railclub.github.io/rail-club-station-access/data/backend-stations.json";
+let stationCache: { at: number; data: Record<string, Station> } | null = null;
+
+export async function loadStations(): Promise<Record<string, Station>> {
+  if (stationCache && Date.now() - stationCache.at < 3_600_000) return stationCache.data;
+  try {
+    const res = await fetch(STATIONS_URL, { signal: AbortSignal.timeout(10_000) });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    stationCache = { at: Date.now(), data: await res.json() };
+  } catch (e) {
+    if (!stationCache) throw new Error(`Station list unavailable: ${(e as Error).message}`);
+    // keep serving the last good copy
+  }
+  return stationCache!.data;
+}
 
 // Only the Rail Club site may call these functions from a browser.
 const ORIGINS = (Deno.env.get("ALLOWED_ORIGINS") ?? "https://railclub.github.io,http://localhost:8000")
