@@ -128,15 +128,21 @@
             }).join("")}
           </ul>
         </section>`).join("")}
+      <div id="visitor-slot"></div>
       <a class="report" href="${issue}" target="_blank" rel="noopener">Something wrong or missing? Tell us</a>
       <p class="src">Source: <a href="${esc(div.source_url || "#")}" target="_blank" rel="noopener">${esc(div.source_title || "Indian Railways")}</a>, checked ${esc(div.retrieved || "")}.
       ${st.features && Object.values(st.features).some((f) => f.status === "unknown") ? "“No data yet” means this division hasn't published that detail by station." : ""}
       ${div.method !== "secondary" && div.method_note ? esc(div.method_note) : ""}</p>`;
     document.title = `${st.name} accessibility · Station Access Guide`;
     $("st-title").focus();
+    // Visitor reports (report.js) fill #visitor-slot. It may load after this runs, so it also
+    // reads window.stationShown when it starts.
+    window.stationShown = { station: st, labels };
+    document.dispatchEvent(new CustomEvent("station:shown", { detail: window.stationShown }));
   }
 
   function route() {
+    if (!data) return; // the fetch below calls route() once stations have loaded
     const m = location.hash.match(/^#\/s\/([a-z0-9-]+)/);
     $("view-search").hidden = !!m;
     $("view-station").hidden = !m;

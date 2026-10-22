@@ -1,6 +1,22 @@
 # Phase 2: visitor video reports
 
-Status: planned, not started.
+Status: **built and tested, not switched on yet.** Backend: Supabase (Auth, Postgres, Storage,
+Edge Functions) with Gemini. To switch it on, follow [phase-2-setup.md](phase-2-setup.md).
+
+Where things are:
+- Gates and decision rules: `supabase/functions/_shared/rules.ts` (tests in `supabase/functions/tests/`)
+- Gemini prompt, schema and answer checks: `supabase/functions/_shared/gemini.ts`
+- Server functions: `submit-report`, `review-report` (admins), `cleanup` (daily)
+- Database, security rules and the private video bucket: `supabase/migrations/`
+- Station page section and recording flow: `site/report.js`; review queue: `site/admin.html`;
+  privacy notice: `site/privacy.html`; on/off switch: `site/config.js`
+
+Gates, in order (free ones first, Gemini last): signed in → not blocked → daily limits (3 per person,
+20 per station) → GPS within the station area (400 m, up to 700 m for big stations) and accurate to
+100 m → recorded live, 15–60 s, uploaded within 10 minutes → real video file under 12 MB → not a
+duplicate → still needed (not official "yes", not confirmed by 2 visitors in 90 days) → monthly
+Gemini budget → Gemini → decision rules. The station board is a bonus, not a requirement; Gemini
+checks the scene is inside a railway station.
 
 Most divisions haven't published station-wise accessibility data. Phase 2 lets
 visitors fill the gaps by recording a short video at a station; Gemini checks it

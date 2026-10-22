@@ -25,6 +25,8 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: python -m pytest -q tests
+      - name: Test Phase 2 server rules (Supabase Edge Functions)
+        run: npx -y deno@2.9.6 test supabase/functions/tests/ && npx -y deno@2.9.6 check supabase/functions/*/index.ts
       - run: python scraper/build.py
       - uses: actions/upload-pages-artifact@v5
         with:

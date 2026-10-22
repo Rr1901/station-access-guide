@@ -19,7 +19,7 @@ NAMES_FILE = ROOT / "data" / "station_names.json"
 OUT_FILE = ROOT / "site" / "data" / "stations.json"
 COORDS_FILE = ROOT / "data" / "station_coords.json"
 # Phase 2 backend: the stations a visitor can report on, with coordinates for the location check
-BACKEND_FILE = ROOT / "backend" / "stations.json"
+BACKEND_FILE = ROOT / "supabase" / "functions" / "_shared" / "stations.json"
 
 
 def _key(name: str) -> str:
@@ -127,7 +127,9 @@ def backend_stations(data: dict) -> dict:
     coords = {k: v for k, v in json.loads(COORDS_FILE.read_text(encoding="utf-8")).items() if not k.startswith("_")}
     out = {}
     for s in data["stations"]:
-        item = {"name": s["name"], "code": s["code"], "division": s["division"], "aliases": s["aliases"]}
+        item = {"name": s["name"], "code": s["code"], "division": s["division"], "aliases": s["aliases"],
+                # features the official data already confirms: a visitor video adds nothing there
+                "official_yes": sorted(k for k, f in s["features"].items() if f["status"] == YES)}
         if s["code"] in coords:
             item["lat"], item["lon"] = coords[s["code"]]
         out[s["id"]] = item
